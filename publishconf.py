@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
+# This file is only used when publishing the site (`make publish/rsync_upload/etc`)
 
 import os
 import sys
