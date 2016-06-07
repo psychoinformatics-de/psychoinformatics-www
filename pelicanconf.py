@@ -15,6 +15,8 @@ DEFAULT_LANG = u'en'
 PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = []
 
+THEME = 'pelican-theme'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
