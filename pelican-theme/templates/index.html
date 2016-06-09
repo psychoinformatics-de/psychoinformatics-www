@@ -13,9 +13,6 @@
       <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
       {% endfor %}
       {% endif %}
-      {% if DISQUS_SITENAME %}
-      &#8226; <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Leave a comment</a>
-      {% endif %}
     </p>
   </header>
   <div>
@@ -35,6 +32,4 @@
 {% include "partial/pagination.html" %}
 {% endblock %}
 
-{% block additional_js %}
-  {% include "partial/disqus_count.html" %}
-{% endblock %}
+{% block additional_js %}{% endblock %}
