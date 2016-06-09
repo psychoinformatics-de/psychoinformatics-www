@@ -4,7 +4,6 @@
 <meta name="author" content="{{ article.author.name }}" />
 <meta name="description" content="{{ article.summary|striptags }}" />
 <meta name="keywords" content="{{ article.tags|join(', ') }}">
-{% include "partial/og_article.html" %}
 {% endblock %}
 
 {% block title %} &ndash; {{ article.title|striptags }}{% endblock %}
