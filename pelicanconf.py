@@ -6,7 +6,8 @@ from __future__ import unicode_literals
 # About the site
 #
 AUTHOR = u'Michael Hanke & Alex Waite'
-SITENAME = u'Psyschoinformatics at OvGU'
+SITETITLE = u'Psyschoinformatics'
+SITESUBTITLE = u'at OvGU'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Berlin'
