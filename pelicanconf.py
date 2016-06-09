@@ -31,10 +31,11 @@ AUTHOR_FEED_RSS = None
 #
 # Configure the site
 #
-MENUITEMS = (('About', '/pages/about.html'),
-             ('Access', '/pages/access.html'),
-             ('Data', '/pages/data.html'),
-             ('Publications', 'pages/publications.html'),
+MENUITEMS = (('Research', '/research.html'),
+             ('Software', '/software.html'),
+             ('Members', '/lab-members.html'),
+             ('Publications', '/publications.html'),
+             ('Contact', '/contact.html'),
 )
 #LINKS = ()
 SOCIAL = (('github', 'https://github.com/psychoinformatics-de'),)
