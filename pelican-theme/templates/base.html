@@ -71,14 +71,7 @@
 
     {% block content %}{% endblock %}
 
-    <footer>
-      {% if CC_LICENSE %}
-        {% include "partial/cc_license.html" %}
-      {% else %}
-        <p>&copy; {{ AUTHOR }} {{ COPYRIGHT_YEAR }}</p>
-        {% include "partial/flex.html" %}
-      {% endif %}
-    </footer>
+    {% include "partial/footer.html" %}
   </main>
 
   {% if GOOGLE_ANALYTICS %}
