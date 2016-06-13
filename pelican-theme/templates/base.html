@@ -36,14 +36,13 @@
 <body>
   <aside>
     <div>
-      <a href="{{ SITEURL }}">
+      <a href="/">
         <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
       </a>
       <h1><a href="{{ SITEURL }}">{{ SITETITLE }}</a></h1>
       {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
       <nav>
         <ul class="list">
-          <li><a href="{{ SITEURL }}">Home</a></li>
           {% for title, link in MENUITEMS %}
           <li><a href="{{ link }}">{{ title }}</a></li>
           {% endfor %}

@@ -32,7 +32,8 @@ AUTHOR_FEED_RSS = None
 #
 # Configure the site
 #
-MENUITEMS = (('Research', '/research.html'),
+MENUITEMS = (('Home', '/'),
+             ('Research', '/research.html'),
              ('Software', '/software.html'),
              ('Members', '/lab-members.html'),
              ('Publications', '/publications.html'),
