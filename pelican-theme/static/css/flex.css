@@ -311,3 +311,14 @@ ul.social a.sc-reddit {
     padding: 2px;
   }
 }
+
+
+
+main {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+main #content {
+  flex: 1;
+}
