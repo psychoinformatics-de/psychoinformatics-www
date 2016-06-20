@@ -35,13 +35,22 @@ Notes:
 ----
 
 Files:
-  theme/css/font-awesome.min.css
+  theme/fonts/quicksand\*
 Copyright:
-  `Font Awesome`_
+  Andrew Paglinawan
 License:
-  `MIT`_
+  `SIL OFL 1.1`_
 
-.. _Font Awesome: http://fontawesome.io/
+.. _SIL OFL 1.1: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+
+----
+
+Files:
+  theme/fonts/raleway\*
+Copyright:
+  Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+License:
+  `SIL OFL 1.1`_
 
 ----
 
@@ -52,4 +61,13 @@ Copyright:
 License:
   `SIL OFL 1.1`_
 
-.. _SIL OFL 1.1: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+----
+
+Files:
+  theme/css/font-awesome.min.css
+Copyright:
+  `Font Awesome`_
+License:
+  `MIT`_
+
+.. _Font Awesome: http://fontawesome.io/
