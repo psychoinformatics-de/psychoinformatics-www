@@ -13,8 +13,13 @@ a number of software developments that target a larger audience, and have
 reached significant adoption. This page offers a compact overview of a selection
 of Free and open-source software.
 
-PyMVPA
-------
+.. raw:: html
+
+  <section class="alternate">
+
+.. image:: {filename}/img/logo/pymvpa.png
+   :alt: PyMPVA Logo
+   :target: http://www.pymvpa.org/
 
 PyMVPA is a toolbox for multivariate pattern analysis of neuroscientific data.
 It is a Python-based, platform-independent, and open-source solution that aids
@@ -29,8 +34,14 @@ on PyMVPA has been published in the journal `Frontiers in Neuroinformatics
 <http://www.frontiersin.org/Neuroinformatics>`_. More information on PyMVPA,
 including a detailed tutorial are available at http://pymvpa.org.
 
-NeuroDebian
------------
+.. raw:: html
+
+  </section>
+  <section class="alternate">
+
+.. image:: {filename}/img/logo/neurodebian.png
+   :alt: NeuroDebian Logo
+   :target: http://neuro.debian.net/
 
 NeuroDebian is a complete software platform for neuroscientific research
 (MRI-based research in particular). NeuroDebian achieves its unique commbination
@@ -46,10 +57,16 @@ the scope and implementation of NeuroDebian is published in `Frontiers in
 Neuroinformatics <http://www.frontiersin.org/Neuroinformatics>`_. More
 information on NeuroDebian is available at http://neuro.debian.net.
 
-PyNIfTI/NiBabel
----------------
+.. raw:: html
+
+  </section>
+  <section class="alternate">
 
 PyNIfTI was one of the first packages to access data in the NIfTI format with
 the Python programming language. In the meantime, NiBabel has replaced PyNIfTI,
 offering support for many more file formats. More information on NiBabel is
 available at http://nipy.sourceforge.net/nibabel.
+
+.. raw:: html
+
+  </section>

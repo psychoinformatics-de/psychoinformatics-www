@@ -329,6 +329,25 @@ ul.social a.sc-reddit {
 }
 
 
+section, article div.section {
+  margin: 0 -8vw;
+  padding: 2em 8vw 2em 8vw;
+  overflow: hidden;
+}
+section.alternate:nth-child(2n) {
+  background-color: hsla(31,15%,50%,.1);
+}
+section a.image-reference {
+  display: block;
+  margin: 0.5em auto 1.5em auto;
+  width: 20vw;
+}
+section img {
+  width: 20vw;
+}
+section h2 {
+  text-align: center;
+}
 
 main {
   display: flex;
