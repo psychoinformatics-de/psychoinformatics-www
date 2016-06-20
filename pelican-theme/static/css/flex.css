@@ -215,3 +215,14 @@ main {
 main #content {
   flex: 1;
 }
+
+main footer {
+  padding: 1em 0;
+  border-top: #eee 1px solid;
+}
+main footer p {
+  margin: 2px;
+  text-align: center;
+  color: #999;
+  font-size: 15px;
+}
