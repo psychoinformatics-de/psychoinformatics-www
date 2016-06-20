@@ -25,14 +25,11 @@
 }
 
 
-
 html,
 body {
   width: 100vw;
   height: 100vh;
 }
-
-
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
@@ -62,17 +59,7 @@ a {
 a:hover {
   color: #ff5a09;
 }
-hr {
-  color: #eee;
-  background-color: #eee;
-  height: 1px;
-  border: none;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-img {
-  max-width: 100%;
-}
+
 aside {
   background-color: #333;
   color: #fff;
@@ -89,7 +76,6 @@ aside div {
   margin: 0;
 }
 aside div img {
-  border-radius: 50%;
   max-width: 140px;
 }
 aside div h1 {
@@ -99,12 +85,17 @@ aside div p {
   margin: 0 0 15px 0;
   font-size: .92em;
 }
+aside nav ul {
+  padding: 0;
+}
 aside nav ul li {
   display: inline;
   line-height: 1.6em;
   font-size: 1.28em;
   text-transform: lowercase;
 }
+
+
 main nav {
   text-align: center;
   text-transform: uppercase;
@@ -119,130 +110,12 @@ main nav a {
 main nav :first-child {
   border-left: #eee 1px solid;
 }
-main .pagination {
-  margin: 4% 8% 2% 8%;
-  height: 20px;
-}
-main .social-share p {
-  font-size: .8em;
-}
 main article {
   margin: 0 8vw;
 }
 main article header h1,
 main article header h2 {
   margin-bottom: 0;
-}
-main article header p {
-  color: #999;
-  font-size: 0.82em;
-}
-main article code,
-main article kbd,
-main article samp,
-main article pre {
-  font-family: 'Source Code Pro', 'Consolas', monospace;
-}
-main article blockquote,
-main article pre {
-  background-color: rgba(128, 128, 128, 0.05);
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
-  border-left: 8px solid rgba(128, 128, 128, 0.075);
-  border-left-width: 10px;
-}
-main article blockquote {
-  padding: 10px 20px;
-  font-weight: 300;
-  font-size: 1.1em;
-}
-main article pre {
-  padding: 4px;
-  font-size: .9em;
-  overflow-x: auto;
-}
-main article samp {
-  white-space: pre;
-  display: block;
-  overflow-x: auto;
-}
-main article kbd {
-  padding: .1em .6em;
-  border: 1px solid rgba(63, 63, 63, 0.25);
-  box-shadow: 0 1px 0 rgba(63, 63, 63, 0.25);
-  background-color: #fff;
-  color: #333;
-  border-radius: 3px;
-  display: inline-block;
-  margin: 0 .1em;
-  white-space: nowrap;
-  font-size: .78em;
-}
-main article code {
-  font-size: .8em;
-  white-space: nowrap;
-  color: #c25;
-  padding: 1px 3px;
-  background-color: #f7f7f9;
-  border: 1px solid #e1e1e8;
-  border-radius: 3px;
-}
-main article .comment-count {
-  font-size: .8em;
-}
-main article table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-main article table thead:first-child tr:first-child th {
-  border-top: 0;
-}
-main article table th,
-main article table td {
-  padding: 8px;
-  line-height: 20px;
-  vertical-align: top;
-  border-top: 1px solid #ddd;
-}
-main footer {
-  padding-top: 4px;
-  border-top: #eee 1px solid;
-}
-main footer p {
-  margin: 2px;
-  text-align: center;
-  padding: 0 40px 0 40px;
-  color: #999;
-  font-size: 15px;
-}
-main .related-posts {
-  border-top: #eee 1px solid;
-}
-a.btn {
-  background-color: #d9411e;
-  padding: .4em .6em;
-  font-size: .9em;
-  line-height: 1;
-  color: #fff;
-  text-align: center;
-  white-space: nowrap;
-  vertical-align: baseline;
-  border-radius: .25em;
-}
-a.btn:hover {
-  background-color: #ff5a09;
-}
-.center {
-  text-align: center;
-}
-.float-right {
-  float: right;
-}
-ul.list {
-  padding: 1em 0 1em 0;
-}
-ul.list li {
-  padding: 4px;
 }
 
 
@@ -269,9 +142,6 @@ ul.list li {
     left: 25vw;
     overflow-x: hidden;
     overflow-y: hidden;
-  }
-  main article ul.list li {
-    padding: 2px;
   }
 }
 
