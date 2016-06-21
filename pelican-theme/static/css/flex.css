@@ -27,8 +27,8 @@
 
 html,
 body {
-  width: 100vw;
-  height: 100vh;
+  height: 100%;
+  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -121,11 +121,12 @@ main article header h2 {
 
 @media screen and (min-width: 768px) {
   aside {
-    width: 25vw;
-    height: 100vh;
+    width: 25%;
+    height: 100%;
     position: fixed;
     top: 0;
     left: 0;
+    overflow-x: hidden;
     overflow-y: auto;
   }
   aside div {
@@ -136,10 +137,10 @@ main article header h2 {
     display: block;
   }
   main {
-    width: 75vw;
+    width: 75%;
     position: absolute;
     top: 0;
-    left: 25vw;
+    left: 25%;
     overflow-x: hidden;
     overflow-y: hidden;
   }
@@ -209,7 +210,7 @@ section h2 {
 
 main {
   display: flex;
-  min-height: 100vh;
+  min-height: 100%;
   flex-direction: column;
 }
 main #content {
