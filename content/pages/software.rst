@@ -72,11 +72,41 @@ information on NeuroDebian is available at http://neuro.debian.net.
   </section>
   <section class="alternate">
 
+.. image:: {filename}/img/logo/nibabel.png
+   :alt: NiBabel Logo
+   :target: http://nipy.org/nibabel
+
 PyNIfTI was one of the first packages to access data in the NIfTI format with
 the Python programming language. In the meantime, NiBabel has replaced PyNIfTI,
 offering support for many more file formats. More information on NiBabel is
-available at http://nipy.sourceforge.net/nibabel.
+available at http://nipy.org/nibabel/
 
 .. raw:: html
 
+  <ul class='social-links'>
+    <li><a class='si-home' href="http://nipy.org/nibabel/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='si-github' href="https://github.com/nipy/nibabel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+  </ul>
+  </section>
+  <section class="alternate">
+
+.. image:: {filename}/img/logo/neurodebian.png
+   :alt: DataLad Logo
+   :target: http://datalad.org
+
+DataLad aims to provide access to scientific data available from various sources
+(e.g. lab or consortium web-sites such as Human connectome; data sharing portals
+such as OpenFMRI and CRCNS) through a single convenient interface and integrated
+with your software package managers (such as APT in Debian). Although initially
+targeting neuroimaging and neuroscience data in general, it will not be limited
+by the domain and we would welcome a wide range of contributions.
+
+.. raw:: html
+
+  <ul class='social-links'>
+    <li><a class='si-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='si-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='si-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='si-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+  </ul>
   </section>

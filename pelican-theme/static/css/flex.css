@@ -173,15 +173,19 @@ main article header h2 {
   transition: all 0.2s linear;
   transform: translateY(-0.2em);
 }
-.social-links a.si-home {
-  background-color: #bbb;
-}
 .social-links a.si-github {
   background-color: #111010;
+}
+.social-links a.si-google {
+  background-color: #d93e2d;
+}
+.social-links a.si-home {
+  background-color: #bbb;
 }
 .social-links a.si-twitter {
   background-color: #4da7de;
 }
+
 .social-links a.si-envelope-o {
   background-color: #578AD6;
 }
