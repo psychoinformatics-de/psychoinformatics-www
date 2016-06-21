@@ -119,33 +119,6 @@ main article header h2 {
 }
 
 
-@media screen and (min-width: 768px) {
-  aside {
-    width: 25%;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    overflow-y: auto;
-  }
-  aside div {
-    padding: 36px 18px;
-  }
-  aside div nav ul li {
-    padding: 0 !important;
-    display: block;
-  }
-  main {
-    width: 75%;
-    position: absolute;
-    top: 0;
-    left: 25%;
-    overflow-x: hidden;
-    overflow-y: hidden;
-  }
-}
-
 
 .social-links {
   font-size: 1.6em;
@@ -230,4 +203,112 @@ main footer p {
   text-align: center;
   color: #999;
   font-size: 15px;
+}
+
+#members {
+  align-items: flex-end;
+  background: repeating-linear-gradient(180deg, #fff, #f6f6f6 538px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  line-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#members .mem {
+  flex-basis: 100%;
+  height: 1076px;
+  position: relative;
+}
+#members .mem .mugshot {
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  height: 538px;
+  opacity: 1;
+  transition: opacity .2s ease-in-out;
+}
+#members .mem .blurb {
+  color: #3a4046;
+  padding: 2em;
+  text-align: left;
+  transition: all .3s ease-in-out;
+}
+#members .mem .blurb h3 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  margin: 0 0 5px;
+}
+#members .mem .blurb p {
+  font-size: 14px;
+  line-height: 24px;
+}
+#members .mem .blurb p.title {
+  font-size: 20px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+
+@media screen and (min-width: 768px) {
+  aside {
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  aside div {
+    padding: 36px 18px;
+  }
+  aside div nav ul li {
+    padding: 0 !important;
+    display: block;
+  }
+  main {
+    width: 75%;
+    position: absolute;
+    top: 0;
+    left: 25%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  section a.image-reference {
+    width: 70%;
+  }
+  section a.image-reference img {
+    /* this is suboptimal because the logos are different aspect ratios, leading
+     * to different logo widths :-/ */
+    max-height: 13vh;
+    object-fit: scale-down;
+  }
+
+  #members .mem {
+    flex-basis: 50%;
+    height: 538px;
+  }
+  #members .mem:hover {
+    cursor: help;
+  }
+  #members .mem:hover .blurb {
+    opacity: 1;
+    top: 150px;
+  }
+  #members .mem:hover .mugshot {
+    opacity: .1;
+  }
+  #members .mem .blurb {
+    opacity: 0;
+    padding: 0 2em;
+    position: absolute;
+    top: 170px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  #members .mem {
+    flex-basis: 32%;
+  }
 }

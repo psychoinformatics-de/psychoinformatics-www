@@ -35,6 +35,50 @@ Notes:
 ----
 
 Files:
+  img/mugshots/\*
+Copyright:
+  2016 Alex Waite, Laura Waite, and Michael Hanke
+License:
+  `Attribution-ShareAlike 4.0 International`_
+
+----
+
+Files:
+  img/mugshots/astronaut.png
+Copyright:
+  1969 NASA
+License:
+  Public Domain
+Source:
+  https://commons.wikimedia.org/wiki/File:Apollo_Moonwalk2.jpg
+
+----
+
+Files:
+  img/mugshots/curie.png
+Copyright:
+  1921 Scientific Monthly; 2016 Alex Waite
+License:
+  Public Domain
+Source:
+  https://commons.wikimedia.org/wiki/File:Portrait_of_Marie_Curie.jpg
+
+----
+
+Files:
+  img/mugshots/woody.png
+Copyright:
+  2010 by Unknown
+License:
+  `Public Domain Dedication`_
+Source:
+  https://pixabay.com/en/body-boy-doll-figure-figurine-guy-15982/
+
+.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
+
+----
+
+Files:
   theme/fonts/quicksand\*
 Copyright:
   Andrew Paglinawan
