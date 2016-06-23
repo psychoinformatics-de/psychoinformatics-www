@@ -67,10 +67,17 @@ aside {
 }
 aside a {
   color: #fff;
+  transition: all 0.2s linear;
 }
 aside a:hover {
   color: #eee;
+  text-shadow: 0 0 1.5em #fff, 0 0 2.5em #fff;
 }
+aside a.active {
+  border-bottom: 3px solid #d9411e;
+  padding-bottom: 0.1em;
+}
+
 aside div {
   padding: 20px;
   margin: 0;

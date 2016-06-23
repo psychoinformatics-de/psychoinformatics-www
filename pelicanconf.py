@@ -35,11 +35,11 @@ AUTHOR_FEED_RSS = None
 #
 STATIC_PATHS = ['img']
 MENUITEMS = (('Home', '/'),
-             ('Research', '/research.html'),
-             ('Software', '/software.html'),
-             ('Members', '/lab-members.html'),
-             ('Publications', '/publications.html'),
-             ('Contact', '/contact.html'),
+             ('Research', 'research.html'),
+             ('Software', 'software.html'),
+             ('Members', 'lab-members.html'),
+             ('Publications', 'publications.html'),
+             ('Contact', 'contact.html'),
 )
 #LINKS = ()
 SOCIAL = (('github', 'https://github.com/psychoinformatics-de'),)
