@@ -1,0 +1,8 @@
+Mugshot dimensions are 350x465
+The body should be cut off at the waist
+The background should be removed and be alpha (and thus must be PNG)
+Everything visually important should be within a width of 295 pixels and centered
+  - 295 = 320px (smallest mobile) * 0.92 (4% margin either side)
+There should be some clearance from the top
+  - the name will be positioned about 75px from the top of the image
+PNGs should use lossy compression (pngquant or tinypng.com) so we get jpeg-ish file sizes

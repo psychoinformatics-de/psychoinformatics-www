@@ -55,6 +55,19 @@ Source:
 ----
 
 Files:
+  img/mugshots/brush.png
+Copyright:
+  2010 Creative Tools AB
+License:
+  `Attribution 2.0 Generic`_
+Source:
+  https://commons.wikimedia.org/wiki/File:CreativeTools\.se_-_PackshotCreator_-_Brush_tips.jpg
+
+.. _Attribution 2.0 Generic: https://creativecommons.org/licenses/by/2.0/deed.en
+
+----
+
+Files:
   img/mugshots/curie.png
 Copyright:
   1921 Scientific Monthly; 2016 Alex Waite
@@ -66,6 +79,30 @@ Source:
 ----
 
 Files:
+  img/mugshots/elvis.png
+Copyright:
+  1957 Metro-Goldwyn-Mayer Inc.
+License:
+  Public Domain
+Source:
+  https://en.wikipedia.org/wiki/File:Elvis_Presley_promoting_Jailhouse_Rock.jpg
+
+----
+
+Files:
+  img/mugshots/parrot.png
+Copyright:
+  2012 Joel Santana
+License:
+  `Public Domain Dedication`_
+Source:
+  https://pixabay.com/en/arara-on-white-background-bird-1200084/
+
+.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
+
+----
+
+Files:
   img/mugshots/woody.png
 Copyright:
   2010 by Unknown
@@ -73,8 +110,6 @@ License:
   `Public Domain Dedication`_
 Source:
   https://pixabay.com/en/body-boy-doll-figure-figurine-guy-15982/
-
-.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
 
 ----
 

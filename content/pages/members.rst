@@ -19,7 +19,6 @@ Lab Members
         <ul class='social-links'>
           <li><a class='si-home' href="http://mih.voxindeserto.de"><i class="fa fa-home" aria-hidden="true"></i></a></li>
           <li><a class='si-envelope-o' href="mailto:michael.hanke@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-twitter' href="mailto:michael.hanke@gmail.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
           <li><a class='si-github' href="https://github.com/hanke"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
@@ -65,7 +64,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/elvis.png);"></div>
       <div class="blurb">
         <h3>Dr. Emanuele Porcu</h3>
         <p class="title">Postdoc</p>
@@ -83,7 +82,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/brush.png);"></div>
       <div class="blurb">
         <h3>Dipl.-Inf. Benjamin Poldrack</h3>
         <p class="title">Datalad Developer</p>
@@ -103,7 +102,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/parrot.png);"></div>
       <div class="blurb">
         <h3>Dipl.-Neurowiss. Falko R. Kaule</h3>
         <p class="title">PhD Student</p>
