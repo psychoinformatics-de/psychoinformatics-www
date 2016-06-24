@@ -118,7 +118,7 @@ main nav :first-child {
   border-left: #eee 1px solid;
 }
 main article {
-  margin: 0 8vw;
+  margin: 0 4vw;
 }
 main article header h1,
 main article header h2 {
@@ -172,8 +172,8 @@ main article header h2 {
 
 
 section, article div.section {
-  margin: 0 -8vw;
-  padding: 2em 8vw 2em 8vw;
+  margin: 0 -4vw;
+  padding: 2em 4vw;
   overflow: hidden;
 }
 section.alternate:nth-child(2n) {
@@ -251,7 +251,7 @@ main footer p {
 }
 #members .mem .blurb {
   color: #3a4046;
-  padding: 2em;
+  padding: 2em 4vw;
   text-align: left;
   transition: all .3s ease-in-out;
 }
@@ -297,6 +297,13 @@ main footer p {
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  main article {
+    margin: 0 8vw;
+  }
+  section, article div.section {
+    margin: 0 -8vw;
+    padding: 2em 8vw;
+  }
   section a.image-reference {
     width: 70%;
   }
@@ -327,7 +334,7 @@ main footer p {
   }
   #members .mem .blurb {
     opacity: 0;
-    padding: 0 2em;
+    padding: 0 10%;
     position: absolute;
     top: 170px;
   }
@@ -340,6 +347,10 @@ main footer p {
   #contact > div:nth-child(2n) {
     text-align: right;
   }
+}
+
+/* 1400px = (350 * 3) * (4/3) --- 350 = mugshot width; 4/3 because <main> is 75vw */
+@media screen and (min-width: 1400px) {
   #members .mem {
     flex-basis: 32%;
   }
