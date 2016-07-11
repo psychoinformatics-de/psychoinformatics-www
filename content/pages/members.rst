@@ -8,14 +8,15 @@ Lab Members
   <section id="members">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>J.-Prof. Dr. Michael Hanke</h3>
         <p class="title">Principal Investigator</p>
-        <p>The lysine contingency - it's intended to prevent the spread of the
-        animals is case they ever got off the island. Dr. Wu inserted a gene
-        that makes a single faulty enzyme in protein metabolism. The animals
-        can't manufacture the amino acid lysine. Unless they're continually
-        supplied with lysine by us, they'll slip into a coma and die.</p>
+        <p class="blurb">The lysine contingency - it's intended to prevent the
+        spread of the animals is case they ever got off the island. Dr. Wu
+        inserted a gene that makes a single faulty enzyme in protein metabolism.
+        The animals can't manufacture the amino acid lysine. Unless they're
+        continually supplied with lysine by us, they'll slip into a coma and
+        die.</p>
         <ul class='social-links'>
           <li><a class='si-home' href="http://mih.voxindeserto.de"><i class="fa fa-home" aria-hidden="true"></i></a></li>
           <li><a class='si-envelope-o' href="mailto:michael.hanke@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
@@ -26,10 +27,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/woody.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Alex Waite</h3>
         <p class="title">IT Specialist</p>
-        <p>You think water moves fast? You should see ice. It moves like it has
+        <p class="blurb">You think water moves fast? You should see ice. It moves like it has
         a mind. Like it knows it killed the world once and got a taste for
         murder. After the avalanche, it took us a week to climb out. Now, I
         don't know exactly when we turned on each other, but I know that seven
@@ -46,10 +47,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/curie.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Dr. Reshanne Reeder</h3>
         <p class="title">Postdoc</p>
-        <p>You see? It's curious. Ted did figure it out - time travel. And when
+        <p class="blurb">You see? It's curious. Ted did figure it out - time travel. And when
         we get back, we gonna tell everyone. How it's possible, how it's done,
         what the dangers are. But then why fifty years in the future when the
         spacecraft encounters a black hole does the computer call it an 'unknown
@@ -65,10 +66,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/elvis.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Dr. Emanuele Porcu</h3>
         <p class="title">Postdoc</p>
-        <p>Now that we know who you are, I know who I am. I'm not a mistake! It
+        <p class="blurb">Now that we know who you are, I know who I am. I'm not a mistake! It
         all makes sense! In a comic, you know how you can tell who the
         arch-villain's going to be? He's the exact opposite of the hero. And
         most times they're friends, like you and me! I should've known way back
@@ -83,10 +84,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/brush.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Dipl.-Inf. Benjamin Poldrack</h3>
         <p class="title">Datalad Developer</p>
-        <p>The path of the righteous man is beset on all sides by the iniquities
+        <p class="blurb">The path of the righteous man is beset on all sides by the iniquities
         of the selfish and the tyranny of evil men. Blessed is he who, in the
         name of charity and good will, shepherds the weak through the valley of
         darkness, for he is truly his brother's keeper and the finder of lost
@@ -103,10 +104,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/parrot.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Dipl.-Neurowiss. Falko R. Kaule</h3>
         <p class="title">PhD Student</p>
-        <p>Now that we know who you are, I know who I am. I'm not a mistake! It
+        <p class="blurb">Now that we know who you are, I know who I am. I'm not a mistake! It
         all makes sense! In a comic, you know how you can tell who the
         arch-villain's going to be? He's the exact opposite of the hero. And
         most times they're friends, like you and me! I should've known way back
@@ -121,10 +122,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Christian Häusler (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
-        <p>Your bones don't break, mine do. That's clear. Your cells react to
+        <p class="blurb">Your bones don't break, mine do. That's clear. Your cells react to
         bacteria and viruses differently than mine. You don't get sick, I do.
         That's also clear. But for some reason, you and I react the exact same
         way to water. We swallow it too fast, we choke. We get some in our
@@ -139,10 +140,10 @@ Lab Members
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Pierre Ibe (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
-        <p>Do you see any Teletubbies in here? Do you see a slender plastic tag
+        <p class="blurb">Do you see any Teletubbies in here? Do you see a slender plastic tag
         clipped to my shirt with my name printed on it? Do you see a little
         Asian child with a blank expression on his face sitting outside on a
         mechanical helicopter that shakes when you put quarters in it? No? Well,
@@ -161,18 +162,12 @@ Alumni
 
 .. raw:: html
 
-  <section id="members">
+  <section id="members" class='alumni'>
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Ayan Sengupta (M.Sc.)</h3>
-        <p>Yeah, I like animals better than people sometimes... Especially dogs.
-        Dogs are the best. Every time you come home, they act like they haven't
-        seen you in a year. And the good thing about dogs... is they got
-        different dogs for different people. Like pit bulls. The dog of dogs.
-        Pit bull can be the right man's best friend... or the wrong man's worst
-        enemy. You going to give me a dog for a pet, give me a pit bull. Give
-        me... Raoul. Right, Omar? Give me Raoul.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:uam111@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
           <li><a class='si-github' href="https://github.com/uam111"><i class="fa fa-github" aria-hidden="true"></i></a></li>
@@ -182,14 +177,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Dr. Vittorio Iacovella</h3>
-        <p>Like you, I used to think the world was this great place where
-        everybody lived by the same standards I did, then some kid with a nail
-        showed me I was living in his world, a world where chaos rules not
-        order, a world where righteousness is not rewarded. That's Cesar's
-        world, and if you're not willing to play by his rules, then you're gonna
-        have to pay the price.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:iacovella@fbk.eu"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
           <li><a class='si-github' href="https://github.com/v-iacovella"><i class="fa fa-github" aria-hidden="true"></i></a></li>
@@ -199,14 +189,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Moritz Boos</h3>
-        <p>Well, the way they make shows is, they make one show. That show's
-        called a pilot. Then they show that show to the people who make shows,
-        and on the strength of that one show they decide if they're going to
-        make more shows. Some pilots get picked and become television programs.
-        Some don't, become nothing. She starred in one of the ones that became
-        nothing.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:Moritz.boos@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
           <li><a class='si-github' href="https://github.com/mjboos"><i class="fa fa-github" aria-hidden="true"></i></a></li>
@@ -216,14 +201,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Michael Notter</h3>
-        <p>Now that we know who you are, I know who I am. I'm not a mistake! It
-        all makes sense! In a comic, you know how you can tell who the
-        arch-villain's going to be? He's the exact opposite of the hero. And
-        most times they're friends, like you and me! I should've known way back
-        when... You know why, David? Because of the kids. They called me Mr
-        Glass.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:michaelnotter@hotmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
@@ -232,14 +212,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Richard Dinga</h3>
-        <p>Do you see any Teletubbies in here? Do you see a slender plastic tag
-        clipped to my shirt with my name printed on it? Do you see a little
-        Asian child with a blank expression on his face sitting outside on a
-        mechanical helicopter that shakes when you put quarters in it? No? Well,
-        that's what you see at a toy store. And you must think you're in a toy
-        store, because you're here shopping for an infant named Jeb.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:dinga92@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
@@ -248,14 +223,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Daniel Kottke</h3>
-        <p>Well, the way they make shows is, they make one show. That show's
-        called a pilot. Then they show that show to the people who make shows,
-        and on the strength of that one show they decide if they're going to
-        make more shows. Some pilots get picked and become television programs.
-        Some don't, become nothing. She starred in one of the ones that became
-        nothing.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
           <li><a class='si-github' href="https://github.com/dakot"><i class="fa fa-github" aria-hidden="true"></i></a></li>
@@ -265,15 +235,9 @@ Alumni
 
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
-      <div class="blurb">
+      <div class="info">
         <h3>Prof. Sven Buchholz</h3>
-        <p>The path of the righteous man is beset on all sides by the iniquities
-        of the selfish and the tyranny of evil men. Blessed is he who, in the
-        name of charity and good will, shepherds the weak through the valley of
-        darkness, for he is truly his brother's keeper and the finder of lost
-        children. And I will strike down upon thee with great vengeance and
-        furious anger those who would attempt to poison and destroy My brothers.
-        And you will know My name is the Lord when I lay My vengeance upon thee.</p>
+        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='si-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
           <li><a class='si-envelope-o' href="mailto:sven.buchholz@th-brandenburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>

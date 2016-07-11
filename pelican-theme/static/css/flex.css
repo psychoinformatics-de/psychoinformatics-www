@@ -249,27 +249,39 @@ main footer p {
   opacity: 1;
   transition: opacity .2s ease-in-out;
 }
-#members .mem .blurb {
+#members .mem .info {
   color: #3a4046;
   padding: 2em 4vw;
   text-align: left;
   transition: all .3s ease-in-out;
 }
-#members .mem .blurb h3 {
+#members .mem .info h3 {
   font-size: 18px;
   font-weight: 700;
   line-height: 22px;
   margin: 0 0 5px;
 }
-#members .mem .blurb p {
+#members .mem .info p {
   font-size: 14px;
   line-height: 24px;
 }
-#members .mem .blurb p.title {
+#members .mem .info p.title {
   font-size: 20px;
   line-height: 22px;
   text-transform: uppercase;
 }
+
+#members.alumni {
+  background: repeating-linear-gradient(180deg, #fff, #f6f6f6 385px);
+}
+#members.alumni .mem {
+  height: 770px;
+}
+#members.alumni .mem .mugshot {
+  background-size: 250px auto;
+  height: 385px;
+}
+
 
 
 @media screen and (min-width: 768px) {
@@ -325,18 +337,22 @@ main footer p {
   #members .mem:hover {
     cursor: help;
   }
-  #members .mem:hover .blurb {
+  #members .mem:hover .info {
     opacity: 1;
-    top: 150px;
+    top: 28%;
   }
   #members .mem:hover .mugshot {
     opacity: .1;
   }
-  #members .mem .blurb {
+  #members .mem .info {
     opacity: 0;
     padding: 0 10%;
     position: absolute;
-    top: 170px;
+    top: 32%;
+  }
+  #members.alumni .mem {
+    height: 385px;
+    flex-basis: 32%;
   }
 }
 
@@ -353,5 +369,8 @@ main footer p {
 @media screen and (min-width: 1400px) {
   #members .mem {
     flex-basis: 32%;
+  }
+  #members.alumni .mem {
+    flex-basis: 24%;
   }
 }
