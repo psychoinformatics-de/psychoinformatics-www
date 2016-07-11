@@ -48,3 +48,6 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# External Jazz
+#GOOGLE_ANALYTICS = 'UA-79713963-1'
