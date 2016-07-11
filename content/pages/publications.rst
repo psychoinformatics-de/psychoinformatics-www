@@ -1,40 +1,41 @@
-All Publications
-****************
+Publications
+************
 :save_as: publications.html
 :url: publications.html
 
-
-Peer-reviewed publications
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Submitted
+~~~~~~~~~
 
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
-`Brains on Beats <http://arxiv.org/abs/1606.02627>`_. Submitted.
+`Brains on Beats <http://arxiv.org/abs/1606.02627>`_.
 
 Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
-visual cortex. Submitted.
-
-Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
-The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
-7 Tesla? Revision submitted.
+visual cortex.
 
 **Hanke, M.**, Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
 F. R., Nigbur, R., Waite, A. Q., Baumgartner, F. J. & Stadler, J.
 `Simultaneous fMRI and eye gaze recordings during prolonged natural stimulation
 -- a studyforrest extension
-<http://biorxiv.org/content/early/2016/03/31/046581>`_.  Submitted for
-publication.
+<http://biorxiv.org/content/early/2016/03/31/046581>`_.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
 Willshaw, D. J., Pouzat, C. & Poline, J. B.
 `Towards standard practices for sharing computer code and programs in
 neuroscience <http://biorxiv.org/content/early/2016/03/24/045104>`_.
-Submitted for publication.
 
 Reeder, R. R., **Hanke, M.** & Pollmann, S. Task relevance modulates the
 representation of features and feature dimensions in the target
 template. Under revision.
+
+Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
+The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
+7 Tesla? Revision submitted.
+
+
+Peer-reviewed
+~~~~~~~~~~~~~
 
 Sengupta, A., Kaule, F. R., Guntupalli, J. S., Hoffmann, M. B., Häusler, C.,
 Stadler, J. & **Hanke, M**. `An extension of the studyforrest dataset for
@@ -129,10 +130,9 @@ pattern-based fMRI <http://dx.doi.org/10.1016/j.neuroimage.2011.02.006>`_.
 <http://dx.doi.org/10.3389/neuro.01.007.2010>`_. *Frontiers in Neuroscience, 4*,
 38--43.
 
-**Hanke, M.** (2009). `Advancing the understanding of brain function with
-multivariate pattern analysis
-<http://mih.voxindeserto.de/_static/Hanke_2009_PhDThesis.pdf>`_ (Doctoral
-dissertation), Otto-von-Guericke University Magdeburg, Magdeburg, Germany.
+**Hanke, M.** (2009). Advancing the understanding of brain function with
+multivariate pattern analysis (Doctoral dissertation), Otto-von-Guericke
+University Magdeburg, Magdeburg, Germany.
 
 **Hanke, M.**, Halchenko, Y. O., Sederberg, P. B., Olivetti, E., Fründ, I.,
 Rieger, J. W., Herrmann, C. S., Haxby, J. V., Hanson, S. J. and Pollmann, S.
