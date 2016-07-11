@@ -164,7 +164,7 @@ Alumni
 
   <section id="members" class='alumni'>
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
         <h3>Ayan Sengupta (M.Sc.)</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
