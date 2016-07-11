@@ -35,9 +35,9 @@ AUTHOR_FEED_RSS = None
 #
 STATIC_PATHS = ['img']
 MENUITEMS = (('Home', '/'),
+             ('People', 'lab-members.html'),
              ('Research', 'research.html'),
              ('Software', 'software.html'),
-             ('Members', 'lab-members.html'),
              ('Publications', 'publications.html'),
              ('Contact', 'contact.html'),
 )
