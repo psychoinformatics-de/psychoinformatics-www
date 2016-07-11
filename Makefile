@@ -85,7 +85,7 @@ updatedeps: $(TMPDIR) fontawesome
 $(TMPDIR):
 	mkdir -p $@
 
-fontawesome:
+fontawesome: $(TMPDIR)
 	curl -L -o $(TMPDIR)/fa.zip https://github.com/FortAwesome/Font-Awesome/archive/v$(VER_FONTAWESOME).zip
 	unzip -j $(TMPDIR)/fa.zip Font-Awesome-$(VER_FONTAWESOME)/css/font-awesome.min.css -d pelican-theme/static/css/
 	unzip -j $(TMPDIR)/fa.zip Font-Awesome-$(VER_FONTAWESOME)/fonts/*webfont* -d pelican-theme/static/fonts/
