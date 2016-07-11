@@ -3,6 +3,10 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+.. raw:: html
+
+  <div class="publicationlist">
+
 Submitted
 ~~~~~~~~~
 
@@ -186,6 +190,10 @@ Engineer*.
 Lukas, J., & **Hanke, M.** (2004). Wie die Bilder laufen lernten:
 Kognitive Prozesse bei der Bewegungswahrnehmung. *Scientia halensis, 4*,
 21--22.
+
+.. raw:: html
+
+  </div><!-- class="publicationlist"-->
 
 
 .. |---| unicode:: U+02014 .. em dash

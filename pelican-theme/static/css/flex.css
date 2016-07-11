@@ -171,7 +171,11 @@ main article header h2 {
   background-color: #4da7de;
 }
 
-
+.publicationlist {
+  line-height: 1.3em;
+  padding-left: 2em;
+  text-indent: -2em;
+}
 
 section, article div.section {
   margin: 0 -4vw;
