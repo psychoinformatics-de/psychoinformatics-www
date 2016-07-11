@@ -90,6 +90,15 @@ Source:
 ----
 
 Files:
+  img/mugshots/grill-\*.png
+Copyright:
+  Belongs to their respective owners
+License:
+  All Rights Reserved
+
+----
+
+Files:
   img/mugshots/parrot.png
 Copyright:
   2012 Joel Santana
