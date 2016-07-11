@@ -11,13 +11,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="100"
+   height="130"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/mih/private/www/psychoinformatics-www/pelican-theme/static/img/profile.png"
+   inkscape:export-filename="/home/alex/git/psychoinformatics-www/pelican-theme/static/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,16 +28,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="43.996444"
-     inkscape:cy="1.9246586"
+     inkscape:cx="54.037202"
+     inkscape:cy="68.943802"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="1369"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-width="1196"
+     inkscape:window-height="1120"
+     inkscape:window-x="1920"
+     inkscape:window-y="779"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -47,19 +47,19 @@
      fit-margin-bottom="0">
     <sodipodi:guide
        orientation="1,0"
-       position="-0.086294671,178.22301"
+       position="-15.907272,185.27085"
        id="guide7273" />
     <sodipodi:guide
        orientation="0,1"
-       position="25.913705,4.2230104"
+       position="10.092728,11.270851"
        id="guide7275" />
     <sodipodi:guide
        orientation="1,0"
-       position="237.41371,4.2230104"
+       position="221.59273,11.270851"
        id="guide7277" />
     <sodipodi:guide
        orientation="0,1"
-       position="133.91371,103.72301"
+       position="118.09273,110.77085"
        id="guide7279" />
   </sodipodi:namedview>
   <defs
@@ -78,7 +78,7 @@
        id="mask4589-1-9">
       <path
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 805.95547,732.31695 -73.44626,0.19081 c -37.68126,-58.02657 -65.87828,-55.03044 -62.62623,-34.16314 0,1.63611 7.84809,32.52708 7.62883,33.62321 l 21.04325,0 -56.98275,78.48387 -57.23732,-78.48387 20.47358,0 c 0.54001,-3.53608 4.60005,-28.46726 11.12049,-45.27884 28.19702,-57.21464 123.33606,-1.28291 190.02641,45.62796 z"
          id="path4591-3-9" />
     </mask>
@@ -87,7 +87,7 @@
        id="clipPath2969-8-5-3">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9-4"
@@ -134,7 +134,7 @@
        id="mask4589-1">
       <path
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 805.95547,732.31695 -73.44626,0.19081 c -37.68126,-58.02657 -65.87828,-55.03044 -62.62623,-34.16314 0,1.63611 7.84809,32.52708 7.62883,33.62321 l 21.04325,0 -56.98275,78.48387 -57.23732,-78.48387 20.47358,0 c 0.54001,-3.53608 4.60005,-28.46726 11.12049,-45.27884 28.19702,-57.21464 123.33606,-1.28291 190.02641,45.62796 z"
          id="path4591-3" />
     </mask>
@@ -143,7 +143,7 @@
        id="clipPath2969-8-5">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9"
@@ -221,7 +221,7 @@
        id="clipPath2969-8">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-7"
@@ -299,7 +299,7 @@
        id="clipPath2969-8-8-4">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9-7-9"
@@ -378,7 +378,7 @@
        id="clipPath2969-8-8-2">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9-7-5"
@@ -447,7 +447,7 @@
        id="mask4589-6-7">
       <path
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 805.95547,732.31695 -73.44626,0.19081 c -37.68126,-58.02657 -65.87828,-55.03044 -62.62623,-34.16314 0,1.63611 7.84809,32.52708 7.62883,33.62321 l 21.04325,0 -56.98275,78.48387 -57.23732,-78.48387 20.47358,0 c 0.54001,-3.53608 4.60005,-28.46726 11.12049,-45.27884 28.19702,-57.21464 123.33606,-1.28291 190.02641,45.62796 z"
          id="path4591-1-3" />
     </mask>
@@ -456,7 +456,7 @@
        id="clipPath2969-8-8-9">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9-7-1"
@@ -525,7 +525,7 @@
        id="mask4589-6">
       <path
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 805.95547,732.31695 -73.44626,0.19081 c -37.68126,-58.02657 -65.87828,-55.03044 -62.62623,-34.16314 0,1.63611 7.84809,32.52708 7.62883,33.62321 l 21.04325,0 -56.98275,78.48387 -57.23732,-78.48387 20.47358,0 c 0.54001,-3.53608 4.60005,-28.46726 11.12049,-45.27884 28.19702,-57.21464 123.33606,-1.28291 190.02641,45.62796 z"
          id="path4591-1" />
     </mask>
@@ -534,7 +534,7 @@
        id="clipPath2969-8-8">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971-9-7"
@@ -907,7 +907,7 @@
        id="clipPath2969">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="478.16956"
          y="657.03741"
          id="text2971"
@@ -954,7 +954,7 @@
        id="mask4589">
       <path
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5892eb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 805.95547,732.31695 -73.44626,0.19081 c -37.68126,-58.02657 -65.87828,-55.03044 -62.62623,-34.16314 0,1.63611 7.84809,32.52708 7.62883,33.62321 l 21.04325,0 -56.98275,78.48387 -57.23732,-78.48387 20.47358,0 c 0.54001,-3.53608 4.60005,-28.46726 11.12049,-45.27884 28.19702,-57.21464 123.33606,-1.28291 190.02641,45.62796 z"
          id="path4591" />
     </mask>
@@ -1127,18 +1127,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-3.5862947,-925.0852)"
+     transform="translate(-19.407272,-930.13303)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <text
-       transform="matrix(0.82705011,0,0,1.1693683,16.893955,-190.04425)"
+       transform="matrix(0.82705011,0,0,1.1693683,16.319817,-183.77309)"
        clip-path="none"
        sodipodi:linespacing="89.999998%"
        id="text2971-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1;stroke:none;filter:url(#filter4433);"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1;stroke:none;filter:url(#filter4433)"
        xml:space="preserve"><textPath
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.89765167px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.89765167px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1"
          id="textPath4130"
          xlink:href="#path3925">010  101110110101110010111001001   11001001101000000110011   011000110011010101011001100101  101110 10011101</textPath></text>
     <path
@@ -1152,7 +1152,7 @@
        id="text2989"
        y="334.86615"
        x="377"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="334.86615"
          x="377"
