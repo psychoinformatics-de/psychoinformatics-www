@@ -36,8 +36,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1.2;
 }
-h1 { font-size: 3.0em; }
-h2 { font-size: 2.5em; }
+h1 { font-size: 2.5em; }
+h2 { font-size: 2.0em; }
 h3 { font-size: 1.6em; }
 h4 { font-size: 1.36em; }
 h5 { font-size: 1.2em; }
@@ -77,6 +77,8 @@ aside a.active {
   border-bottom: 3px solid #d9411e;
   padding-bottom: 0.1em;
 }
+
+aside h1 { font-size: 1.6em; }
 
 aside div {
   padding: 20px;
