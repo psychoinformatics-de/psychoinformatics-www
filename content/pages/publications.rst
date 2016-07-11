@@ -9,12 +9,12 @@ Submitted
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
 `Brains on Beats <http://arxiv.org/abs/1606.02627>`_.
 
-Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
 visual cortex.
 
-**Hanke, M.**, Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
-F. R., Nigbur, R., Waite, A. Q., Baumgartner, F. J. & Stadler, J.
+**Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
+F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.
 `Simultaneous fMRI and eye gaze recordings during prolonged natural stimulation
 -- a studyforrest extension
 <http://biorxiv.org/content/early/2016/03/31/046581>`_.
@@ -25,11 +25,11 @@ Willshaw, D. J., Pouzat, C. & Poline, J. B.
 `Towards standard practices for sharing computer code and programs in
 neuroscience <http://biorxiv.org/content/early/2016/03/24/045104>`_.
 
-Reeder, R. R., **Hanke, M.** & Pollmann, S. Task relevance modulates the
+**Reeder, R. R., Hanke, M.** & Pollmann, S. Task relevance modulates the
 representation of features and feature dimensions in the target
 template. Under revision.
 
-Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 7 Tesla? Revision submitted.
 
@@ -37,7 +37,7 @@ The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 Peer-reviewed
 ~~~~~~~~~~~~~
 
-Sengupta, A., Kaule, F. R., Guntupalli, J. S., Hoffmann, M. B., Häusler, C.,
+**Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler, C.**,
 Stadler, J. & **Hanke, M**. `An extension of the studyforrest dataset for
 vision research <http://biorxiv.org/content/early/2016/03/31/046573>`_.
 Scientific Data. Accepted for publication.
@@ -60,8 +60,8 @@ Halchenko, Y. O. & **Hanke, M.** (2015). `Four aspects to make science open "by
 design" and not as an after-thought
 <http://www.gigasciencejournal.com/content/4/1/31>`_. *GigaScience*, 4:31.
 
-**Hanke, M.**, Dinga, R., Häusler, C., Guntupalli, J. S., Casey, M.,
-Kaule, F. R. & Stadler, S. (2015). `High-resolution 7-Tesla fMRI data on the
+**Hanke, M.**, **Dinga, R., Häusler, C.**, Guntupalli, J. S., Casey, M.,
+**Kaule, F. R.** & Stadler, S. (2015). `High-resolution 7-Tesla fMRI data on the
 perception of musical genres – an extension to the studyforrest dataset
 <http://f1000research.com/articles/4-174>`_. *F1000Research*, 4:174.
 
@@ -76,7 +76,7 @@ Pollmann, S., Zinke, W., Baumgartner, F., Geringswald, F. & **Hanke, M.**
 binding <http://www.sciencedirect.com/science/article/pii/S105381191400593X>`_.
 *NeuroImage*, 101, 289-297.
 
-**Hanke, M.**, Baumgartner, F. J., Ibe, P., Kaule, F. R., Pollmann, S., Speck,
+**Hanke, M.**, Baumgartner, F. J., **Ibe, P., Kaule, F. R.**, Pollmann, S., Speck,
 O., Zinke, W. & Stadler, J. (2014). `A high-resolution 7-Tesla fMRI dataset
 from complex natural stimulation with an audio movie
 <http://www.nature.com/articles/sdata20143>`_. *Scientific Data*, 1.
