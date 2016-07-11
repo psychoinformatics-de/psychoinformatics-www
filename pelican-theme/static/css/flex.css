@@ -182,10 +182,10 @@ section.alternate:nth-child(2n) {
 section a.image-reference {
   display: block;
   margin: 0.5em auto 1.5em auto;
-  width: 20vw;
+  width: 90%;
 }
-section img {
-  width: 20vw;
+section a.image-reference img {
+  width: 100%;
 }
 section h2 {
   text-align: center;
@@ -309,13 +309,6 @@ main footer p {
     overflow-x: hidden;
     overflow-y: hidden;
   }
-  main article {
-    margin: 0 8vw;
-  }
-  section, article div.section {
-    margin: 0 -8vw;
-    padding: 2em 8vw;
-  }
   section a.image-reference {
     width: 70%;
   }
@@ -357,6 +350,13 @@ main footer p {
 }
 
 @media screen and (min-width: 1000px) {
+  main article {
+    margin: 0 8vw;
+  }
+  section, article div.section {
+    margin: 0 -8vw;
+    padding: 2em 8vw;
+  }
   #contact > div {
     flex-basis: 50%;
   }
