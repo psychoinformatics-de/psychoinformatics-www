@@ -46,7 +46,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/curie.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/reeder.png);"></div>
       <div class="info">
         <h3>Dr. Reshanne Reeder</h3>
         <p class="title">Postdoc</p>
@@ -65,7 +65,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/elvis.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/porcu.png);"></div>
       <div class="info">
         <h3>Dr. Emanuele Porcu</h3>
         <p class="title">Postdoc</p>
