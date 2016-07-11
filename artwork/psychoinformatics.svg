@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/alex/git/psychoinformatics-www/pelican-theme/static/img/logo.png"
+   sodipodi:docname="psychoinformatics.svg"
+   inkscape:export-filename="/home/mih/private/www/psychoinformatics-www/pelican-theme/static/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,17 +28,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="54.037202"
+     inkscape:cx="90.162202"
      inkscape:cy="68.943802"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1196"
-     inkscape:window-height="1120"
-     inkscape:window-x="1920"
-     inkscape:window-y="779"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -64,6 +64,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5138">
+      <stop
+         style="stop-color:#ffc300;stop-opacity:1;"
+         offset="0"
+         id="stop5140" />
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="1"
+         id="stop5142" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6013"
@@ -1113,6 +1125,15 @@
          result="result3"
          id="feComposite4439" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5138"
+       id="linearGradient5144"
+       x1="70.32415"
+       y1="992.97717"
+       x2="70.32415"
+       y2="974.37744"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -1136,9 +1157,9 @@
        clip-path="none"
        sodipodi:linespacing="89.999998%"
        id="text2971-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1;stroke:none;filter:url(#filter4433)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1;stroke:none;filter:url(#filter4433)"
        xml:space="preserve"><textPath
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.89765167px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc300;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.89765167px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1"
          id="textPath4130"
          xlink:href="#path3925">010  101110110101110010111001001   11001001101000000110011   011000110011010101011001100101  101110 10011101</textPath></text>
     <path
