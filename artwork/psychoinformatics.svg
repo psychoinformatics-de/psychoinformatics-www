@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="psychoinformatics.svg"
-   inkscape:export-filename="/home/mih/private/www/psychoinformatics-www/pelican-theme/static/img/logo.png"
+   inkscape:export-filename="/home/alex/git/psychoinformatics-www/pelican-theme/static/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -27,18 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="90.162202"
-     inkscape:cy="68.943802"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="21.613495"
+     inkscape:cy="41.899006"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1600"
-     inkscape:window-height="829"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1196"
+     inkscape:window-height="1120"
+     inkscape:window-x="1920"
+     inkscape:window-y="779"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -1143,7 +1143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1153,15 +1153,20 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <text
-       transform="matrix(0.82705011,0,0,1.1693683,16.319817,-183.77309)"
+       transform="matrix(0.82705011,0,0,1.1693683,16.413296,-183.90875)"
        clip-path="none"
        sodipodi:linespacing="89.999998%"
        id="text2971-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1;stroke:none;filter:url(#filter4433)"
-       xml:space="preserve"><textPath
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.89765167px;line-height:89.99999762%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35533476px;line-height:89.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;letter-spacing:1.18971872px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1;stroke:none;filter:url(#filter4433)"
+       xml:space="preserve"
+       inkscape:export-filename="/home/alex/git/psychoinformatics-www/pelican-theme/static/img/text2971-3-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><textPath
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.89746857px;line-height:89.99999762%;font-family:'Passion One';-inkscape-font-specification:'Passion One';text-align:start;letter-spacing:1.01685357px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5144);fill-opacity:1"
          id="textPath4130"
-         xlink:href="#path3925">010  101110110101110010111001001   11001001101000000110011   011000110011010101011001100101  101110 10011101</textPath></text>
+         xlink:href="#path3925"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 -3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1"
+         dx="0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 2 3 2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 -2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1">01011  01110110101110010111001001110100110100000011001101100110 011011    0101011001100101101110100 11101010 101110110110110</textPath></text>
     <path
        d="m 39.005492,1053.0852 5.942303,-21.0978 c -17.300399,-0.819 -25.950581,-6.7477 -25.950568,-17.7863 -1.3e-5,-4.1305 1.002907,-9.7566 3.008761,-16.87819 l 1.805258,-6.5697 c 1.103194,-3.9169 1.6548,-7.5489 1.654818,-10.8961 -1.8e-5,-2.0652 -0.501478,-4.0237 -1.504381,-5.8753 l 19.256075,0 c 0.8023,1.6736 1.203466,3.3828 1.203504,5.1275 -3.8e-5,3.0624 -0.626862,6.8012 -1.880476,11.2166 l -1.5796,5.6617 c -2.256603,7.86939 -3.384887,13.58449 -3.384856,17.14529 -3.1e-5,5.6973 3.53526,8.6884 10.605884,8.9732 l 16.548189,-58.64649 16.698628,0 -16.548189,58.64649 c 4.864102,10e-5 8.700268,-0.9258 11.508514,-2.7774 2.808104,-1.8872 5.340476,-5.1809 7.597123,-9.8812 4.462914,-9.4362 6.69441,-18.17789 6.694494,-26.22539 -8.4e-5,-2.813 -0.401252,-5.8931 -1.203505,-9.2403 l 18.879982,0 c 0.60165,2.457 0.90252,5.0742 0.90263,7.8516 -1.1e-4,14.5281 -4.28759,26.38559 -12.862459,35.57249 -8.524906,9.1513 -19.807751,14.0118 -33.84857,14.5815 l -5.867086,21.0978 -17.676473,0"
        style="font-style:oblique;font-variant:normal;font-weight:100;font-stretch:semi-condensed;font-size:109.38816071px;line-height:125%;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Thin Oblique Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:none"
