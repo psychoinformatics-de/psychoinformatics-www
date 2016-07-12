@@ -7,7 +7,7 @@ Lab Members
 
   <section id="members">
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>J.-Prof. Dr. Michael Hanke</h3>
         <p class="title">Principal Investigator</p>
@@ -26,7 +26,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/woody.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
         <h3>Alex Waite</h3>
         <p class="title">IT Specialist</p>
@@ -83,7 +83,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/brush.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/brush.png);"></div>
       <div class="info">
         <h3>Dipl.-Inf. Benjamin Poldrack</h3>
         <p class="title">Datalad Developer</p>
@@ -103,7 +103,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/parrot.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/parrot.png);"></div>
       <div class="info">
         <h3>Dipl.-Neurowiss. Falko R. Kaule</h3>
         <p class="title">PhD Student</p>
@@ -121,7 +121,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Christian Häusler (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
@@ -139,7 +139,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Pierre Ibe (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
@@ -176,7 +176,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Dr. Vittorio Iacovella</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
@@ -188,7 +188,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Moritz Boos</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
@@ -200,7 +200,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Michael Notter</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
@@ -211,7 +211,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Richard Dinga</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
@@ -222,7 +222,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Daniel Kottke</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
@@ -234,7 +234,7 @@ Alumni
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Prof. Sven Buchholz</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
