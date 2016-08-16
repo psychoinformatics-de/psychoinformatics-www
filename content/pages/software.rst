@@ -17,33 +17,6 @@ of Free and open-source software.
 
   <section class="alternate">
 
-.. image:: {filename}/img/logo/pymvpa.png
-   :alt: PyMPVA Logo
-   :target: http://www.pymvpa.org/
-
-PyMVPA is a toolbox for multivariate pattern analysis of neuroscientific data.
-It is a Python-based, platform-independent, and open-source solution that aids
-the application of algorithms from machine learning research to data from
-various modalities. Since it first publication in 2009, PyMVPA has been employed
-in studies performed by `numerous research groups
-<http://pymvpa.org/whoisusingit.html>`_.
-
-An `overview article
-<http://www.frontiersin.org/Neuroinformatics/10.3389/neuro.11.003.2009/abstract>`_
-on PyMVPA has been published in the journal `Frontiers in Neuroinformatics
-<http://www.frontiersin.org/Neuroinformatics>`_. More information on PyMVPA,
-including a detailed tutorial are available at http://pymvpa.org.
-
-.. raw:: html
-
-  <ul class='social-links'>
-    <li><a class='si-home' href="http://www.pymvpa.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/pymvpa"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/PyMVPA/PyMVPA"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-  </ul>
-  </section>
-  <section class="alternate">
-
 .. image:: {filename}/img/logo/neurodebian.png
    :alt: NeuroDebian Logo
    :target: http://neuro.debian.net/
@@ -72,20 +45,29 @@ information on NeuroDebian is available at http://neuro.debian.net.
   </section>
   <section class="alternate">
 
-.. image:: {filename}/img/logo/nibabel.png
-   :alt: NiBabel Logo
-   :target: http://nipy.org/nibabel
+.. image:: {filename}/img/logo/pymvpa.png
+   :alt: PyMPVA Logo
+   :target: http://www.pymvpa.org/
 
-PyNIfTI was one of the first packages to access data in the NIfTI format with
-the Python programming language. In the meantime, NiBabel has replaced PyNIfTI,
-offering support for many more file formats. More information on NiBabel is
-available at http://nipy.org/nibabel/
+PyMVPA is a toolbox for multivariate pattern analysis of neuroscientific data.
+It is a Python-based, platform-independent, and open-source solution that aids
+the application of algorithms from machine learning research to data from
+various modalities. Since it first publication in 2009, PyMVPA has been employed
+in studies performed by `numerous research groups
+<http://pymvpa.org/whoisusingit.html>`_.
+
+An `overview article
+<http://www.frontiersin.org/Neuroinformatics/10.3389/neuro.11.003.2009/abstract>`_
+on PyMVPA has been published in the journal `Frontiers in Neuroinformatics
+<http://www.frontiersin.org/Neuroinformatics>`_. More information on PyMVPA,
+including a detailed tutorial are available at http://pymvpa.org.
 
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://nipy.org/nibabel/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/nipy/nibabel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='si-home' href="http://www.pymvpa.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='si-twitter' href="https://twitter.com/pymvpa"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='si-github' href="https://github.com/PyMVPA/PyMVPA"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -108,5 +90,23 @@ by the domain and we would welcome a wide range of contributions.
     <li><a class='si-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
     <li><a class='si-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
     <li><a class='si-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+  </ul>
+  </section>
+  <section class="alternate">
+
+.. image:: {filename}/img/logo/nibabel.png
+   :alt: NiBabel Logo
+   :target: http://nipy.org/nibabel
+
+PyNIfTI was one of the first packages to access data in the NIfTI format with
+the Python programming language. In the meantime, NiBabel has replaced PyNIfTI,
+offering support for many more file formats. More information on NiBabel is
+available at http://nipy.org/nibabel/
+
+.. raw:: html
+
+  <ul class='social-links'>
+    <li><a class='si-home' href="http://nipy.org/nibabel/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='si-github' href="https://github.com/nipy/nibabel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>
