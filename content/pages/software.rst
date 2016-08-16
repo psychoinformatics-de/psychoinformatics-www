@@ -90,7 +90,7 @@ available at http://nipy.org/nibabel/
   </section>
   <section class="alternate">
 
-.. image:: {filename}/img/logo/neurodebian.png
+.. image:: {filename}/img/logo/datalad.png
    :alt: DataLad Logo
    :target: http://datalad.org
 
