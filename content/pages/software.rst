@@ -80,8 +80,8 @@ DataLad aims to provide access to scientific data available from various sources
 (e.g. lab or consortium web-sites such as Human connectome; data sharing portals
 such as OpenFMRI and CRCNS) through a single convenient interface and integrated
 with your software package managers (such as APT in Debian). Although initially
-targeting neuroimaging and neuroscience data in general, it will not be limited
-by the domain and we would welcome a wide range of contributions.
+targeting neuroimaging and neuroscience data in general, it is not be limited by
+the domain and we welcome a wide range of contributions.
 
 .. raw:: html
 
