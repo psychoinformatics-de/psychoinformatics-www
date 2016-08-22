@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 # Configure the site
 #
 STATIC_PATHS = ['img']
-MENUITEMS = (('Home', '/'),
+MENUITEMS = (('Home', 'index.html'),
              ('People', 'lab-members.html'),
              ('Research', 'research.html'),
              ('Software', 'software.html'),
