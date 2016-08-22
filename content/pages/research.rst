@@ -10,7 +10,7 @@ Ongoing Projects
 
   <section class="alternate">
 
-The studyforrest project
+The studyforrest Project
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 An open invitation to anyone and everyone to participate in a decentralized
