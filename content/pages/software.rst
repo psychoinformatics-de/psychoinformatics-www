@@ -5,13 +5,13 @@ Software
 
 
 Repeatedly, we find ourselves in need of software tools to implements ideas and
-research projects. This could be software to help dealing with large amounts of
-data, or implementations of specific algorithms. Typically, such software tools
-are tailored to an individual project and are, consequently, not very
-interesting for other groups. However, over the past few years, we have started
-a number of software developments that target a larger audience, and have
-reached significant adoption. This page offers a compact overview of a selection
-of Free and open-source software.
+research projects. This can be software to help deal with large amounts of data
+or implementations of specific algorithms. Typically, such software tools are
+tailored to an individual project and are, consequently, not very interesting
+for other groups. However, over the years, we have created a number of software
+projects that specifically target a broader audience and have reached
+significant adoption. This page offers a compact overview of such projects ---
+all of which are Free and open-source.
 
 .. raw:: html
 
