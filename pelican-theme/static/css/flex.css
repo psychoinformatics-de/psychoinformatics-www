@@ -74,8 +74,14 @@ aside a:hover {
   text-shadow: 0 0 1.5em #fff, 0 0 2.5em #fff;
 }
 aside a.active {
-  border-bottom: 3px solid #d9411e;
+  border-bottom: 3px solid rgba(217,65,30,1.0);
   padding-bottom: 0.1em;
+  animation: borderFadeIn 0.5s;
+}
+
+@keyframes borderFadeIn {
+  from { border-bottom: 3px solid rgba(217,65,30,0.0); }
+  to   { border-bottom: 3px solid rgba(217,65,30,1.0); }
 }
 
 aside h1 { font-size: 1.6em; }
