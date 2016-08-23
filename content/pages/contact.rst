@@ -24,11 +24,11 @@ Contact Us
        <h2>Lab Address</h2>
        <div>Gebäude 23 R009<br />
           Otto-von-Guericke-Universität<br />
-          <span itemprop="telephone"><i class="fa fa-phone" aria-hidden="true"></i>
+          <span itemprop="telephone"><i class="fa fa-phone" title="telephone" aria-hidden="true"></i>
             +49 391-67 18481</span><br />
-          <span itemprop="faxNumber"><i class="fa fa-fax" aria-hidden="true"></i>
+          <span itemprop="faxNumber"><i class="fa fa-fax" title="fax" aria-hidden="true"></i>
             +49 391-67 11947</span><br />
-          <span itemprop="email"><i class="fa fa-envelope" aria-hidden="true"></i>
+          <span itemprop="email"><i class="fa fa-envelope" title="email" aria-hidden="true"></i>
             michael.hanke@ovgu.de</span>
        </div>
      </div>
