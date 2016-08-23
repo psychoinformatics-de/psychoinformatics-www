@@ -50,14 +50,6 @@
     </div>
   </aside>
   <main>
-    {% if LINKS %}
-    <nav>
-      {% for name, link in LINKS %}
-        <a href="{{ link }}" target="_blank">{{ name }}</a>
-      {% endfor %}
-    </nav>
-    {% endif %}
-
     <div id='content'>
     {% block content %}{% endblock %}
     </div>

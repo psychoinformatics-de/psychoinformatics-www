@@ -112,20 +112,6 @@ aside nav ul li {
 }
 
 
-main nav {
-  text-align: center;
-  text-transform: uppercase;
-  font-size: .72em;
-  padding: 14px 0;
-  border-bottom: #eee 1px solid;
-}
-main nav a {
-  padding: 0 4px;
-  border-right: #eee 1px solid;
-}
-main nav :first-child {
-  border-left: #eee 1px solid;
-}
 main article {
   margin: 0 4vw;
 }
