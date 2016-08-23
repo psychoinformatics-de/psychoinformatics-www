@@ -35,6 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
   font-weight: normal;
   line-height: 1.2;
+  text-align: center;
 }
 h1 { font-size: 2.5em; }
 h2 { font-size: 2.0em; }
@@ -198,9 +199,6 @@ section a.image-reference {
 }
 section a.image-reference img {
   width: 100%;
-}
-section h2 {
-  text-align: center;
 }
 
 main {
