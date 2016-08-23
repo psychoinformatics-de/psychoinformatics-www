@@ -21,6 +21,7 @@ LOCALE = u'en_US.UTF-8'
 PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = []
 
+DIRECT_TEMPLATES = [] # disable all default templates (tags, categories, authors, archives)
 THEME = 'pelican-theme'
 
 # Feed generation is usually not desired when developing
