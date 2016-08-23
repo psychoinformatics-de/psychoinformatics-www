@@ -189,7 +189,7 @@ section, article div.section {
   overflow: hidden;
 }
 section.alternate:nth-child(2n) {
-  background-color: hsla(31,15%,50%,.1);
+  background-color: #f6f6f6;
 }
 section a.image-reference {
   display: block;
