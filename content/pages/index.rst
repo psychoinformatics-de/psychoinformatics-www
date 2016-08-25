@@ -1,5 +1,5 @@
-Psychoinformatics
-*****************
+Psycho­informatics
+******************
 :save_as: index.html
 :url: index.html
 
