@@ -57,6 +57,51 @@ Source:
 ----
 
 Files:
+  img/logo/\*
+Copyright:
+  Belongs to their respective owners
+License:
+  All Rights Reserved
+
+----
+
+Files:
+  img/logo/datalad.png
+Copyright:
+  2016, Alex Waite and Yaroslav Halchenko
+License:
+  `MIT`_
+
+----
+
+Files:
+  img/logo/neurodebian.png
+Copyright:
+  Michael Hanke
+License:
+  `MIT`_
+
+----
+
+Files:
+  img/logo/nibabel.png
+Copyright:
+  2016, Alex Waite and Michael Hanke
+License:
+  `MIT`_
+
+----
+
+Files:
+  img/logo/pymvpa.png
+Copyright:
+  2010. Michael Hanke
+License:
+  `MIT`_
+
+----
+
+Files:
   img/mugshots/\*
 Copyright:
   2016 Alex Waite, Laura Waite, and Michael Hanke
