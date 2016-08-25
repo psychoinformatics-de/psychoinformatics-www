@@ -35,6 +35,28 @@ Notes:
 ----
 
 Files:
+  img/projects_completed.jpg
+Copyright:
+  1877, Pedro Américo
+License:
+  Public Domain
+Source:
+  https://en.wikipedia.org/wiki/File:Americo-ava%C3%AD.jpg
+
+----
+
+Files:
+  img/projects_ongoing.jpg
+Copyright:
+  1887, Eadweard Muybridge
+License:
+  Public Domain
+Source:
+  https://www.loc.gov/pictures/item/98514082/
+
+----
+
+Files:
   img/mugshots/\*
 Copyright:
   2016 Alex Waite, Laura Waite, and Michael Hanke
