@@ -42,7 +42,6 @@ MENUITEMS = (('Home', 'index.html'),
              ('Publications', 'publications.html'),
              ('Contact', 'contact.html'),
 )
-SOCIAL = (('github', 'https://github.com/psychoinformatics-de'),)
 
 DEFAULT_PAGINATION = False
 
