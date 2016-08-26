@@ -205,12 +205,16 @@ main #content {
 main footer {
   padding: 1em 0;
   border-top: #eee 1px solid;
+  line-height: 0.7em;
 }
 main footer p {
   margin: 2px;
   text-align: center;
   color: #999;
   font-size: 15px;
+}
+footer span.break {
+  display: block;
 }
 
 #contact {
@@ -364,6 +368,9 @@ main footer p {
   }
   #contact > div:nth-child(2n) {
     text-align: right;
+  }
+  main footer span.break {
+    display: inline;
   }
 }
 
