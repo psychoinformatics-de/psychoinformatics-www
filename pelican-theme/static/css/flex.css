@@ -113,10 +113,10 @@ aside nav ul {
   padding: 0;
   text-align: left;
 }
-aside nav ul li:nth-of-type(-n+3) {
+aside nav li:nth-of-type(-n+3) {
   text-align: right;
 }
-aside nav ul li {
+aside nav li {
   font-size: 1.28em;
   line-height: 1.6em;
   padding: 0 0.3em;
@@ -214,16 +214,16 @@ main #content {
   flex: 1;
 }
 
-main footer {
-  padding: 1em 0;
+footer {
   border-top: #eee 1px solid;
+  padding: 1em 0;
   line-height: 0.7em;
 }
-main footer p {
-  margin: 2px;
-  text-align: center;
+footer p {
   color: #999;
   font-size: 15px;
+  margin: 2px;
+  text-align: center;
 }
 footer span.break {
   display: block;
@@ -319,11 +319,11 @@ footer span.break {
     column-rule: none; -moz-column-rule: none; -webkit-column-rule: none;
     text-align: center;
   }
-  aside nav ul li:nth-of-type(-n+3) {
+  aside nav li:nth-of-type(-n+3) {
     text-align: inherit;
   }
-  aside div nav ul li {
-    padding: 0 !important;
+  aside nav li {
+    padding: 0;
   }
   main {
     width: 75%;
@@ -391,7 +391,7 @@ footer span.break {
     margin: 0 -8vw;
     width: 75vw;
   }
-  main footer span.break {
+  footer span.break {
     display: inline;
   }
 }
