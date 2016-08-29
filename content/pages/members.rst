@@ -40,7 +40,7 @@ Lab Members
         hold a candle to man.</p>
         <ul class='social-links'>
           <li><a class='si-envelope-o' href="mailto:Alexqw85@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/Alexqw"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='si-github' href="https://github.com/aqw"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
