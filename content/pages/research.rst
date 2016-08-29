@@ -3,20 +3,47 @@ Research
 :save_as: research.html
 :url: research.html
 
+Our research covers a broad range from advancing research methodology, over
+actual engineering of readily usable tools, to the application of such
+developments to concrete research questions in medicine, psychology, or
+cognitive neuroscience — because there is nothing worse than a solution without
+a problem.
+
 .. raw:: html
 
   <h2>Ongoing Projects</h2>
   <img src='/img/projects_ongoing.jpg' alt='Man With a Pick Axe' class='project-imgs' />
 
+Most recently our main research focus lies on studying the representation of
+information about, and for interacting with, the environment. We believe that
+ecologically valid conclusions about these representations can only be drawn
+when they are also studied under conditions of real-life complexity. Hence our
+aim is to combine controlled experiments with complex natural stimulation, in
+order to be able to validate our findings.
+
+.. raw:: html
+
   <section class="alternate">
     <h3>The studyforrest Project</h3>
 
-An open invitation to anyone and everyone to participate in a decentralized
-effort to explore the opportunities of open science in neuroimaging. We aim to
-document how much (scientific) value can be generated from a data release — from
-the publication of scientific findings derived from this dataset, algorithms and
-methods evaluated on this dataset, and/or extensions of this dataset by the
-acquisition and incorporation of new data.
+This is a long-running project that aims to built a unique resource for
+studying the brain's natural behavior. It combines brain imaging with other
+data acquisition techniques to capture a versatile recording of the human
+response to a prolonged complex natural stimulus, the motion picture "Forrest
+Gump".
+
+This project is an open invitation to anyone and everyone to participate in a
+decentralized effort to explore the opportunities of open science in
+neuroimaging. We aim to document how much (scientific) value can be generated
+from the data releases — from the publication of scientific findings derived
+from this dataset, algorithms and methods evaluated on this dataset, and/or
+extensions of this dataset by the acquisition and incorporation of new data.
+
+Since 2014 a number of data sets have been publicly released for unrestricted
+use, covering functional and structural brain imaging, eye tracking,
+physiological recordings, and numerous annotations of the structure of the
+movie stimulus. For up-to-date information on available data, funding, and our
+many collaborators, please see the project homepage.
 
 .. raw:: html
 
@@ -24,6 +51,31 @@ acquisition and incorporation of new data.
     <li><a class='si-home' href="http://studyforrest.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
     <li><a class='si-twitter' href="https://twitter.com/studyforrest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
     <li><a class='si-github' href="https://github.com/psychoinformatics-de?query=studyforrest"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+  </ul>
+  </section>
+
+  <section class="alternate">
+    <h3>DataLad</h3>
+
+This is a software engineering project that aims to deliver a data management
+tool that is ideally suited for projects like our *studyforrest* effort. It
+applies the successful model of collaborative, decentralized open source
+software development to the domain of managing and sharing (scientific) data.
+Please see the `software page </software.html>`_ for more information.
+
+This project is executed in collaboration with `Yaroslav Halchenko (Dartmouth
+College) <http://haxbylab.dartmouth.edu/people/yarik.html>`_, and is co-funded
+by the US National Science Foundation (NSF; 1429999), and the German Federal
+Ministry of Education and Research (BMBF; 01GQ1411) as part of a US-German
+collaboration in computational neuroscience (CRCNS).
+
+.. raw:: html
+
+  <ul class='social-links'>
+    <li><a class='si-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='si-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='si-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='si-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
   </ul>
   </section>
 
@@ -39,6 +91,11 @@ reinforcers on these representations; and 3) identify the effects of
 over-learned and novel visuo-gustatory correspondences on these and their
 functional interplay by means of univariate fMRI-approaches (plus functional
 connectivity), classification analysis, and functional hyperalignment.
+
+This project is a collaboration with `Toemme Noesselt (Magdeburg University)
+<http://www.ipsy.ovgu.de/something>`_, and is funded by the German Research
+Council (DFG) as a part of the collaborative research center `SFB779
+<http://www.sfb779.de>`_ in Magdeburg.
 
 .. raw:: html
 
@@ -57,10 +114,10 @@ by learning/selection history). Specifically, what preferences can it hold, how
 do these change as a function of experience, and what are the neural codes
 underlying these representations?
 
-A collaboration with S. Pollmann (Experimental Psychology, Institute of
-Psychology II, Magdeburg); M. Eimer, Birkbeck College, University of London
-(UK); and C.N.L. Olivers, Vrije Universiteit Amsterdam (NL), this project is
-co-funded by the German Research Foundation (DFG; PO 548/16-1).
+This project is a collaboration with `S. Pollmann (Magdeburg University)
+<linkme>`_, M.  Eimer (Birkbeck College, University of London), and C.N.L.
+Olivers (Vrije Universiteit Amsterdam). It is co-funded by the German Research
+Foundation (DFG; PO 548/16-1).
 
 .. raw:: html
 
