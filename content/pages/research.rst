@@ -12,7 +12,6 @@ a problem.
 .. raw:: html
 
   <h2>Ongoing Projects</h2>
-  <img src='/img/projects_ongoing.jpg' alt='Man With a Pick Axe' class='project-imgs' />
 
 Most recently our main research focus lies on studying the representation of
 information about, and for interacting with, the environment. We believe that
@@ -124,7 +123,6 @@ Foundation (DFG; PO 548/16-1).
   </section>
 
   <h2>Completed Projects</h2>
-  <img src='/img/projects_completed.jpg' alt='The Battle of Avaí' class='project-imgs' />
 
   <section class="alternate">
     <h3>Building Common High-dimensional Models of Neural Representational Spaces</h3>

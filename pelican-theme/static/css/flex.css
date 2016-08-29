@@ -176,22 +176,30 @@ main article header h2 {
   text-indent: -2em;
 }
 
-section, article div.section {
+section {
+  border-bottom: #eee 3px solid;
   margin: 0 -4vw;
-  padding: 2em 4vw;
   overflow: hidden;
+  padding: 2em 4vw;
 }
-section.alternate:nth-child(2n) {
-  background-color: #f6f6f6;
+section > h2:first-child, div.section > h2:first-child,
+section > h3:first-child, div.section > h3:first-child {
+  margin-top: 0;
 }
+section:first-of-type { border-top: #eee 3px solid; }
+section:last-of-type { border: 0; }
+h2 + section { border-top: 0; }
+
+section.alternate:nth-child(2n) { background-color: #f6f6f6; }
+
 section a.image-reference {
   display: block;
-  margin: 0.5em auto 1.5em auto;
-  width: 90%;
+  margin: 0 auto 1.5em auto;
 }
 section a.image-reference img {
   width: 100%;
 }
+
 
 main {
   display: flex;
@@ -289,8 +297,8 @@ footer span.break {
 }
 
 
-
 @media screen and (min-width: 768px) {
+
   aside {
     width: 25%;
     height: 100%;
