@@ -5,7 +5,7 @@ Publications
 
 .. raw:: html
 
-  <div class="publicationlist">
+  <div class="publications">
 
 Submitted
 ~~~~~~~~~
@@ -193,7 +193,7 @@ Kognitive Prozesse bei der Bewegungswahrnehmung. *Scientia halensis, 4*,
 
 .. raw:: html
 
-  </div><!-- class="publicationlist"-->
+  </div><!-- class="publications"-->
 
 
 .. |---| unicode:: U+02014 .. em dash
