@@ -64,7 +64,7 @@ software development to the domain of managing and sharing (scientific) data.
 Please see the `software page </software.html>`_ for more information.
 
 This project is executed in collaboration with `Yaroslav Halchenko (Dartmouth
-College) <http://haxbylab.dartmouth.edu/people/yarik.html>`_, and is co-funded
+College) <http://haxbylab.dartmouth.edu/ppl/yarik.html>`_, and is co-funded
 by the US National Science Foundation (NSF; 1429999), and the German Federal
 Ministry of Education and Research (BMBF; 01GQ1411) as part of a US-German
 collaboration in computational neuroscience (CRCNS).
@@ -93,7 +93,7 @@ functional interplay by means of univariate fMRI-approaches (plus functional
 connectivity), classification analysis, and functional hyperalignment.
 
 This project is a collaboration with `Toemme Noesselt (Magdeburg University)
-<http://www.ipsy.ovgu.de/something>`_, and is funded by the German Research
+<http://www.ipsy.ovgu.de/Abteilungen/Biologische+Psychologie.html>`_, and is funded by the German Research
 Council (DFG) as a part of the collaborative research center `SFB779
 <http://www.sfb779.de>`_ in Magdeburg.
 
@@ -115,7 +115,7 @@ do these change as a function of experience, and what are the neural codes
 underlying these representations?
 
 This project is a collaboration with `S. Pollmann (Magdeburg University)
-<linkme>`_, M.  Eimer (Birkbeck College, University of London), and C.N.L.
+<http://www.ipsy.ovgu.de/allgpsych.html>`_, M.  Eimer (Birkbeck College, University of London), and C.N.L.
 Olivers (Vrije Universiteit Amsterdam). It is co-funded by the German Research
 Foundation (DFG; PO 548/16-1).
 
