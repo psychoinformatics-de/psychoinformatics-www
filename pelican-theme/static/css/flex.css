@@ -35,7 +35,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  text-align: center;
 }
 h1 { font-size: 2.5em; }
 h2 { font-size: 2.0em; }
@@ -86,9 +85,9 @@ aside a.active {
 }
 
 img.project-imgs {
-  margin: 0 -8vw;
+  margin: 0 -6vw;
   object-fit: cover;
-  width: 75vw;
+  width: 100vw;
 }
 
 aside h1 { font-size: 1.6em; }
@@ -119,7 +118,7 @@ aside nav ul li {
 
 
 main article {
-  margin: 0 4vw;
+  margin: 0 6vw;
 }
 main article header h1,
 main article header h2 {
@@ -176,9 +175,9 @@ main article header h2 {
 
 section {
   border-bottom: #eee 3px solid;
-  margin: 0 -4vw;
+  margin: 0 -6vw;
   overflow: hidden;
-  padding: 2em 4vw;
+  padding: 2em 6vw;
 }
 section > h2:first-child, div.section > h2:first-child,
 section > h3:first-child, div.section > h3:first-child {
@@ -263,7 +262,7 @@ footer span.break {
 }
 #members .mem .info {
   color: #3a4046;
-  padding: 2em 4vw;
+  padding: 2em 6vw;
   text-align: left;
   transition: all .3s ease-in-out;
 }
@@ -374,6 +373,10 @@ footer span.break {
   }
   #contact > div:nth-child(2n) {
     text-align: right;
+  }
+  img.project-imgs {
+    margin: 0 -8vw;
+    width: 75vw;
   }
   main footer span.break {
     display: inline;
