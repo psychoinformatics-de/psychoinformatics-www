@@ -41,47 +41,15 @@ verfügbar.
 Laufende Arbeiten
 =================
 
-.. list-table::
-   :header-rows: 1
-
-   * - Name
-     - Fach
-     - Titel der Arbeit
-   * - Kienda, Melanie
-     - M.Sc. Psychologie
-     -
-   * - Häusler, Christian
-     - M.Sc. Psychologie
-     -
+* **Melanie Kienda**; M.Sc. Psychologie
+* **Christian Häusler**; M.Sc. Psychologie
 
 Fertige Abschlussarbeiten
 =========================
 
-.. list-table::
-   :header-rows: 1
-
-   * - Absolvent
-     - Jahr
-     - Abschluss/Fach
-     - Titel der Arbeit
-   * - Lidner, Ricarda
-     - 2015
-     - Computervisualistik
-     - Browser-basiertes Tool zur semantischen Beschreibung von multiplen Reizen für Hirnaktivitäten
-   * - Ibe, Pierre
-     - 2014
-     - B.Sc. Psychologie
-     - Stimmenerkennung im superioren Temporallappen untersucht mit Hilfe von natürlicher Stimulation und multivariater Musteranalyse: "Bist du das Forrest?"
-   * - Zelmer, Jan
-     - 2014
-     - Diplom Informatik
-     - Modellierung von Aufmerksamkeitsnetzen
-   * - Kottke, Daniel
-     - 2013
-     - B.Sc. Informatik
-     - Interactive Object Detection in Movies
-   * - Blum, Friedrich
-     - 2013
-     - B.Sc. Psychologie
-     - Kann eine verbale Beschreibung musikalischen Timbres zur Genreunterscheidung herangezogen werden?
+* **Ricarda Lidner**; Computervisualistik; 2015 — Browser-basiertes Tool zur semantischen Beschreibung von multiplen Reizen für Hirnaktivitäten
+* **Pierre Ibe**; B.Sc. Psychologie; 2014 — Stimmenerkennung im superioren Temporallappen untersucht mit Hilfe von natürlicher Stimulation und multivariater Musteranalyse: "Bist du das Forrest?"
+* **Jan Zelmer**; Diplom Informatik; 2014 — Modellierung von Aufmerksamkeitsnetzen
+* **Daniel Kottke**; B.Sc. Informatik; 2013 — Interactive Object Detection in Movies
+* **Friedrich Blum**; B.Sc. Psychologie; 2013 — Kann eine verbale Beschreibung musikalischen Timbres zur Genreunterscheidung herangezogen werden?
 
