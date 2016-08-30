@@ -10,17 +10,17 @@ Publications
 Submitted
 ~~~~~~~~~
 
-Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
-`Brains on Beats <http://arxiv.org/abs/1606.02627>`_.
+**Häusler, C. O. & Hanke, M.**. An annotation of cuts, depicted locations,
+and temporal progression in the motion picture "Forrest Gump".
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
 visual cortex.
 
 **Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
-F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.
-`Simultaneous fMRI and eye gaze recordings during prolonged natural stimulation
--- a studyforrest extension
+F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.  `A
+studyforrest extension, simultaneous fMRI and eye gaze recordings during
+prolonged natural stimulation
 <http://biorxiv.org/content/early/2016/03/31/046581>`_.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
@@ -41,10 +41,15 @@ The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 Peer-reviewed
 ~~~~~~~~~~~~~
 
-**Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler, C.**,
-Stadler, J. & **Hanke, M**. `An extension of the studyforrest dataset for
-vision research <http://biorxiv.org/content/early/2016/03/31/046573>`_.
-Scientific Data. Accepted for publication.
+Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
+`Brains on Beats <http://arxiv.org/abs/1606.02627>`_. NIPS. Accepted for
+publication.
+
+**Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
+C.**, Stadler, J. & **Hanke, M**. `A studyforrest extension, retinotopic
+mapping and localization of higher visual areas
+<http://biorxiv.org/content/early/2016/03/31/046573>`_.  Scientific Data.
+Accepted for publication.
 
 Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Duff, E. P.,
 Flandin, G., Ghosh, S. S., Halchenko, Y. O., Handwerker, D. A., **Hanke, M.**,
