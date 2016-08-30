@@ -201,6 +201,9 @@ section a.image-reference {
   margin: 0 auto 1.5em auto;
 }
 section a.image-reference img {
+  max-height: 40vh;
+  min-width: 50vw;
+  object-fit: scale-down;
   width: 100%;
 }
 
@@ -333,14 +336,10 @@ footer span.break {
     overflow-x: hidden;
     overflow-y: hidden;
   }
-  section a.image-reference {
-    width: 70%;
-  }
   section a.image-reference img {
     /* this is suboptimal because the logos are different aspect ratios, leading
      * to different logo widths :-/ */
-    max-height: 13vh;
-    object-fit: scale-down;
+    max-height: 20vh;
   }
 
   #contact #map {
