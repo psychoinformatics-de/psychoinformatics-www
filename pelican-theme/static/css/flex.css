@@ -52,6 +52,9 @@ body {
   font-size: 1.1em;
   line-height: 2em;
 }
+p {
+  margin: 2em 0;
+}
 a {
   color: #d9411e;
   text-decoration: none;
@@ -402,5 +405,15 @@ footer span.break {
   }
   #members.alumni .mem {
     flex-basis: 24%;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  main article {
+    margin: 0 12vw;
+  }
+  section, article div.section {
+    margin: 0 -12vw;
+    padding: 2em 12vw;
   }
 }
