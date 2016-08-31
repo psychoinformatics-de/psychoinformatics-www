@@ -10,7 +10,7 @@ or implementations of specific algorithms. Typically, such software tools are
 tailored to an individual project and are, consequently, not very interesting
 for other groups. However, over the years, we have created a number of software
 projects that specifically target a broader audience and have reached
-significant adoption. This page offers a compact overview of such projects ---
+significant adoption. This page offers a compact overview of such projects —
 all of which are Free and open-source.
 
 .. raw:: html

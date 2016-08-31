@@ -87,12 +87,6 @@ aside a.active {
   to   { border-bottom: 3px solid rgba(217,65,30,1.0); }
 }
 
-img.project-imgs {
-  margin: 0 -6vw;
-  object-fit: cover;
-  width: 100vw;
-}
-
 aside h1 { font-size: 1.6em; }
 
 aside div {
@@ -388,10 +382,6 @@ footer span.break {
   }
   #contact > div:nth-child(2n) {
     text-align: right;
-  }
-  img.project-imgs {
-    margin: 0 -8vw;
-    width: 75vw;
   }
   footer span.break {
     display: inline;
