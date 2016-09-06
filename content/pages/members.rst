@@ -259,10 +259,10 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
       <div class="mugshot" style="background-image: url(/img/mugshots/grill-3.png);"></div>
       <div class="info">
         <h3>Ulf der Dritte (2015&ndash;)</h3>
-        <p class="blurb">The Trolley Grill "Toronto". It's big enough to feed
-        three labs twice over; so big they named it after a city. <em>Plus</em>
-        it comes with a built-in 15¢ bottle opener. Though the wheels do kinda
-        fall off...</p>
+        <p class="blurb">The Trolley Grill "Toronto". So big they named it after
+        a city; big enough to feed three labs twice over. <em>And</em> it comes
+        with a built-in 15¢ bottle opener, for convenience. Though the wheels do
+        have a bit of tendency to fall off...</p>
         <ul class='social-links'>
           <li><a class='si-home' href="http://wp.tepro-gartenwelt.de/en/grills/holzkohlegrills/grillwagen-toronto/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
         </ul>
@@ -274,10 +274,10 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
       <div class="info">
         <h3>Helga der Zweite (2013&ndash;2015)</h3>
         <p class="blurb">The Landmann Pedestal Barbecue: bigger, better, taller.
-        No need for a Frisbee; this thing has a fantastic door through which air
-        can flow up the center column. When carrying, the balance is perfect for
-        slinging over your shoulder, mimicking a lumberjack as 'e carries a
-        grill deep into the wilderness...</p>
+        Its claim to fame is the fantastic door through which air can flow up
+        the center column. When carrying, the balance is perfect for slinging
+        over your shoulder, emulating a lumberjack as 'e carries a grill deep
+        into the wilderness...</p>
         <ul class='social-links'>
           <li><a class='si-home' href="http://www.landmann.de/landmann/en/charcoal_barbecues/pedestal_barbecues/produktinformationen/225030/pedestal-barbecue"><i class="fa fa-home" aria-hidden="true"></i></a></li>
         </ul>
@@ -289,7 +289,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
       <div class="info">
         <h3>Horst der Erste (2012&ndash;2013)</h3>
         <p class="blurb">The Landmann Patio Barbecue Fire Bowl &mdash; the grill
-        that began it all.  Small, yet hardy. And there's the added bonus that
+        that began it all. Small, yet hardy. Plus, there's the added bonus that
         the poor airflow actively promotes team bonding through the shared
         effort of frantically waving a Frisbee to get the coals going.</p>
       </div>
