@@ -64,7 +64,8 @@ Ongoing Thesis Projects
 -----------------------
 
 **Pierre Ibe** (M.Sc. Psychology)
-  t.b.n
+  Effects of observing interpersonal touch in the human brain using natural
+  stimulation
 
 **Falko Kaule** (PhD)
   Untersuchung von Physiologie und Pathophysiologie des menschlichen visuellen
