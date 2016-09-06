@@ -63,7 +63,12 @@ page <https://github.com/psychoinformatics-de>`_.
 Ongoing Thesis Projects
 -----------------------
 
-* **Pierre Ibe** (M.Sc. Psychology)
+**Pierre Ibe** (M.Sc. Psychology)
+  t.b.n
+
+**Falko Kaule** (PhD)
+  Untersuchung von Physiologie und Pathophysiologie des menschlichen visuellen
+  Kortex mit funktioneller Magnetresonanztomographie
 
 Completed Theses
 ----------------
