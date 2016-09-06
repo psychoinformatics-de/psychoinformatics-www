@@ -74,7 +74,8 @@ Completed Theses
 ----------------
 
 **Christian Häusler** (M.Sc. Psychology, 2016)
-  TODO add title
+  Forrest Gump's world: Spatial perception and cognition during a Hollywood
+  movie
 
 **Ayan Sengupta** (PhD, 2016)
   The Effect of Acquisition Resolution and Magnetic Field Strength on
