@@ -7,7 +7,7 @@ The focus of our teaching activities lies on the acquisition of practical
 skills for conducting high-quality scientific projects efficiently. This starts
 with basic necessities, like programming with a scripting language, to be able
 to pursue projects independently. Following the principles of Open Science,
-students are encouraged to perform there course work with to goal to share it
+students are encouraged to perform their course work with the goal to share it
 with the larger scientific community, to expose it to public scrutiny via
 independent peer-review, and by those means obtain a first hand experience of
 the scientific process. Two successful examples of student-authored
@@ -24,11 +24,11 @@ publications resulting from such work can be found in:
   <http://f1000research.com/articles/4-92>`_. *F1000Research*, 4:92.
 
 
-Research internships
+Research Internships
 ====================
 
 We offer the opportunity for research internships for international students
-(PhD, high school), and postdocs, ranging from few weeks to several months.
+(PhD, high school) and postdocs, ranging from few weeks to several months.
 In the past, research topics comprised multivariate data analysis of
 neuroimaging data, multi-modal dataset from natural stimulation, and
 computational modeling of behavioral data. The implementation of the algorithm
@@ -41,14 +41,12 @@ is an example of an internship result:
   <http://f1000research.com/articles/4-174>`_. *F1000Research*, 4:174.
 
 
-
-
 Theses
 ======
 
-Students are welcome to inquire about thesis topics at any point, and as early
+Students are welcome to inquire about thesis topics at any point — and as early
 as possible. Potential thesis topics range from literature work to more
-ambitious projects with dedicated acquisition of empirical data, or method
+ambitious projects with dedicated acquisition of empirical data or method
 developments. Actual projects are typically tailored to the individual interests
 and capabilities of the respective student. Topics can be inspired by, or
 related to `the lab's research activities </research.html>`_, but this is not
@@ -56,18 +54,18 @@ a strict requirement.
 
 Our `score sheet
 <http://www.ipsy.ovgu.de/ipsy_media/Psychoinformatik/begutachtung_abschlussarbeiten_pdf-download-1-p-2186.pdf>`_
-provides some information on how submitted theses are evaluated.  A `LaTeX
+provides some information on how submitted theses are evaluated. A `LaTeX
 thesis template <https://github.com/psychoinformatics-de/thesis-template>`_
 that facilitates the writing process can be obtained from `the lab's GitHub
 page <https://github.com/psychoinformatics-de>`_.
 
 
-Ongoing thesis projects
+Ongoing Thesis Projects
 -----------------------
 
 * **Pierre Ibe** (M.Sc. Psychology)
 
-Completed theses
+Completed Theses
 ----------------
 
 **Christian Häusler** (M.Sc. Psychology, 2016)
