@@ -247,59 +247,70 @@ footer span.break {
 
 #members {
   align-items: flex-end;
-  background: repeating-linear-gradient(180deg, #fff, #f6f6f6 537px, #f0f0f0 537px, #f0f0f0 538px);
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 460px, #fff 461px, #fff 590px);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   line-height: 0;
+  margin-top: 2em;
   padding-top: 0;
   padding-bottom: 0;
 }
 #members .mem {
   flex-basis: 100%;
-  height: 1076px;
+  height: 590px;
   position: relative;
 }
-#members .mem .mugshot {
+#members .mugshot {
   background-repeat: no-repeat;
   background-position: center bottom;
-  height: 538px;
-  opacity: 1;
-  transition: opacity .2s ease-in-out;
+  height: 460px;
 }
-#members .mem .info {
+#members .info {
   color: #3a4046;
-  padding: 2em 6vw;
-  text-align: left;
-  transition: all .3s ease-in-out;
+  padding: 0.5em 0;
+  text-align: center;
 }
-#members .mem .info h3 {
-  font-size: 18px;
+#members .info h3 {
+  font-size: 20px;
   font-weight: 700;
   line-height: 22px;
   margin: 0 0 5px;
 }
-#members .mem .info p {
+#members p.blurb {
+  display: none;
+}
+#members .info p {
   font-size: 14px;
   line-height: 24px;
 }
-#members .mem .info p.title {
-  font-size: 20px;
+#members p.title {
+  font-size: 18px;
   line-height: 22px;
-  text-transform: uppercase;
+  margin: 0.5em 0;
+}
+#members .social-links {
+  border-bottom: 1px solid #d0d0d0;
+  margin: 0;
+  padding: 0 0 0.5em 0;
 }
 
 #members.alumni {
-  background: repeating-linear-gradient(180deg, #fff, #f6f6f6 385px);
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 400px);
 }
 #members.alumni .mem {
-  height: 770px;
+  height: 400px;
 }
 #members.alumni .mem .mugshot {
-  background-size: 250px auto;
-  height: 385px;
+  background-size: auto 290px;
+  height: 310px;
 }
 
+@media screen and (min-width: 500px) {
+  #members.alumni .mem {
+    flex-basis: 48%;
+  }
+}
 
 @media screen and (min-width: 768px) {
   aside {
@@ -343,28 +354,45 @@ footer span.break {
     height: 30em;
   }
 
+  #members {
+    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 460px, #fff 461px, #fff 500px);
+  }
+  #members p.blurb {
+    display: unset;
+  }
   #members .mem {
     flex-basis: 48%;
-    height: 538px;
+    height: 500px;
+  }
+  #members .mugshot {
+    transition: opacity .2s ease-in-out;
+  }
+  #members .social-links {
+    border-bottom: unset;
+    padding: 0.5em 0;
   }
   #members .mem:hover {
     cursor: help;
   }
-  #members .mem:hover .info {
+  #members .mem:hover .info, #members .mem:active .info {
     opacity: 1;
-    top: 28%;
+    top: 18%;
   }
-  #members .mem:hover .mugshot {
+  #members .mem:hover .mugshot, #members .mem:active .mugshot {
     opacity: .1;
   }
   #members .mem .info {
     opacity: 0;
     padding: 0 10%;
     position: absolute;
-    top: 32%;
+    top: 23%;
+    transition: all .3s ease-in-out;
+  }
+  #members.alumni {
+    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 350px);
   }
   #members.alumni .mem {
-    height: 385px;
+    height: 350px;
     flex-basis: 32%;
   }
 }
