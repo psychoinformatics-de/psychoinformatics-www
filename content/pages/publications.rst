@@ -10,6 +10,12 @@ Publications
 Submitted
 ~~~~~~~~~
 
+Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
+M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
+E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015). Standards
+for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
+*Commentary submitted to Nature Neuroscience*.
+
 **Häusler, C. O. & Hanke, M.**. An annotation of cuts, depicted locations,
 and temporal progression in the motion picture "Forrest Gump".
 
