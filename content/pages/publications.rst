@@ -16,9 +16,6 @@ E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015). Standards
 for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
 *Commentary submitted to Nature Neuroscience*.
 
-**Häusler, C. O. & Hanke, M.**. An annotation of cuts, depicted locations,
-and temporal progression in the motion picture "Forrest Gump".
-
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
 visual cortex.
@@ -46,6 +43,10 @@ The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+**Häusler, C. O. & Hanke, M.**. `An annotation of cuts, depicted locations, and
+temporal progression in the motion picture "Forrest Gump"
+<http://f1000research.com/articles/5-2273>`_. *F1000Research*, 5:2273.
 
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
 `Brains on Beats <http://arxiv.org/abs/1606.02627>`_. NIPS. Accepted for
