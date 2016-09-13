@@ -361,17 +361,19 @@ footer span.break {
   }
   .members .mem:hover .info, .members .mem:active .info {
     opacity: 1;
-    top: 18%;
+    top: 23%;
   }
   .members .mem:hover .mugshot, .members .mem:active .mugshot {
     opacity: .1;
   }
   .members .mem .info {
+    margin: 0 10%;
     opacity: 0;
-    padding: 0 10%;
     position: absolute;
-    top: 23%;
+    text-align: left;
+    top: 28%;
     transition: all .3s ease-in-out;
+    width: 80%;
   }
   .members.alumni {
     background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 350px);
