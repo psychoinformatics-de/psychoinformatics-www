@@ -243,7 +243,7 @@ footer span.break {
   width: 100%;
 }
 
-#members {
+.members {
   align-items: flex-end;
   background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 460px, #fff 461px, #fff 590px);
   display: flex;
@@ -254,58 +254,58 @@ footer span.break {
   padding-top: 0;
   padding-bottom: 0;
 }
-#members .mem {
+.members .mem {
   flex-basis: 100%;
   height: 590px;
   position: relative;
 }
-#members .mugshot {
+.members .mugshot {
   background-repeat: no-repeat;
   background-position: center bottom;
   height: 460px;
 }
-#members .info {
+.members .info {
   color: #3a4046;
   padding: 0.5em 0;
   text-align: center;
 }
-#members .info h3 {
+.members .info h3 {
   font-size: 20px;
   font-weight: 700;
   line-height: 22px;
   margin: 0 0 5px;
 }
-#members p.blurb {
+.members p.blurb {
   display: none;
 }
-#members .info p {
+.members .info p {
   font-size: 14px;
   line-height: 24px;
 }
-#members p.title {
+.members p.title {
   font-size: 18px;
   line-height: 22px;
   margin: 0.5em 0;
 }
-#members .social-links {
+.members .social-links {
   border-bottom: 1px solid #d0d0d0;
   margin: 0;
   padding: 0 0 0.5em 0;
 }
 
-#members.alumni {
+.members.alumni {
   background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 400px);
 }
-#members.alumni .mem {
+.members.alumni .mem {
   height: 400px;
 }
-#members.alumni .mem .mugshot {
+.members.alumni .mem .mugshot {
   background-size: auto 290px;
   height: 310px;
 }
 
 @media screen and (min-width: 500px) {
-  #members.alumni .mem {
+  .members.alumni .mem {
     flex-basis: 48%;
   }
 }
@@ -350,44 +350,44 @@ footer span.break {
     height: 30em;
   }
 
-  #members {
+  .members {
     background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 460px, #fff 461px, #fff 500px);
   }
-  #members p.blurb {
+  .members p.blurb {
     display: unset;
   }
-  #members .mem {
+  .members .mem {
     flex-basis: 48%;
     height: 500px;
   }
-  #members .mugshot {
+  .members .mugshot {
     transition: opacity .2s ease-in-out;
   }
-  #members .social-links {
+  .members .social-links {
     border-bottom: unset;
     padding: 0.5em 0;
   }
-  #members .mem:hover {
+  .members .mem:hover {
     cursor: help;
   }
-  #members .mem:hover .info, #members .mem:active .info {
+  .members .mem:hover .info, .members .mem:active .info {
     opacity: 1;
     top: 18%;
   }
-  #members .mem:hover .mugshot, #members .mem:active .mugshot {
+  .members .mem:hover .mugshot, .members .mem:active .mugshot {
     opacity: .1;
   }
-  #members .mem .info {
+  .members .mem .info {
     opacity: 0;
     padding: 0 10%;
     position: absolute;
     top: 23%;
     transition: all .3s ease-in-out;
   }
-  #members.alumni {
+  .members.alumni {
     background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 350px);
   }
-  #members.alumni .mem {
+  .members.alumni .mem {
     height: 350px;
     flex-basis: 32%;
   }
@@ -414,10 +414,10 @@ footer span.break {
 
 /* 1400px = (350 * 3) * (4/3) --- 350 = mugshot width; 4/3 because <main> is 75vw */
 @media screen and (min-width: 1400px) {
-  #members .mem {
+  .members .mem {
     flex-basis: 32%;
   }
-  #members.alumni .mem {
+  .members.alumni .mem {
     flex-basis: 24%;
   }
 }

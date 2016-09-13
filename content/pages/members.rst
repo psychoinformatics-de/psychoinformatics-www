@@ -5,7 +5,7 @@ Lab Members
 
 .. raw:: html
 
-  <section id="members">
+  <section class="members">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
@@ -162,7 +162,7 @@ Alumni
 
 .. raw:: html
 
-  <section id="members" class='alumni'>
+  <section class="members alumni">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
@@ -254,7 +254,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
 
 .. raw:: html
 
-  <section id="members">
+  <section class="members">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/grill-3.png);"></div>
       <div class="info">
@@ -294,3 +294,4 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         effort of frantically waving a Frisbee to get the coals going.</p>
       </div>
     </div>
+  </section>
