@@ -62,6 +62,16 @@ applies the successful model of collaborative, decentralized open source
 software development to the domain of managing and sharing (scientific) data.
 Please see the `software page </software.html>`_ for more information.
 
+.. figure:: {filename}/img/datalad_figure.png
+   :alt: map to buried treasure
+   :width: 100%
+   :figwidth: 100%
+   :align: center
+
+   Somewhat accurate, but shortish description of what is going on.
+
+   Multiline too!
+
 This project is executed in collaboration with `Yaroslav Halchenko (Dartmouth
 College) <http://haxbylab.dartmouth.edu/ppl/yarik.html>`_, and is co-funded
 by the US National Science Foundation (NSF; 1429999), and the German Federal
