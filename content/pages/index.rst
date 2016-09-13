@@ -15,7 +15,7 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 <http://www.pymvpa.org/>`_) all the way up to versatile research platforms (e.g.
 `NeuroDebian <http://neuro.debian.net/>`_).
 
-In the press
+In The Press
 ============
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing

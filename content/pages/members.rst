@@ -261,7 +261,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         <h3>Ulf der Dritte (2015&ndash;)</h3>
         <p class="blurb">The Trolley Grill "Toronto". So big they named it after
         a city; big enough to feed three labs twice over. <em>And</em> it comes
-        with a built-in 15¢ bottle opener, for convenience. Though the wheels do
+        with a built-in 15¢ bottle opener&mdash;for convenience. Though the wheels do
         have a bit of tendency to fall off...</p>
         <ul class='social-links'>
           <li><a class='si-home' href="http://wp.tepro-gartenwelt.de/en/grills/holzkohlegrills/grillwagen-toronto/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
