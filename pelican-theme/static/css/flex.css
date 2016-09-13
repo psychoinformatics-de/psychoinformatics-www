@@ -255,6 +255,7 @@ footer span.break {
   padding-bottom: 0;
 }
 .members .mem {
+  border-bottom: 1px solid #d0d0d0;
   flex-basis: 100%;
   height: 620px;
   position: relative;
@@ -288,9 +289,7 @@ footer span.break {
   margin: 0.5em 0;
 }
 .members .social-links {
-  border-bottom: 1px solid #d0d0d0;
   margin: 0;
-  padding: 0 0 0.5em 0;
 }
 
 .members.alumni {
@@ -357,6 +356,7 @@ footer span.break {
     display: unset;
   }
   .members .mem {
+    border-bottom: none;
     flex-basis: 48%;
     height: 540px;
   }
@@ -365,7 +365,6 @@ footer span.break {
     height: 540px;
   }
   .members .social-links {
-    border-bottom: unset;
     padding: 0.5em 0;
   }
   .members .mem:hover {
