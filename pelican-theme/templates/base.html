@@ -34,20 +34,18 @@
 
 <body>
   <aside>
-    <div>
-      <a href="/">
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/logo.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
-      </a>
-      <h1><a href="/">{{ SITETITLE }}</a></h1>
-      {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
-      <nav>
-        <ul>
-          {% for title, link in MENUITEMS %}
-          <li><a href="{{ link }}" {% if page and page.url == link %} class='active' {% endif %}>{{ title }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
+    <a href="/">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/logo.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
+    </a>
+    <h1><a href="/">{{ SITETITLE }}</a></h1>
+    {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
+    <nav>
+      <ul>
+        {% for title, link in MENUITEMS %}
+        <li><a href="{{ link }}" {% if page and page.url == link %} class='active' {% endif %}>{{ title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
   </aside>
 
   <main>

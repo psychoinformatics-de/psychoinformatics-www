@@ -66,7 +66,9 @@ a:hover {
 aside {
   background-color: #333;
   color: #fff;
+  margin: 0;
   text-align: center;
+  padding: 20px 0;
 }
 aside a {
   color: #fff;
@@ -89,17 +91,13 @@ aside a.active {
 
 aside h1 { font-size: 1.6em; }
 
-aside div {
-  padding: 20px;
-  margin: 0;
-}
-aside div img {
+aside img {
   max-width: 140px;
 }
-aside div h1 {
+aside h1 {
   margin: 15px 0 5px 0;
 }
-aside div p {
+aside p {
   margin: 0 0 15px 0;
   font-size: .92em;
 }
@@ -321,9 +319,7 @@ footer span.break {
     left: 0;
     overflow-x: hidden;
     overflow-y: auto;
-  }
-  aside div {
-    padding: 36px 18px;
+    padding: 36px 0;
   }
   aside nav ul {
     columns: unset; -moz-columns: unset; -webkit-columns: unset;
