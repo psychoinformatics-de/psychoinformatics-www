@@ -18,9 +18,9 @@ Lab Members
         continually supplied with lysine by us, they'll slip into a coma and
         die.</p>
         <ul class='social-links'>
-          <li><a class='si-home' href="http://mih.voxindeserto.de"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-          <li><a class='si-envelope-o' href="mailto:michael.hanke@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/mih"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-home' href="http://mih.voxindeserto.de"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:michael.hanke@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/mih"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -39,8 +39,8 @@ Lab Members
         killed the other two, but it wasn't. Nature is lethal but it doesn't
         hold a candle to man.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:Alexqw85@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/aqw"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:Alexqw85@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/aqw"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -58,8 +58,8 @@ Lab Members
         never told anyone. And if we never told anyone it means we never made it
         back. Hence we die down here. Just as a matter of deductive logic.</p>
         <ul class='social-links'>
-          <li><a class='si-home' href="http://reshannereeder.wix.com/home"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-          <li><a class='si-envelope-o' href="mailto:reshanne.reeder@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-home' href="http://reshannereeder.wix.com/home"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:reshanne.reeder@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -76,8 +76,8 @@ Lab Members
         when... You know why, David? Because of the kids. They called me Mr
         Glass.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:porcu.emanuele@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/eporcu"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:porcu.emanuele@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/eporcu"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -96,8 +96,8 @@ Lab Members
         And you will know My name is the Lord when I lay My vengeance upon
         thee.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:benjamin.poldrack@ovgu.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/bpoldrack"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:benjamin.poldrack@ovgu.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/bpoldrack"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -114,8 +114,8 @@ Lab Members
         when... You know why, David? Because of the kids. They called me Mr
         Glass.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:falko.kaule@med.ovgu.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/farkau"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:falko.kaule@med.ovgu.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/farkau"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -132,8 +132,8 @@ Lab Members
         lungs, we drown. However unreal it may seem, we are connected, you and
         I. We're on the same curve, just on opposite ends.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:der.haeusler@gmx.net"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/chrhaeusler"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:der.haeusler@gmx.net"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/chrhaeusler"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -150,8 +150,8 @@ Lab Members
         that's what you see at a toy store. And you must think you're in a toy
         store, because you're here shopping for an infant named Jeb.</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:Ibe.pierre@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/pierre-ibe"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:Ibe.pierre@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/pierre-ibe"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -169,8 +169,8 @@ Alumni
         <h3>Ayan Sengupta (M.Sc.)</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:uam111@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/uam111"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:uam111@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/uam111"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -181,8 +181,8 @@ Alumni
         <h3>Dr. Vittorio Iacovella</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:iacovella@fbk.eu"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/v-iacovella"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:iacovella@fbk.eu"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/v-iacovella"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -193,8 +193,8 @@ Alumni
         <h3>Moritz Boos</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:Moritz.boos@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/mjboos"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:Moritz.boos@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/mjboos"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -205,7 +205,7 @@ Alumni
         <h3>Michael Notter</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:michaelnotter@hotmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:michaelnotter@hotmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -216,7 +216,7 @@ Alumni
         <h3>Richard Dinga</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:dinga92@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:dinga92@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -227,8 +227,8 @@ Alumni
         <h3>Daniel Kottke</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-envelope-o' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-          <li><a class='si-github' href="https://github.com/dakot"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-github' href="https://github.com/dakot"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -239,8 +239,8 @@ Alumni
         <h3>Prof. Sven Buchholz</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
-          <li><a class='si-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-          <li><a class='si-envelope-o' href="mailto:sven.buchholz@th-brandenburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li><a class='sl-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          <li><a class='sl-envelope-o' href="mailto:sven.buchholz@th-brandenburg.de"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -264,7 +264,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         with a built-in 15¢ bottle opener&mdash;for convenience. Though the wheels do
         have a bit of tendency to fall off...</p>
         <ul class='social-links'>
-          <li><a class='si-home' href="http://wp.tepro-gartenwelt.de/en/grills/holzkohlegrills/grillwagen-toronto/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          <li><a class='sl-home' href="http://wp.tepro-gartenwelt.de/en/grills/holzkohlegrills/grillwagen-toronto/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
@@ -279,7 +279,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         over your shoulder, emulating a lumberjack as 'e carries a grill deep
         into the wilderness...</p>
         <ul class='social-links'>
-          <li><a class='si-home' href="http://www.landmann.de/landmann/en/charcoal_barbecues/pedestal_barbecues/produktinformationen/225030/pedestal-barbecue"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          <li><a class='sl-home' href="http://www.landmann.de/landmann/en/charcoal_barbecues/pedestal_barbecues/produktinformationen/225030/pedestal-barbecue"><i class="fa fa-home" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>

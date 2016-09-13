@@ -38,9 +38,9 @@ information on NeuroDebian is available at http://neuro.debian.net.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://neuro.debian.net"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/neurodebian"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/neurodebian"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://neuro.debian.net"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-twitter' href="https://twitter.com/neurodebian"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/neurodebian"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -65,9 +65,9 @@ including a detailed tutorial are available at http://pymvpa.org.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://www.pymvpa.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/pymvpa"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/PyMVPA/PyMVPA"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://www.pymvpa.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-twitter' href="https://twitter.com/pymvpa"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/PyMVPA/PyMVPA"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -86,10 +86,10 @@ the domain and we welcome a wide range of contributions.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-    <li><a class='si-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -106,7 +106,7 @@ available at http://nipy.org/nibabel/
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://nipy.org/nibabel/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/nipy/nibabel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://nipy.org/nibabel/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/nipy/nibabel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>

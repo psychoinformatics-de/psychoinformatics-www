@@ -119,11 +119,10 @@ aside nav li {
 }
 
 
-main article {
+article {
   margin: 0 6vw;
 }
-main article header h1,
-main article header h2 {
+article h1 {
   margin-bottom: 0;
 }
 
@@ -155,21 +154,11 @@ main article header h2 {
 .social-links a:hover {
   transform: translateY(-0.2em);
 }
-.social-links a.si-envelope-o {
-  background-color: #5e47b9;
-}
-.social-links a.si-github {
-  background-color: #111010;
-}
-.social-links a.si-google {
-  background-color: #d93e2d;
-}
-.social-links a.si-home {
-  background-color: #bbb;
-}
-.social-links a.si-twitter {
-  background-color: #4da7de;
-}
+.social-links a.sl-envelope-o { background-color: #5e47b9; }
+.social-links a.sl-github     { background-color: #111010; }
+.social-links a.sl-google     { background-color: #d93e2d; }
+.social-links a.sl-home       { background-color: #bbb; }
+.social-links a.sl-twitter    { background-color: #4da7de; }
 
 .publications {
   line-height: 1.3em;
@@ -321,7 +310,7 @@ footer span.break {
     padding: 36px 0;
   }
   aside nav ul {
-    columns: unset; -moz-columns: unset; -webkit-columns: unset;
+    columns: auto; -moz-columns: auto; -webkit-columns: auto;
     column-rule: none; -moz-column-rule: none; -webkit-column-rule: none;
     text-align: center;
   }
@@ -394,7 +383,7 @@ footer span.break {
 }
 
 @media screen and (min-width: 1000px) {
-  main article {
+  article {
     margin: 0 8vw;
   }
   section, article div.section {
@@ -423,7 +412,7 @@ footer span.break {
 }
 
 @media screen and (min-width: 1800px) {
-  main article {
+  article {
     margin: 0 12vw;
   }
   section, article div.section {

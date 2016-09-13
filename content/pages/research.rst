@@ -47,9 +47,9 @@ many collaborators, please see the project homepage.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://studyforrest.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/studyforrest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/psychoinformatics-de?query=studyforrest"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://studyforrest.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-twitter' href="https://twitter.com/studyforrest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/psychoinformatics-de?query=studyforrest"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   </ul>
   </section>
 
@@ -71,10 +71,10 @@ collaboration in computational neuroscience (CRCNS).
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-    <li><a class='si-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    <li><a class='si-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-    <li><a class='si-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://datalad.org"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-twitter' href="https://twitter.com/datalad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a class='sl-github' href="https://github.com/datalad"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a class='sl-google' href="https://plus.google.com/102227583349569690568"><i class="fa fa-google" aria-hidden="true"></i></a></li>
   </ul>
   </section>
 
@@ -99,7 +99,7 @@ Council (DFG) as a part of the collaborative research center `SFB779
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='si-home' href="http://www.sfb779.de/en/a15n.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+    <li><a class='sl-home' href="http://www.sfb779.de/en/a15n.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
   </ul>
   </section>
 
