@@ -53,14 +53,14 @@
     {% block content %}{% endblock %}
     </div>
 
-    {% include "partial/footer.html" %}
+    {% include "include/footer.html" %}
   </main>
 
   {% if GOOGLE_ANALYTICS %}
-    {% include "partial/ga.html" %}
+    {% include "include/ga.html" %}
   {% endif %}
 
-  {% include "partial/jsonld.html" %}
+  {% include "include/jsonld.html" %}
 
   {% block additional_js %}{% endblock %}
 </body>
