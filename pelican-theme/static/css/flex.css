@@ -285,7 +285,7 @@ aside a.active {
 /* Members Page */
 .members {
   align-items: flex-end;
-  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff 620px);
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 6em));
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -296,7 +296,7 @@ aside a.active {
 .members .mem {
   border-bottom: 1px solid #d0d0d0;
   flex-basis: 100%;
-  height: 620px;
+  height: calc(501px + 6em);
   position: relative;
 }
 .members .mugshot {
@@ -330,10 +330,10 @@ aside a.active {
 }
 
 .members.alumni {
-  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 400px);
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff calc(311px + 4em));
 }
 .members.alumni .mem {
-  height: 400px;
+  height: calc(310px + 4em);
 }
 .members.alumni .mem .mugshot {
   background-size: auto 290px;
@@ -384,11 +384,14 @@ aside a.active {
   }
 
   .members.alumni {
-    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff 350px);
+    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 350px);
   }
   .members.alumni .mem {
     height: 350px;
     flex-basis: 32%;
+  }
+  .members.alumni .mem .mugshot {
+    height: 350px;
   }
 }
 
