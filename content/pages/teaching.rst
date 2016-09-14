@@ -48,7 +48,7 @@ Students are welcome to inquire about thesis topics at any point — and as earl
 as possible. Potential thesis topics range from literature work to more
 ambitious projects with dedicated acquisition of empirical data or method
 developments. Actual projects are typically tailored to the individual interests
-and capabilities of the respective student. Topics can be inspired by, or
+and capabilities of the respective student. Topics can be inspired by or
 related to `the lab's research activities </research.html>`_, but this is not
 a strict requirement.
 

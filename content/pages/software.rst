@@ -11,7 +11,7 @@ tailored to an individual project and are, consequently, not very interesting
 for other groups. However, over the years, we have created a number of software
 projects that specifically target a broader audience and have reached
 significant adoption. This page offers a compact overview of such projects —
-all of which are Free and open-source.
+all of which are Free and Open Source.
 
 .. raw:: html
 
@@ -22,7 +22,7 @@ all of which are Free and open-source.
    :target: http://neuro.debian.net/
 
 NeuroDebian is a complete software platform for neuroscientific research
-(MRI-based research in particular). NeuroDebian achieves its unique commbination
+(MRI-based research in particular). NeuroDebian achieves its unique combination
 of versatility and stability by integrating all relevant software components
 with the `Debian <http://www.debian.org/>`_ operating system. At the same time,
 NeuroDebian can be used with all popular operating systems such as MS Windows,
@@ -80,7 +80,7 @@ DataLad aims to provide access to scientific data available from various sources
 (e.g. lab or consortium web-sites such as Human connectome; data sharing portals
 such as OpenFMRI and CRCNS) through a single convenient interface and integrated
 with your software package managers (such as APT in Debian). Although initially
-targeting neuroimaging and neuroscience data in general, it is not be limited by
+targeting neuroimaging and neuroscience data in general, it is not limited by
 the domain and we welcome a wide range of contributions.
 
 .. raw:: html
@@ -99,9 +99,9 @@ the domain and we welcome a wide range of contributions.
    :target: http://nipy.org/nibabel
 
 PyNIfTI was one of the first packages to access data in the NIfTI format with
-the Python programming language. In the meantime, NiBabel has replaced PyNIfTI,
-offering support for many more file formats. More information on NiBabel is
-available at http://nipy.org/nibabel/
+the Python programming language. In the meantime, NiBabel has superseded
+PyNIfTI, offering support for many more file formats. More information on
+NiBabel is available at http://nipy.org/nibabel/
 
 .. raw:: html
 

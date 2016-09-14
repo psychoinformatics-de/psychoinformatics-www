@@ -3,7 +3,7 @@ Research
 :save_as: research.html
 :url: research.html
 
-Our research covers a broad range from advancing research methodology, over
+Our research covers a broad range from advancing research methodology, to the
 actual engineering of readily usable tools, to the application of such
 developments to concrete research questions in medicine, psychology, or
 cognitive neuroscience — because there is nothing worse than a solution without
@@ -13,12 +13,12 @@ a problem.
 
   <h2>Ongoing Projects</h2>
 
-Most recently our main research focus lies on studying the representation of
+Most recently, our main research focus lies on studying the representation of
 information about, and for interacting with, the environment. We believe that
 ecologically valid conclusions about these representations can only be drawn
 when they are also studied under conditions of real-life complexity. Hence our
-aim is to combine controlled experiments with complex natural stimulation, in
-order to be able to validate our findings.
+aim is to combine controlled experiments with complex natural stimulation in
+order to validate our findings.
 
 .. raw:: html
 
@@ -38,7 +38,7 @@ from the data releases — from the publication of scientific findings derived
 from this dataset, algorithms and methods evaluated on this dataset, and/or
 extensions of this dataset by the acquisition and incorporation of new data.
 
-Since 2014 a number of data sets have been publicly released for unrestricted
+Since 2014, a number of datasets have been publicly released for unrestricted
 use, covering functional and structural brain imaging, eye tracking,
 physiological recordings, and numerous annotations of the structure of the
 movie stimulus. For up-to-date information on available data, funding, and our
@@ -74,7 +74,7 @@ Please see the `software page </software.html>`_ for more information.
 
 This project is executed in collaboration with `Yaroslav Halchenko (Dartmouth
 College) <http://haxbylab.dartmouth.edu/ppl/yarik.html>`_, and is co-funded
-by the US National Science Foundation (NSF; 1429999), and the German Federal
+by the US National Science Foundation (NSF; 1429999) and the German Federal
 Ministry of Education and Research (BMBF; 01GQ1411) as part of a US-German
 collaboration in computational neuroscience (CRCNS).
 
@@ -102,9 +102,9 @@ functional interplay by means of univariate fMRI-approaches (plus functional
 connectivity), classification analysis, and functional hyperalignment.
 
 This project is a collaboration with `Toemme Noesselt (Magdeburg University)
-<http://www.ipsy.ovgu.de/Abteilungen/Biologische+Psychologie.html>`_, and is funded by the German Research
-Council (DFG) as a part of the collaborative research center `SFB779
-<http://www.sfb779.de>`_ in Magdeburg.
+<http://www.ipsy.ovgu.de/Abteilungen/Biologische+Psychologie.html>`_, and is
+funded by the German Research Council (DFG) as a part of the Collaborative
+Research Center `SFB 779 <http://www.sfb779.de/en/>`_ in Magdeburg.
 
 .. raw:: html
 
@@ -117,16 +117,16 @@ Council (DFG) as a part of the collaborative research center `SFB779
     <h3>Tracing the Template: Investigating the Representation of Perceptual Relevance</h3>
 
 This project seeks to identify the nature of attentional preferences of
-cognitive behaviour, in terms of function (how it affects our behaviour),
+cognitive behavior, in terms of function (how it affects our behavior),
 physiology (how it is implemented in the brain), and time (how it is affected
 by learning/selection history). Specifically, what preferences can it hold, how
 do these change as a function of experience, and what are the neural codes
 underlying these representations?
 
 This project is a collaboration with `S. Pollmann (Magdeburg University)
-<http://www.ipsy.ovgu.de/allgpsych.html>`_, M.  Eimer (Birkbeck College, University of London), and C.N.L.
-Olivers (Vrije Universiteit Amsterdam). It is co-funded by the German Research
-Foundation (DFG; PO 548/16-1).
+<http://www.ipsy.ovgu.de/allgpsych.html>`_, M. Eimer (Birkbeck College,
+University of London), and C.N.L. Olivers (Vrije Universiteit Amsterdam). It is
+co-funded by the German Research Foundation (DFG; PO 548/16-1).
 
 .. raw:: html
 
@@ -146,7 +146,7 @@ project developed methods that allow for the detection and description of
 common neural representations. Individual brain activity patterns are projected
 into a common high-dimensional space, to build models of representational
 spaces of cortical areas that are valid for a range of stimuli and across
-individuals. This includes complex cortial networks that do not respond
+individuals. This includes complex cortical networks that do not respond
 consistently on direct stimulation (e.g. social cognition).
 
 A collaboration with the groups of James V. Haxby (Dartmouth College, USA) and
