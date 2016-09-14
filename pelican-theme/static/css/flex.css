@@ -299,6 +299,9 @@ aside a.active {
   height: calc(501px + 6em);
   position: relative;
 }
+.members .mem:last-of-type {
+  border-bottom: none;
+}
 .members .mugshot {
   background-repeat: no-repeat;
   background-position: center bottom;
