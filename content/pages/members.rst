@@ -81,6 +81,7 @@ Lab Members
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:falko.kaule@med.ovgu.de"></a></li>
           <li><a class='icon-github' href="https://github.com/farkau"></a></li>
+          <li><a class='icon-researchgate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
         </ul>
       </div>
     </div>
