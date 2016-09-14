@@ -256,11 +256,11 @@ section a.image-reference img {
 .social-links a:hover {
   transform: translateY(-0.2em);
 }
-.social-links a.sl-envelope-o { background-color: #5e47b9; }
-.social-links a.sl-github     { background-color: #111010; }
-.social-links a.sl-google     { background-color: #d93e2d; }
-.social-links a.sl-home       { background-color: #bbb; }
-.social-links a.sl-twitter    { background-color: #4da7de; }
+.social-links .icon-mail         { background-color: #5e47b9; }
+.social-links .icon-github       { background-color: #111010; }
+.social-links .icon-google       { background-color: #d93e2d; }
+.social-links .icon-home         { background-color: #bbb; }
+.social-links .icon-twitter      { background-color: #4da7de; }
 
 /*
  *  State

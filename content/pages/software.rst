@@ -38,9 +38,9 @@ information on NeuroDebian is available at http://neuro.debian.net.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='sl-home icon-home' href="http://neuro.debian.net"></a></li>
-    <li><a class='sl-envelope-o icon-twitter' href="https://twitter.com/neurodebian"></a></li>
-    <li><a class='sl-github icon-github' href="https://github.com/neurodebian"></a></li>
+    <li><a class='icon-home' href="http://neuro.debian.net"></a></li>
+    <li><a class='icon-twitter' href="https://twitter.com/neurodebian"></a></li>
+    <li><a class='icon-github' href="https://github.com/neurodebian"></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -65,9 +65,9 @@ including a detailed tutorial are available at http://pymvpa.org.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='sl-home icon-home' href="http://www.pymvpa.org"></a></li>
-    <li><a class='sl-envelope-o icon-twitter' href="https://twitter.com/pymvpa"></a></li>
-    <li><a class='sl-github icon-github' href="https://github.com/PyMVPA/PyMVPA"></a></li>
+    <li><a class='icon-home' href="http://www.pymvpa.org"></a></li>
+    <li><a class='icon-twitter' href="https://twitter.com/pymvpa"></a></li>
+    <li><a class='icon-github' href="https://github.com/PyMVPA/PyMVPA"></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -86,10 +86,10 @@ the domain and we welcome a wide range of contributions.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='sl-home icon-home' href="http://datalad.org"></a></li>
-    <li><a class='sl-envelope-o icon-twitter' href="https://twitter.com/datalad"></a></li>
-    <li><a class='sl-github icon-github' href="https://github.com/datalad"></a></li>
-    <li><a class='sl-envelope-o icon-google' href="https://plus.google.com/102227583349569690568"></a></li>
+    <li><a class='icon-home' href="http://datalad.org"></a></li>
+    <li><a class='icon-twitter' href="https://twitter.com/datalad"></a></li>
+    <li><a class='icon-github' href="https://github.com/datalad"></a></li>
+    <li><a class='icon-google' href="https://plus.google.com/102227583349569690568"></a></li>
   </ul>
   </section>
   <section class="alternate">
@@ -106,7 +106,7 @@ available at http://nipy.org/nibabel/
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='sl-home icon-home' href="http://nipy.org/nibabel/"></a></li>
-    <li><a class='sl-github icon-github' href="https://github.com/nipy/nibabel"></a></li>
+    <li><a class='icon-home' href="http://nipy.org/nibabel/"></a></li>
+    <li><a class='icon-github' href="https://github.com/nipy/nibabel"></a></li>
   </ul>
   </section>
