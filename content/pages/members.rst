@@ -210,7 +210,7 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
 
 .. raw:: html
 
-  <section class="members">
+  <section class="members grills">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/grill-3.png);"></div>
       <div class="info">
@@ -219,9 +219,6 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         a city; big enough to feed three labs twice over. <em>And</em> it comes
         with a built-in 15¢ bottle opener&mdash;for convenience. Though the wheels do
         have a bit of tendency to fall off...</p>
-        <ul class='social-links'>
-          <li><a class='icon-home' href="http://wp.tepro-gartenwelt.de/en/grills/holzkohlegrills/grillwagen-toronto/"></a></li>
-        </ul>
       </div>
     </div>
 
@@ -234,9 +231,6 @@ Let's just say we take our lab Grill-fests in Nordpark seriously...
         the center column. When carrying, the balance is perfect for slinging
         over your shoulder, emulating a lumberjack as 'e carries a grill deep
         into the wilderness...</p>
-        <ul class='social-links'>
-          <li><a class='icon-home' href="http://www.landmann.de/landmann/en/charcoal_barbecues/pedestal_barbecues/produktinformationen/225030/pedestal-barbecue"></a></li>
-        </ul>
       </div>
     </div>
 

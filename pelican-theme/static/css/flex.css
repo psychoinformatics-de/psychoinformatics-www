@@ -347,6 +347,15 @@ aside a.active {
   .members.alumni .mem { flex-basis: 48%; }
 }
 
+@media screen and (max-width: 767px) {
+  .members.grills {
+    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 2em));
+  }
+  .members.grills .mem {
+    height: calc(501px + 2em);
+  }
+}
+
 @media screen and (min-width: 768px) {
   .members {
     background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 540px);
