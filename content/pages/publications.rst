@@ -10,6 +10,9 @@ Publications
 Submitted
 ~~~~~~~~~
 
+**Hanke, M. & Ibe, P.** Lies, irony, and contradiction — an annotation of
+semantic conflict in the movie "Forrest Gump". *F1000Research*.
+
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
 E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015). Standards
@@ -19,12 +22,6 @@ for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
 visual cortex.
-
-**Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
-F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.  `A
-studyforrest extension, simultaneous fMRI and eye gaze recordings during
-prolonged natural stimulation
-<http://biorxiv.org/content/early/2016/03/31/046581>`_.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
@@ -43,6 +40,13 @@ The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+**Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
+F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.  `A
+studyforrest extension, simultaneous fMRI and eye gaze recordings during
+prolonged natural stimulation
+<http://biorxiv.org/content/early/2016/03/31/046581>`_. Scientific Data.
+Accepted for publication.
 
 **Häusler, C. O. & Hanke, M.**. `An annotation of cuts, depicted locations, and
 temporal progression in the motion picture "Forrest Gump"
