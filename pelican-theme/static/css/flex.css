@@ -388,6 +388,7 @@ aside a.active {
   }
   .members .social-links {
     padding: 0.5em 0;
+    text-align: left;
   }
 
   .members.alumni {

@@ -125,7 +125,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
         <h3>Ayan Sengupta (M.Sc.)</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:uam111@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/uam111"></a></li>
@@ -137,7 +136,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Dr. Vittorio Iacovella</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:iacovella@fbk.eu"></a></li>
           <li><a class='icon-github' href="https://github.com/v-iacovella"></a></li>
@@ -149,7 +147,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/brush.png);"></div>
       <div class="info">
         <h3>Moritz Boos</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Moritz.boos@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mjboos"></a></li>
@@ -161,7 +158,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/elvis.png);"></div>
       <div class="info">
         <h3>Michael Notter</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:michaelnotter@hotmail.com"></a></li>
         </ul>
@@ -172,7 +168,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
         <h3>Richard Dinga</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:dinga92@gmail.com"></a></li>
         </ul>
@@ -183,7 +178,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/kottke.png);"></div>
       <div class="info">
         <h3>Daniel Kottke</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
           <li><a class='icon-github' href="https://github.com/dakot"></a></li>
@@ -195,7 +189,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
         <h3>Prof. Sven Buchholz</h3>
-        <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"></a></li>
           <li><a class='icon-mail' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
