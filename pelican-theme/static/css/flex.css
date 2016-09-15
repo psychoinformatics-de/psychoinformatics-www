@@ -157,7 +157,6 @@ aside nav ul {
 aside nav li {
   font-size: 1.28em;
   line-height: 1.6em;
-  text-transform: lowercase;
 }
 aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
   text-align: right;

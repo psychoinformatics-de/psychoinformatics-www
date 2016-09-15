@@ -35,13 +35,13 @@ AUTHOR_FEED_RSS = None
 # Configure the site
 #
 STATIC_PATHS = ['img']
-MENUITEMS = (('Home', 'index.html'),
-             ('People', 'lab-members.html'),
-             ('Research', 'research.html'),
-             ('Software', 'software.html'),
-             ('Teaching', 'teaching.html'),
-             ('Publications', 'publications.html'),
-             ('Contact', 'contact.html'),
+MENUITEMS = (('home', 'index.html'),
+             ('people', 'lab-members.html'),
+             ('research', 'research.html'),
+             ('software', 'software.html'),
+             ('teaching', 'teaching.html'),
+             ('publications', 'publications.html'),
+             ('contact', 'contact.html'),
 )
 
 DEFAULT_PAGINATION = False
