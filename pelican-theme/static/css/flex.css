@@ -175,6 +175,15 @@ aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
   }
 }
 
+.figure {
+  border-bottom: 1px dotted #ddd;
+}
+.figure .caption, .figure .legend {
+  font-size: 0.8em;
+  line-height: 1.4em;
+  margin: 0.3em 1.5em;
+}
+
 footer {
   border-top: #eee 1px solid;
   line-height: 0.7em;
