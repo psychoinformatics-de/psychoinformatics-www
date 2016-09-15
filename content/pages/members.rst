@@ -100,7 +100,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
         <h3>Pierre Ibe (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
@@ -189,7 +189,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
         <h3>Prof. Sven Buchholz</h3>
         <p class="blurb">Gather ye rosebuds while ye may &mdash; Robert Herrick</p>

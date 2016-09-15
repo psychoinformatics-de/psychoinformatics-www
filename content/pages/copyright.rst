@@ -144,6 +144,19 @@ License:
 ----
 
 Files:
+  img/mugshots/meerkat.png
+Copyright:
+  2016 skeeze
+License:
+  `Public Domain Dedication`_
+Source:
+  https://pixabay.com/en/meerkat-portrait-facing-wildlife-1591315/
+
+.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
+
+----
+
+Files:
   img/mugshots/parrot.png
 Copyright:
   2012 Joel Santana
@@ -151,8 +164,6 @@ License:
   `Public Domain Dedication`_
 Source:
   https://pixabay.com/en/arara-on-white-background-bird-1200084/
-
-.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
 
 ----
 
