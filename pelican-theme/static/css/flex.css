@@ -76,8 +76,7 @@ main {
 main #content {
   flex: 1;
 }
-section {
-  /* TODO: div.section here? */
+section, div.section {
   margin: 0 -6vw;
   padding: 2em 6vw;
 }
@@ -143,8 +142,7 @@ aside h1 {
   font-size: 1.6em;
   margin: 15px 0 5px 0;
 }
-aside p {
-  /* TODO: give this a class-name */
+aside .subtitle {
   font-size: .92em;
   margin: 0 0 15px 0;
 }
@@ -205,6 +203,7 @@ section {
 }
 section:nth-child(2n) { background-color: #f6f6f6; }
 section:first-of-type { border-top: #eee 3px solid; }
+h2 + section          { border-top: 0; } /* unless immediately preceded by a header */
 section:last-of-type  { border: 0; }
 
 section > h2:first-child, div.section > h2:first-child,
@@ -212,8 +211,6 @@ section > h3:first-child, div.section > h3:first-child {
   margin-top: 0;
 }
 
-/* TODO: find this a home */
-h2 + section { border-top: 0; }
 section a.image-reference { /* link that wraps the logo; default class name */
   display: block;
   margin: 0 auto 1.5em auto;

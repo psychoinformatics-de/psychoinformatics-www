@@ -28,7 +28,7 @@
       <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/logo.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
     </a>
     <h1><a href="/">{{ SITETITLE }}</a></h1>
-    {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
+    {% if SITESUBTITLE %}<p class='subtitle'>{{ SITESUBTITLE }}</p>{% endif %}
     <nav>
       <ul>
         {% for title, link in MENUITEMS %}
