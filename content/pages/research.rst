@@ -38,6 +38,16 @@ from the data releases — from the publication of scientific findings derived
 from this dataset, algorithms and methods evaluated on this dataset, and/or
 extensions of this dataset by the acquisition and incorporation of new data.
 
+.. figure:: {filename}/img/studyforrest_figure.png
+   :alt: studyforrest data overview
+   :width: 100%
+   :figwidth: 100%
+   :align: center
+
+   Overview of functional (top), and structural (middle) brain
+   imaging data, as well as annotations of the complex real-life stimulus
+   (bottom) that are available through the studyforrest.org project.
+
 Since 2014, a number of datasets have been publicly released for unrestricted
 use, covering functional and structural brain imaging, eye tracking,
 physiological recordings, and numerous annotations of the structure of the
