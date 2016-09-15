@@ -16,6 +16,7 @@ Lab Members
           <li><a class='icon-home' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mih"></a></li>
+          <li><a class='icon-researchgate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
         </ul>
       </div>
     </div>
@@ -25,7 +26,9 @@ Lab Members
       <div class="info">
         <h3>Alex Waite</h3>
         <p class="title">IT Specialist</p>
-        <p class="blurb"></p>
+        <p class="blurb">Part system administrator and part programmer, Alex
+          makes sure stuff gets done &mdash; and that the appropriate amount of
+          70s funk gets played on the lab stereo system.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Alexqw85@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/aqw"></a></li>
