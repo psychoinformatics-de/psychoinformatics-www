@@ -5,26 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {% block meta %}
-    <meta name="author" content="{{ AUTHOR }}" />
+  <meta name="author" content="{{ AUTHOR }}" />
   {% endblock %}
 
   <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
 
-  {% if FAVICON %}
-    <link rel="shortcut icon" href="{{ FAVICON }}" type="image/x-icon">
-    <link rel="icon" href="{{ FAVICON }}" type="image/x-icon">
-  {% endif %}
-  <meta name="HandheldFriendly" content="True" />
-  <meta name="robots" content="{{ ROBOTS }}" />
-  {% if BROWSER_COLOR %}
-    <!-- Chrome, Firefox OS and Opera -->
-    <meta name="theme-color" content="{{ BROWSER_COLOR }}">
-    <!-- Windows Phone -->
-    <meta name="msapplication-navbutton-color" content="{{ BROWSER_COLOR }}">
-    <!-- iOS Safari -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  {% endif %}
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#000000">
 
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fontello.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/flex.css">
