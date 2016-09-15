@@ -56,21 +56,31 @@ many collaborators, please see the project homepage.
   <section class="alternate">
     <h3>DataLad</h3>
 
-This is a software engineering project that aims to deliver a data management
-tool that is ideally suited for projects like our *studyforrest* effort. It
-applies the successful model of collaborative, decentralized open source
-software development to the domain of managing and sharing (scientific) data.
-Please see the `software page </software.html>`_ for more information.
+Data are key ingredients of science, but interesting data are often scattered
+across many different locations, with heterogenous access methods, and are
+packaged in a multitude of structures and formats. This makes it hard to
+discover, obtain, and re-use existing data.
+
+Datalad is a software engineering project that aims to deliver a data
+management tool that aids data discovery, to simplify and homogenize access to
+data across many providers, and to re-share data with a community. One could
+think of Datalad as "Git for collections of datasets".
+
+A such, this software is ideally suited for projects like our *studyforrest*
+effort. It applies the successful model of collaborative, decentralized open
+source software development to the domain of managing and sharing (scientific)
+data.  Please see the `software page </software.html>`_ for more information.
 
 .. figure:: {filename}/img/datalad_figure.png
-   :alt: map to buried treasure
+   :alt: Datalad data flow overview
    :width: 100%
    :figwidth: 100%
    :align: center
 
-   Somewhat accurate, but shortish description of what is going on.
-
-   Multiline too!
+   Datalad facilitates and homogenizes data exchange between peers, and
+   tracking of resources from data portals. It is data format agnostic and
+   exposes meta data to ease data discovery. Access to sensitive data is
+   supported via configurable authentication schemes.
 
 This project is executed in collaboration with `Yaroslav Halchenko (Dartmouth
 College) <http://haxbylab.dartmouth.edu/ppl/yarik.html>`_, and is co-funded
