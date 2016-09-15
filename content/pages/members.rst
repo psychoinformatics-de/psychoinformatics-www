@@ -113,10 +113,9 @@ Lab Members
     </div>
   </section>
 
-Alumni
-------
-
 .. raw:: html
+
+  <h2>Alumni</h2>
 
   <section class="members alumni">
     <div class="mem">
@@ -203,12 +202,10 @@ Alumni
   </section>
 
 
-Grills
-------
-
-Let's just say we take our lab Grill-fests in Nordpark seriously...
-
 .. raw:: html
+
+  <h2>Grills</h2>
+  <p>Let's just say we take our lab Grill-fests in Nordpark seriously...</p>
 
   <section class="members grills">
     <div class="mem">

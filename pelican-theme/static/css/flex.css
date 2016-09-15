@@ -214,9 +214,6 @@ section > h3:first-child, div.section > h3:first-child {
 
 /* TODO: find this a home */
 h2 + section { border-top: 0; }
-/* TODO: Find this a home */
-div.section:last-child { padding-bottom: 0; } /* members page only */
-
 section a.image-reference { /* link that wraps the logo; default class name */
   display: block;
   margin: 0 auto 1.5em auto;
@@ -286,6 +283,7 @@ aside a.active {
 .members {
   align-items: flex-end;
   background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 6em));
+  border: 0 !important; /* null both border-tops and -bottoms */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
