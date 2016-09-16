@@ -9,7 +9,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/hanke.png);"></div>
       <div class="info">
-        <h3>J.-Prof. Dr. Michael Hanke</h3>
+        <h3>J.-Prof. Dr. Michael&nbsp;Hanke</h3>
         <p class="title">Principal Investigator</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -25,7 +25,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/waite.png);"></div>
       <div class="info">
-        <h3>Alex Waite</h3>
+        <h3>Alex&nbsp;Waite</h3>
         <p class="title">IT Specialist</p>
         <p class="blurb">Part system administrator and part programmer, Alex
           makes sure stuff gets done &mdash; and that the appropriate amount of
@@ -40,7 +40,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/reeder.png);"></div>
       <div class="info">
-        <h3>Dr. Reshanne Reeder</h3>
+        <h3>Dr. Reshanne&nbsp;Reeder</h3>
         <p class="title">Postdoc</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -53,7 +53,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/porcu.png);"></div>
       <div class="info">
-        <h3>Dr. Emanuele Porcu</h3>
+        <h3>Dr. Emanuele&nbsp;Porcu</h3>
         <p class="title">Postdoc</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -66,7 +66,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/poldrack.png);"></div>
       <div class="info">
-        <h3>Dipl.-Inf. Benjamin Poldrack</h3>
+        <h3>Dipl.-Inf. Benjamin&nbsp;Poldrack</h3>
         <p class="title">Datalad Developer</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -79,7 +79,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/kaule.png);"></div>
       <div class="info">
-        <h3>Dipl.-Neurowiss. Falko R. Kaule</h3>
+        <h3>Dipl.-Neurowiss. Falko&nbsp;R.&nbsp;Kaule</h3>
         <p class="title">PhD Student</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -93,7 +93,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/haeusler.png);"></div>
       <div class="info">
-        <h3>Christian Häusler (B.Sc.)</h3>
+        <h3>Christian&nbsp;Häusler (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -106,7 +106,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
-        <h3>Pierre Ibe (B.Sc.)</h3>
+        <h3>Pierre&nbsp;Ibe (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
         <p class="blurb"></p>
         <ul class='social-links'>
@@ -125,7 +125,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
-        <h3>Ayan Sengupta (M.Sc.)</h3>
+        <h3>Ayan&nbsp;Sengupta (M.Sc.)</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:uam111@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/uam111"></a></li>
@@ -136,7 +136,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
-        <h3>Dr. Vittorio Iacovella</h3>
+        <h3>Dr. Vittorio&nbsp;Iacovella</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:iacovella@fbk.eu"></a></li>
           <li><a class='icon-github' href="https://github.com/v-iacovella"></a></li>
@@ -147,7 +147,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/brush.png);"></div>
       <div class="info">
-        <h3>Moritz Boos</h3>
+        <h3>Moritz&nbsp;Boos</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Moritz.boos@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mjboos"></a></li>
@@ -158,7 +158,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/elvis.png);"></div>
       <div class="info">
-        <h3>Michael Notter</h3>
+        <h3>Michael&nbsp;Notter</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:michaelnotter@hotmail.com"></a></li>
         </ul>
@@ -168,7 +168,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
-        <h3>Richard Dinga</h3>
+        <h3>Richard&nbsp;Dinga</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:dinga92@gmail.com"></a></li>
         </ul>
@@ -178,7 +178,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/kottke.png);"></div>
       <div class="info">
-        <h3>Daniel Kottke</h3>
+        <h3>Daniel&nbsp;Kottke</h3>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
           <li><a class='icon-github' href="https://github.com/dakot"></a></li>
@@ -189,7 +189,7 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
-        <h3>Prof. Sven Buchholz</h3>
+        <h3>Prof. Sven&nbsp;Buchholz</h3>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"></a></li>
           <li><a class='icon-mail' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
