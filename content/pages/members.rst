@@ -17,6 +17,7 @@ Lab Members
           <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mih"></a></li>
           <li><a class='icon-researchgate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
+          <li><a class='icon-debian' href="https://qa.debian.org/developer.php?login=mih@debian.org"></a></li>
         </ul>
       </div>
     </div>
