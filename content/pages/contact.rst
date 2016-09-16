@@ -8,13 +8,13 @@ Contact Us
    <div id='contact' itemscope itemtype="http://schema.org/ContactPoint">
      <div>
        <h2>Mailing Address</h2>
-       <div>J.-Prof. Dr. Michael Hanke<br />
-          Otto-von-Guericke-Universität<br />
-          Institut für Psychologie II<br />
+       <div>Otto-von-Guericke-Universität<br />
+          Institut für Psychologie<br />
+          J.-Prof. Dr. Michael Hanke<br />
           <div itemscope itemtype="schema.org/PostalAddress">
-            <span itemprop="streetAddress">Universitätsplatz 2</span><br />
+            <span itemprop="postOfficeBoxNumber">PF 4120</span><br />
             <span itemprop="addressLocality">Magdeburg</span>
-            <span itemprop="postalCode">D-39106</span>
+            <span itemprop="postalCode">D-39016</span>
             <span itemprop="addressCountry">Germany</span>
           </div>
        </div>
@@ -22,14 +22,23 @@ Contact Us
 
      <div>
        <h2>Lab Address</h2>
-       <div>Gebäude 23 R009<br />
-          Otto-von-Guericke-Universität<br />
+       <div>
+         <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+          <span itemprop="streetAddress">
+            Otto-von-Guericke-Universität<br />
+            Universitätsplatz 2, Building 23<br />
+          </span>
+          <span itemprop="addressLocality">Magdeburg</span>,
+          <span itemprop="postalCode">D-39106</span>
+         </div>
+         <div>
           <span itemprop="telephone" class="icon-phone" title="telephone" aria-hidden="true">
             +49 391-67 18481</span><br />
           <span itemprop="faxNumber" class="icon-fax" title="fax" aria-hidden="true">
             +49 391-67 11947</span><br />
           <span itemprop="email" class="icon-mail" title="email" aria-hidden="true">
             michael.hanke@ovgu.de</span>
+         </div>
        </div>
      </div>
 
@@ -37,4 +46,8 @@ Contact Us
        marginheight="0" marginwidth="0"
        src="http://www.openstreetmap.org/export/embed.html?bbox=11.639392375946045%2C52.13756435052512%2C11.653511524200438%2C52.14378016935833&amp;layer=mapnik&amp;marker=52.14067236837772%2C11.646451950073242">
      </iframe>
+     <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+       <meta itemprop="latitude" content="52.14378016935833" />
+       <meta itemprop="longitude" content="11.646451950073242" />
+     </div>
    </div><!-- /#contact -->
