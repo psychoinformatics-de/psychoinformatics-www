@@ -199,19 +199,24 @@ License:
 ----
 
 Files:
-  theme/fonts/fontawesome-\*
+  theme/fonts/fontello\*
 Copyright:
-  `Font Awesome`_
+  `Font Awesome`_, `Academicons`_ (James Walsh), and `font-linux`_ (Lukas W)
 License:
-  `SIL OFL 1.1`_
+  `SIL OFL 1.1`_, `Unlicense`_ (font-linux)
+
+.. _Font Awesome: http://fontawesome.io/
+.. _Academicons: https://jpswalsh.github.io/academicons/
+.. _font-linux: https://lukas-w.github.io/font-linux/
+.. _Unlicense: http://unlicense.org
 
 ----
 
 Files:
-  theme/css/font-awesome.min.css
+  theme/css/fontello.css
 Copyright:
-  `Font Awesome`_
+  `Fontello`_
 License:
   `MIT`_
 
-.. _Font Awesome: http://fontawesome.io/
+.. _Fontello: http://fontello.com/
