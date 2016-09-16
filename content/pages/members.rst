@@ -125,7 +125,8 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
-        <h3>Ayan&nbsp;Sengupta (M.Sc.)</h3>
+        <h3>Ayan&nbsp;Sengupta</h3>
+        <p class="blurb">After his PhD he moved on to a postdoc at University of Nottingham</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:uam111@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/uam111"></a></li>
@@ -137,6 +138,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/astronaut.png);"></div>
       <div class="info">
         <h3>Dr. Vittorio&nbsp;Iacovella</h3>
+        <p class="blurb">Visiting researcher from Trento University</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:iacovella@fbk.eu"></a></li>
           <li><a class='icon-github' href="https://github.com/v-iacovella"></a></li>
@@ -148,6 +150,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/brush.png);"></div>
       <div class="info">
         <h3>Moritz&nbsp;Boos</h3>
+        <p class="blurb">Visiting researcher from the University of Oldenburg</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Moritz.boos@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mjboos"></a></li>
@@ -159,6 +162,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/elvis.png);"></div>
       <div class="info">
         <h3>Michael&nbsp;Notter</h3>
+        <p class="blurb">Visiting researcher from the University of Lausanne</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:michaelnotter@hotmail.com"></a></li>
         </ul>
@@ -169,6 +173,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
         <h3>Richard&nbsp;Dinga</h3>
+        <p class="blurb">Visiting researcher from University of Ljubljana. Moved on to a PhD at VU University Medical Center, Amsterdam</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:dinga92@gmail.com"></a></li>
         </ul>
@@ -179,6 +184,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/kottke.png);"></div>
       <div class="info">
         <h3>Daniel&nbsp;Kottke</h3>
+        <p class="blurb">Joined the active learning lab at Kassel University</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
           <li><a class='icon-github' href="https://github.com/dakot"></a></li>
@@ -189,7 +195,8 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
-        <h3>Prof. Sven&nbsp;Buchholz</h3>
+        <h3>Dr. Sven&nbsp;Buchholz</h3>
+        <p class="blurb">Became professor at TH Brandenburg</p>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"></a></li>
           <li><a class='icon-mail' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
