@@ -35,12 +35,12 @@ data acquisition techniques to capture a versatile recording of the human
 response to a prolonged complex natural stimulus, the motion picture "Forrest
 Gump".
 
-This project is an open invitation to anyone and everyone to participate in a
-decentralized effort to explore the opportunities of open science in
-neuroimaging. We aim to document how much (scientific) value can be generated
-from the data releases — from the publication of scientific findings derived
-from this dataset, algorithms and methods evaluated on this dataset, and/or
-extensions of this dataset by the acquisition and incorporation of new data.
+We invite anyone and everyone to participate in this decentralized effort to
+explore the opportunities of open science in neuroimaging. One of our goals is
+to document how much (scientific) value can be generated — from the publication
+of scientific findings derived from this dataset, algorithms and methods
+evaluated on this dataset, and/or extensions of this dataset by the acquisition
+and incorporation of new data.
 
 .. figure:: {filename}/img/studyforrest_figure.png
    :alt: studyforrest data overview
@@ -151,7 +151,7 @@ Research Center `SFB 779 <http://www.sfb779.de/en/>`_ in Magdeburg.
     </div>
     <h3>Tracing the Template: Investigating the Representation of Perceptual Relevance</h3>
 
-This project seeks to identify the nature of attentional preferences of
+In this effort we seek to identify the nature of attentional preferences of
 cognitive behavior, in terms of function (how it affects our behavior),
 physiology (how it is implemented in the brain), and time (how it is affected
 by learning/selection history). Specifically, what preferences can it hold, how
