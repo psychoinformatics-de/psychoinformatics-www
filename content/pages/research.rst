@@ -23,14 +23,11 @@ order to validate our findings.
 .. raw:: html
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/lsa.png" alt="State of Sachen-Anhalt Logo" />
+      <img src="/img/logo/erdf.png" alt="ERDF Logo" />
+    </div>
     <h3>The studyforrest Project</h3>
-
-.. image:: {filename}/img/logo/lsa.png
-   :alt: State of Sachen-Anhalt Logo
-   :class: projectsponsorlogo
-.. image:: {filename}/img/logo/erdf.png
-   :alt: ERDF Logo
-   :class: projectsponsorlogo
 
 This is a long-running project that aims to built a unique resource for
 studying the brain's natural behavior. It combines brain imaging with other
@@ -71,12 +68,12 @@ many collaborators, please see the project homepage.
   </section>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <a href='http://www.gesundheitsforschung-bmbf.de/de/2550.php'>
+        <img src="/img/logo/bmbf.png" alt="BMBF Logo" class="squarish" />
+      </a>
+    </div>
     <h3>DataLad</h3>
-
-.. image:: {filename}/img/logo/bmbf.png
-   :alt: BMBF Logo
-   :target: http://www.gesundheitsforschung-bmbf.de/de/2550.php
-   :class: projectsponsorlogo
 
 Data are key ingredients of science, but interesting data are often scattered
 across many different locations, with heterogenous access methods, and are
@@ -121,11 +118,10 @@ collaboration in computational neuroscience (CRCNS).
   </section>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/dfg.png" alt="DFG Logo" />
+    </div>
     <h3>Anticipation, Processing, and Control of Primary Rewards</h3>
-
-.. image:: {filename}/img/logo/dfg.png
-   :alt: DFG Logo
-   :class: projectsponsorlogo
 
 An investigation into the perception and neural representation of primary
 rewards (i.e. tastes) of their visual correspondences (secondary rewards) and of
@@ -150,11 +146,10 @@ Research Center `SFB 779 <http://www.sfb779.de/en/>`_ in Magdeburg.
   </section>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/dfg.png" alt="DFG Logo" />
+    </div>
     <h3>Tracing the Template: Investigating the Representation of Perceptual Relevance</h3>
-
-.. image:: {filename}/img/logo/dfg.png
-   :alt: DFG Logo
-   :class: projectsponsorlogo
 
 This project seeks to identify the nature of attentional preferences of
 cognitive behavior, in terms of function (how it affects our behavior),
@@ -175,11 +170,10 @@ co-funded by the German Research Foundation (DFG; PO 548/16-1).
   <h2>Completed Projects</h2>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/bmbf.png" alt="BMBF Logo" class="squarish" />
+    </div>
     <h3>Building Common High-dimensional Models of Neural Representational Spaces</h3>
-
-.. image:: {filename}/img/logo/bmbf.png
-   :alt: BMBF Logo
-   :class: projectsponsorlogo
 
 It is possible to decode information from brain activation patterns with
 multivariate analysis procedures. Despite this fact, little is known how neural
@@ -203,11 +197,10 @@ National Science Foundation (1129764).
   </section>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/cbbs.png" alt="CBBS Logo" class="squarish" />
+    </div>
     <h3>Advanced fMRI-based Analysis of Human Sensory Cortex</h3>
-
-.. image:: {filename}/img/logo/cbbs.png
-   :alt: CBBS Logo
-   :class: projectsponsorlogo
 
 This project focused on the development and validation of new experimental and
 neuro-computational approaches for the investigation of the neuronal processing
@@ -231,11 +224,10 @@ part of the project "Center for Behavioral Brain Sciences".
   </section>
 
   <section class="alternate">
+    <div class='sponsor-logos'>
+      <img src="/img/logo/dfg.png" alt="DFG Logo" />
+    </div>
     <h3>The Role of the Posterior Parietal Cortex for Trans- and Intra Dimensional Feature Binding — Multivariate Pattern Analyses of High-field(7T) fMRI Data</h3>
-
-.. image:: {filename}/img/logo/dfg.png
-   :alt: DFG Logo
-   :class: projectsponsorlogo
 
 A collaboration with Prof. Stefan Pollmann (Experimental Psychology, Institute
 of Psychology II, Magdeburg), this project was funded by the German Research

@@ -201,6 +201,24 @@ footer span.break {
   footer span.break { display: inline; }
 }
 
+.sponsor-logos {
+  text-align: center;
+}
+.sponsor-logos img {
+  max-height: 50px;
+  max-width: 88vw;
+}
+.sponsor-logos img.squarish {
+  max-height: 90px;
+}
+@media screen and (min-width: 500px) {
+  .sponsor-logos img { max-width: 42vw; }
+  .sponsor-logos img + img { margin-left: 2vw; }
+}
+@media screen and (min-width: 768px) {
+  .sponsor-logos img { max-width: 20vw; }
+}
+
 .publications {
   line-height: 1.3em;
 }
