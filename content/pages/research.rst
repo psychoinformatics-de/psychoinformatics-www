@@ -88,7 +88,7 @@ think of Datalad as "Git for collections of datasets".
 As such, this software is ideally suited for projects like our *studyforrest*
 effort. It applies the successful model of collaborative, decentralized open
 source software development to the domain of managing and sharing (scientific)
-data.  Please see the `software page </software.html>`_ for more information.
+data.
 
 .. figure:: {filename}/img/datalad_figure.png
    :alt: Datalad data flow overview
