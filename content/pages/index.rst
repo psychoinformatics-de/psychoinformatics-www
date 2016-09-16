@@ -7,8 +7,8 @@ Psycho­informatics
 
   Psychologists live in an increasingly data-rich world, and our ability to make
   continued progress in understanding the mind and brain depends on finding new
-  ways to organize and synthesize an ever-expanding body of knowledge. (Yarkoni,
-  Curr. Dir. Psych. Science, 2012).
+  ways to organize and synthesize an ever-expanding body of knowledge.
+  *— Yarkoni, Curr. Dir. Psych. SciIIence, 2012*
 
 Research in this lab focuses on the interface of computer and information
 sciences, neuroscience, and psychology. We develop tools and strategies to
