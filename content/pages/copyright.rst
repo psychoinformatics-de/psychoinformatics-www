@@ -73,7 +73,7 @@ License:
 Files:
   img/logo/pymvpa.png
 Copyright:
-  2010. Michael Hanke
+  2010, Michael Hanke
 License:
   `MIT`_
 

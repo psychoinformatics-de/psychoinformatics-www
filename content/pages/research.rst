@@ -85,7 +85,7 @@ management tool that aids data discovery, to simplify and homogenize access to
 data across many providers, and to re-share data with a community. One could
 think of Datalad as "Git for collections of datasets".
 
-A such, this software is ideally suited for projects like our *studyforrest*
+As such, this software is ideally suited for projects like our *studyforrest*
 effort. It applies the successful model of collaborative, decentralized open
 source software development to the domain of managing and sharing (scientific)
 data.  Please see the `software page </software.html>`_ for more information.
