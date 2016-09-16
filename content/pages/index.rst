@@ -3,10 +3,12 @@ Psycho­informatics
 :save_as: index.html
 :url: index.html
 
-Psychologists live in an increasingly data-rich world, and our ability to make
-continued progress in understanding the mind and brain depends on finding new
-ways to organize and synthesize an ever-expanding body of knowledge. (Yarkoni,
-Curr. Dir. Psych. Science, 2012).
+..
+
+  Psychologists live in an increasingly data-rich world, and our ability to make
+  continued progress in understanding the mind and brain depends on finding new
+  ways to organize and synthesize an ever-expanding body of knowledge. (Yarkoni,
+  Curr. Dir. Psych. Science, 2012).
 
 Research in this lab focuses on the interface of computer and information
 sciences, neuroscience, and psychology. We develop tools and strategies to
@@ -15,8 +17,8 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 <http://www.pymvpa.org/>`_) to versatile research platforms (e.g.
 `NeuroDebian <http://neuro.debian.net/>`_).
 
-In The Press
-============
+Our work in the press
+=====================
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing
 (COBIDAS) <http://www.humanbrainmapping.org/cobidas>`_ that produced a
