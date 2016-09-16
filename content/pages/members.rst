@@ -17,7 +17,7 @@ Lab Members
           <li><a class='icon-home' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/mih"></a></li>
-          <li><a class='icon-researchgate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
+          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
           <li><a class='icon-debian' href="https://qa.debian.org/developer.php?login=mih@debian.org"></a></li>
         </ul>
       </div>
@@ -49,6 +49,7 @@ Lab Members
         <ul class='social-links'>
           <li><a class='icon-home' href="http://reshannereeder.wix.com/home"></a></li>
           <li><a class='icon-mail' href="mailto:reshanne.reeder@gmail.com"></a></li>
+          <li><a class='icon-google-scholar' href="https://scholar.google.com/citations?user=ivzRHPIAAAAJ"></a></li>
         </ul>
       </div>
     </div>
@@ -90,7 +91,7 @@ Lab Members
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:falko.kaule@med.ovgu.de"></a></li>
           <li><a class='icon-github' href="https://github.com/farkau"></a></li>
-          <li><a class='icon-researchgate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
+          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
         </ul>
       </div>
     </div>
