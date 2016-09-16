@@ -220,3 +220,14 @@ License:
   `MIT`_
 
 .. _Fontello: http://fontello.com/
+
+----
+
+Files:
+  theme/img/minuteman.jpg
+Copyright:
+  US Air Force
+License:
+  Public Domain
+Source:
+  https://commons.wikimedia.org/wiki/File:Minuteman_I_test_sequence.png
