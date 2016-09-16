@@ -19,6 +19,7 @@ Lab Members
           <li><a class='icon-gpg' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
           <li><a class='icon-github' href="https://github.com/mih"></a></li>
           <li><a class='icon-orcid' href="http://orcid.org/0000-0001-6398-6370"></a></li>
+          <li><a class='icon-linkedin' href="https://www.linkedin.com/profile/view?id=AAkAAAMpYkYBpUFaL_u9gRCZMYQ3_1jreo2DMGc"></a></li>
           <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
           <li><a class='icon-debian' href="https://qa.debian.org/developer.php?login=mih@debian.org"></a></li>
         </ul>
