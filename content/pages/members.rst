@@ -11,7 +11,7 @@ Lab Members
       <div class="info">
         <h3>J.-Prof. Dr. Michael&nbsp;Hanke</h3>
         <p class="title">Principal Investigator</p>
-        <p class="blurb"></p>
+        <p class="blurb">Full-time informagician, real-life psychologist, Debian developer, Pythonero, open science and free software proponent</p>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
