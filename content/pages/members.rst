@@ -11,7 +11,8 @@ Lab Members
       <div class="info">
         <h3>J.-Prof. Dr. Michael&nbsp;Hanke</h3>
         <p class="title">Principal Investigator</p>
-        <p class="blurb">Full-time informagician, real-life psychologist, Debian developer, Pythonero, open science and free software proponent</p>
+        <p class="blurb">Full-time informagician, real-life psychologist, Debian
+          developer, Pythonero, open science and free software proponent.</p>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
@@ -27,9 +28,9 @@ Lab Members
       <div class="info">
         <h3>Alex&nbsp;Waite</h3>
         <p class="title">IT Specialist</p>
-        <p class="blurb">Part system administrator and part programmer, Alex
-          makes sure stuff gets done &mdash; and that the appropriate amount of
-          70s funk gets played on the lab stereo system.</p>
+        <p class="blurb">Part system-administrator and part programmer, Alex
+          makes sure stuff gets done &mdash; and that plenty of 70s funk is
+          played on the lab stereo system.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Alexqw85@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/aqw"></a></li>
@@ -42,7 +43,9 @@ Lab Members
       <div class="info">
         <h3>Dr. Reshanne&nbsp;Reeder</h3>
         <p class="title">Postdoc</p>
-        <p class="blurb"></p>
+        <p class="blurb">Visual preparatory attention expertista &mdash;
+          researching nonretinal vision including imagery, visual working
+          memory, and the target template.</p>
         <ul class='social-links'>
           <li><a class='icon-home' href="http://reshannereeder.wix.com/home"></a></li>
           <li><a class='icon-mail' href="mailto:reshanne.reeder@gmail.com"></a></li>
@@ -68,7 +71,9 @@ Lab Members
       <div class="info">
         <h3>Dipl.-Inf. Benjamin&nbsp;Poldrack</h3>
         <p class="title">Datalad Developer</p>
-        <p class="blurb"></p>
+        <p class="blurb">Sneaky like shadow, he's there one moment and gone with
+          the next. One wonders what he actually does all day, until you see his
+          impressive git commit log.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:benjamin.poldrack@ovgu.de"></a></li>
           <li><a class='icon-github' href="https://github.com/bpoldrack"></a></li>
