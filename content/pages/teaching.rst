@@ -13,9 +13,9 @@ independent peer-review, and by those means obtain a first hand experience of
 the scientific process. Two successful examples of student-authored
 publications resulting from such work can be found in:
 
-* **Häusler, C. O.** & Hanke, M. (2016). An annotation of cuts, depicted locations,
-  and temporal progression in the motion picture "Forrest Gump".
-  *F1000Research*.
+* **Häusler, C. O.** & Hanke, M. (2016). `An annotation of cuts, depicted
+  locations, and temporal progression in the motion picture "Forrest Gump".
+  <http://f1000research.com/articles/5-2273>`_, *F1000Research*, 5:2273.
 
 * **Labs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,
   Hartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K.,
