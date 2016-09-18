@@ -297,8 +297,11 @@ section a.image-reference img {
 .social-links .icon-github         { background-color: #111010; }
 .social-links .icon-google         { background-color: #d93e2d; }
 .social-links .icon-google-scholar { background-color: #4889f1; }
+.social-links .icon-gpg            { background-color: #ff9800; }
 .social-links .icon-home           { background-color: #bbb;    }
+.social-links .icon-linkedin       { background-color: #0077b5; }
 .social-links .icon-mail           { background-color: #5e47b9; }
+.social-links .icon-orcid          { background-color: #a6ce39; }
 .social-links .icon-research-gate  { background-color: #00d0af; }
 .social-links .icon-twitter        { background-color: #4da7de; }
 
