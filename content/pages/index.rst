@@ -17,8 +17,15 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 <http://www.pymvpa.org/>`_) to versatile research platforms (e.g.
 `NeuroDebian <http://neuro.debian.net/>`_).
 
-Our work in the press
-=====================
+.. raw:: html
+
+    <div class='index-logos'>
+      <img src="/img/logo/ovgu_nat.jpg" alt="Otto-von-Guericke University Natural Sciences Logo" />
+      <img src="/img/logo/cbbs.png" alt="CBBS Logo" />
+    </div>
+
+In The Press
+============
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing
 (COBIDAS) <http://www.humanbrainmapping.org/cobidas>`_ that produced a

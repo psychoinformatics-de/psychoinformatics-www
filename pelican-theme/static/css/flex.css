@@ -214,6 +214,15 @@ footer span.break {
   footer span.break { display: inline; }
 }
 
+.index-logos img {
+  vertical-align: top;
+  width: 100%;
+}
+@media screen and (min-width: 500px) {
+  .index-logos img:first-of-type { width: 66% }
+  .index-logos img:last-of-type { width: 32% }
+}
+
 .sponsor-logos {
   text-align: center;
 }
