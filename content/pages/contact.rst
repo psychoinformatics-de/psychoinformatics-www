@@ -11,7 +11,7 @@ Contact Us
        <div>Otto-von-Guericke-Universität<br />
           Institut für Psychologie<br />
           J.-Prof. Dr. Michael Hanke<br />
-          <div itemscope itemtype="schema.org/PostalAddress">
+          <div itemscope itemtype="http://schema.org/PostalAddress">
             <span itemprop="postOfficeBoxNumber">PF 4120</span><br />
             <span itemprop="addressLocality">Magdeburg</span>
             <span itemprop="postalCode">D-39016</span>
@@ -42,10 +42,7 @@ Contact Us
        </div>
      </div>
 
-     <iframe id='map' frameborder="0" scrolling="no"
-       marginheight="0" marginwidth="0"
-       src="http://www.openstreetmap.org/export/embed.html?bbox=11.639392375946045%2C52.13756435052512%2C11.653511524200438%2C52.14378016935833&amp;layer=mapnik&amp;marker=52.14067236837772%2C11.646451950073242">
-     </iframe>
+     <iframe id='map' src="http://www.openstreetmap.org/export/embed.html?bbox=11.639392375946045%2C52.13756435052512%2C11.653511524200438%2C52.14378016935833&amp;layer=mapnik&amp;marker=52.14067236837772%2C11.646451950073242"></iframe>
      <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
        <meta itemprop="latitude" content="52.14378016935833" />
        <meta itemprop="longitude" content="11.646451950073242" />
