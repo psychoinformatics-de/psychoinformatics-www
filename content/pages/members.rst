@@ -31,9 +31,9 @@ Lab Members
       <div class="info">
         <h3>Alex&nbsp;Waite</h3>
         <p class="title">Technology Czar</p>
-        <p class="blurb">Part system-administrator, part programmer, part
-          network admin. Alex makes sure stuff gets done &mdash; and that plenty
-          of 70s funk is played on the lab stereo system.</p>
+        <p class="blurb">Part sysadmin, part developer, Alex makes sure stuff
+          gets done &mdash; and that plenty of 70s funk is played on the lab
+          stereo system.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Alexqw85@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/aqw"></a></li>
@@ -63,8 +63,8 @@ Lab Members
         <h3>Dr. Emanuele&nbsp;Porcu</h3>
         <p class="title">Postdoc</p>
         <p class="blurb">A color blind experimental psychologist/drummer
-          interested in multisensory interactions and attention. (Favorite song:
-          True Colors)</p>
+          interested in multisensory interactions and attention. Favorite song:
+          True Colors.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:porcu.emanuele@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/eporcu"></a></li>
