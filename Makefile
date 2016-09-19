@@ -11,7 +11,7 @@ TMPDIR=$(BASEDIR)/tmp
 
 SSH_HOST=kumo.ovgu.de
 SSH_PORT=22
-SSH_USER=git
+SSH_USER=
 SSH_TARGET_DIR=/var/www/psychoinformatics/www
 
 DEBUG ?= 0
@@ -69,9 +69,17 @@ publish:
 	if test -d $(BASEDIR)/extra; then rsync -a $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
 
 ssh_upload: publish
+ifdef SSH_USER
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+else
+	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_HOST):$(SSH_TARGET_DIR)
+endif
 
 rsync_upload: publish
+ifdef SSH_USER
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+else
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+endif
 
 .PHONY: html help clean regenerate devserver publish ssh_upload rsync_upload
