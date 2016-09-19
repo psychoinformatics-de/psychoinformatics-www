@@ -20,7 +20,7 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 .. raw:: html
 
     <div class='index-logos'>
-      <img src="/img/logo/ovgu_nat.jpg" alt="Otto-von-Guericke University Natural Sciences Logo" />
+      <img src="/img/logo/ovgu_nat.png" alt="Otto-von-Guericke University Natural Sciences Logo" />
       <img src="/img/logo/cbbs.png" alt="CBBS Logo" />
     </div>
 
