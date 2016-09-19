@@ -420,7 +420,11 @@ aside a.active {
     background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 2em));
   }
   .members.grills .mem {
+    border-bottom: 1px solid #d0d0d0; /* grills don't have social links to act as a border */
     height: calc(501px + 2em);
+  }
+  .members.grills .mem:last-of-type {
+    border-bottom: 0;
   }
 }
 
