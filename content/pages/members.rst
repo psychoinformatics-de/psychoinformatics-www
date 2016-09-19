@@ -30,10 +30,10 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/waite.png);"></div>
       <div class="info">
         <h3>Alex&nbsp;Waite</h3>
-        <p class="title">IT Specialist</p>
-        <p class="blurb">Part system-administrator and part programmer, Alex
-          makes sure stuff gets done &mdash; and that plenty of 70s funk is
-          played on the lab stereo system.</p>
+        <p class="title">Technology Czar</p>
+        <p class="blurb">Part system-administrator, part programmer, part
+          network admin. Alex makes sure stuff gets done &mdash; and that plenty
+          of 70s funk is played on the lab stereo system.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Alexqw85@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/aqw"></a></li>
@@ -62,7 +62,9 @@ Lab Members
       <div class="info">
         <h3>Dr. Emanuele&nbsp;Porcu</h3>
         <p class="title">Postdoc</p>
-        <p class="blurb"></p>
+        <p class="blurb">A color blind experimental psychologist/drummer
+          interested in multisensory interactions and attention. (Favorite song:
+          True Colors)</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:porcu.emanuele@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/eporcu"></a></li>
@@ -90,7 +92,10 @@ Lab Members
       <div class="info">
         <h3>Dipl.-Neurowiss. Falko&nbsp;R.&nbsp;Kaule</h3>
         <p class="title">PhD Student</p>
-        <p class="blurb"></p>
+        <p class="blurb">Mercenary experiment programmer and split personality
+          (Psychoinformatics, <a href='http://www.med.uni-magdeburg.de/augenklinik/vpl/index.html'>VPL</a>,
+          <a href='http://www.ipsy.ovgu.de/ipsy/en/exppsy.html'>Experimental
+          Psychology</a>) on the way to finishing his greater goal: his PhD.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:falko.kaule@med.ovgu.de"></a></li>
           <li><a class='icon-github' href="https://github.com/farkau"></a></li>
