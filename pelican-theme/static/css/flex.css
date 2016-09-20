@@ -215,12 +215,16 @@ footer span.break {
 }
 
 .index-logos img {
-  vertical-align: top;
+  height: auto;
   width: 100%;
 }
 @media screen and (min-width: 500px) {
-  .index-logos img:first-of-type { width: 66% }
-  .index-logos img:last-of-type { width: 32% }
+  .index-logos {
+    display: flex;
+    justify-content: space-between;
+  }
+  .index-logos .ovgu { flex: 5.07; }
+  .index-logos .cbbs { flex: 2.61; }
 }
 
 .sponsor-logos {
