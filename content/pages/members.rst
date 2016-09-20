@@ -122,10 +122,12 @@ Lab Members
       <div class="info">
         <h3>Pierre&nbsp;Ibe (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
-        <p class="blurb"></p>
+        <p class="blurb">Helps out with whatever needs doing and soaks up
+          knowledge like a sponge on his way to a masters degree.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' href="mailto:Ibe.pierre@gmail.com"></a></li>
           <li><a class='icon-github' href="https://github.com/pierre-ibe"></a></li>
+          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Pierre_Ibe"></a></li>
         </ul>
       </div>
     </div>
