@@ -61,9 +61,9 @@ many collaborators, please see the project homepage.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='icon-home' href="http://studyforrest.org"></a></li>
-    <li><a class='icon-twitter' href="https://twitter.com/studyforrest"></a></li>
-    <li><a class='icon-github' href="https://github.com/psychoinformatics-de?query=studyforrest"></a></li>
+    <li><a class='icon-home' aria-label='Website' href="http://studyforrest.org"></a></li>
+    <li><a class='icon-twitter' aria-label='Twitter' href="https://twitter.com/studyforrest"></a></li>
+    <li><a class='icon-github' aria-label='GitHub' href="https://github.com/psychoinformatics-de?query=studyforrest"></a></li>
   </ul>
   </section>
 
@@ -110,10 +110,10 @@ collaboration in computational neuroscience (CRCNS).
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='icon-home' href="http://datalad.org"></a></li>
-    <li><a class='icon-twitter' href="https://twitter.com/datalad"></a></li>
-    <li><a class='icon-github' href="https://github.com/datalad"></a></li>
-    <li><a class='icon-google' href="https://plus.google.com/102227583349569690568"></a></li>
+    <li><a class='icon-home' aria-label='Website' href="http://datalad.org"></a></li>
+    <li><a class='icon-twitter' aria-label='Twitter' href="https://twitter.com/datalad"></a></li>
+    <li><a class='icon-github' aria-label='GitHub' href="https://github.com/datalad"></a></li>
+    <li><a class='icon-google' aria-label='Google+' href="https://plus.google.com/102227583349569690568"></a></li>
   </ul>
   </section>
 
@@ -141,7 +141,7 @@ Research Center `SFB 779 <http://www.sfb779.de/en/>`_ in Magdeburg.
 .. raw:: html
 
   <ul class='social-links'>
-    <li><a class='icon-home' href="http://www.sfb779.de/en/a15n.html"></a></li>
+    <li><a class='icon-home' aria-label='Website' href="http://www.sfb779.de/en/a15n.html"></a></li>
   </ul>
   </section>
 

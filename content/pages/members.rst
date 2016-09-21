@@ -14,14 +14,14 @@ Lab Members
         <p class="blurb">Full-time informagician, real-life psychologist, Debian
           developer, Pythonero, open science and free software proponent.</p>
         <ul class='social-links'>
-          <li><a class='icon-home' href="http://mih.voxindeserto.de"></a></li>
-          <li><a class='icon-mail' href="mailto:michael.hanke@gmail.com"></a></li>
-          <li><a class='icon-gpg' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
-          <li><a class='icon-github' href="https://github.com/mih"></a></li>
-          <li><a class='icon-orcid' href="http://orcid.org/0000-0001-6398-6370"></a></li>
-          <li><a class='icon-linkedin' href="https://www.linkedin.com/profile/view?id=AAkAAAMpYkYBpUFaL_u9gRCZMYQ3_1jreo2DMGc"></a></li>
-          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
-          <li><a class='icon-debian' href="https://qa.debian.org/developer.php?login=mih@debian.org"></a></li>
+          <li><a class='icon-home' aria-label='Website' href="http://mih.voxindeserto.de"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:michael.hanke@gmail.com"></a></li>
+          <li><a class='icon-gpg' aria-label='GPG Key' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/mih"></a></li>
+          <li><a class='icon-orcid' aria-label='ORCID' href="http://orcid.org/0000-0001-6398-6370"></a></li>
+          <li><a class='icon-linkedin' aria-label='LinkedIn' href="https://www.linkedin.com/profile/view?id=AAkAAAMpYkYBpUFaL_u9gRCZMYQ3_1jreo2DMGc"></a></li>
+          <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Michael_Hanke2"></a></li>
+          <li><a class='icon-debian' aria-label='Debian' href="https://qa.debian.org/developer.php?login=mih@debian.org"></a></li>
         </ul>
       </div>
     </div>
@@ -35,8 +35,8 @@ Lab Members
           gets done &mdash; and that plenty of 70s funk is played on the lab
           stereo system.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:Alexqw85@gmail.com"></a></li>
-          <li><a class='icon-github' href="https://github.com/aqw"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:Alexqw85@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/aqw"></a></li>
         </ul>
       </div>
     </div>
@@ -50,9 +50,9 @@ Lab Members
           researching nonretinal vision including imagery, visual working
           memory, and the target template.</p>
         <ul class='social-links'>
-          <li><a class='icon-home' href="http://reshannereeder.wix.com/home"></a></li>
-          <li><a class='icon-mail' href="mailto:reshanne.reeder@gmail.com"></a></li>
-          <li><a class='icon-google-scholar' href="https://scholar.google.com/citations?user=ivzRHPIAAAAJ"></a></li>
+          <li><a class='icon-home' aria-label='Website' href="http://reshannereeder.wix.com/home"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:reshanne.reeder@gmail.com"></a></li>
+          <li><a class='icon-google-scholar' aria-label='Google Scholar' href="https://scholar.google.com/citations?user=ivzRHPIAAAAJ"></a></li>
         </ul>
       </div>
     </div>
@@ -66,8 +66,8 @@ Lab Members
           interested in multisensory interactions and attention. Favorite song:
           True Colors.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:porcu.emanuele@gmail.com"></a></li>
-          <li><a class='icon-github' href="https://github.com/eporcu"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:porcu.emanuele@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/eporcu"></a></li>
         </ul>
       </div>
     </div>
@@ -81,8 +81,8 @@ Lab Members
           the next. One wonders what he actually does all day, until you see his
           impressive git commit log.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:benjamin.poldrack@ovgu.de"></a></li>
-          <li><a class='icon-github' href="https://github.com/bpoldrack"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:benjamin.poldrack@ovgu.de"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/bpoldrack"></a></li>
         </ul>
       </div>
     </div>
@@ -97,9 +97,9 @@ Lab Members
           <a href='http://www.ipsy.ovgu.de/ipsy/en/exppsy.html'>Experimental
           Psychology</a>) on the way to finishing his greater goal: his PhD.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:falko.kaule@med.ovgu.de"></a></li>
-          <li><a class='icon-github' href="https://github.com/farkau"></a></li>
-          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:falko.kaule@med.ovgu.de"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/farkau"></a></li>
+          <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
         </ul>
       </div>
     </div>
@@ -111,8 +111,8 @@ Lab Members
         <p class="title">Research Assistant</p>
         <p class="blurb"></p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:der.haeusler@gmx.net"></a></li>
-          <li><a class='icon-github' href="https://github.com/chrhaeusler"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:der.haeusler@gmx.net"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/chrhaeusler"></a></li>
         </ul>
       </div>
     </div>
@@ -125,9 +125,9 @@ Lab Members
         <p class="blurb">Helps out with whatever needs doing and soaks up
           knowledge like a sponge on his way to a masters degree.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:Ibe.pierre@gmail.com"></a></li>
-          <li><a class='icon-github' href="https://github.com/pierre-ibe"></a></li>
-          <li><a class='icon-research-gate' href="https://www.researchgate.net/profile/Pierre_Ibe"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:Ibe.pierre@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/pierre-ibe"></a></li>
+          <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Pierre_Ibe"></a></li>
         </ul>
       </div>
     </div>
@@ -145,8 +145,8 @@ Lab Members
         <p class="blurb">After finishing his PhD at OvGU, he became a postdoc at
           the University of Nottingham.</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:uam111@gmail.com"></a></li>
-          <li><a class='icon-github' href="https://github.com/uam111"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:uam111@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/uam111"></a></li>
         </ul>
       </div>
     </div>
@@ -157,8 +157,8 @@ Lab Members
         <h3>Dr. Vittorio&nbsp;Iacovella</h3>
         <p class="blurb">Visiting researcher from Trento University</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:iacovella@fbk.eu"></a></li>
-          <li><a class='icon-github' href="https://github.com/v-iacovella"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:iacovella@fbk.eu"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/v-iacovella"></a></li>
         </ul>
       </div>
     </div>
@@ -169,8 +169,8 @@ Lab Members
         <h3>Moritz&nbsp;Boos</h3>
         <p class="blurb">Visiting researcher from the University of Oldenburg</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:Moritz.boos@gmail.com"></a></li>
-          <li><a class='icon-github' href="https://github.com/mjboos"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:Moritz.boos@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/mjboos"></a></li>
         </ul>
       </div>
     </div>
@@ -181,7 +181,7 @@ Lab Members
         <h3>Michael&nbsp;Notter</h3>
         <p class="blurb">Visiting researcher from the University of Lausanne</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:michaelnotter@hotmail.com"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:michaelnotter@hotmail.com"></a></li>
         </ul>
       </div>
     </div>
@@ -193,7 +193,7 @@ Lab Members
         <p class="blurb">Visiting researcher from University of Ljubljana.
           Proceeded to work towards a PhD at the VU University Medical Center, Amsterdam</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:dinga92@gmail.com"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:dinga92@gmail.com"></a></li>
         </ul>
       </div>
     </div>
@@ -204,8 +204,8 @@ Lab Members
         <h3>Daniel&nbsp;Kottke</h3>
         <p class="blurb">Joined the Active Learning Lab at Kassel University</p>
         <ul class='social-links'>
-          <li><a class='icon-mail' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
-          <li><a class='icon-github' href="https://github.com/dakot"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/dakot"></a></li>
         </ul>
       </div>
     </div>
@@ -216,8 +216,8 @@ Lab Members
         <h3>Dr. Sven&nbsp;Buchholz</h3>
         <p class="blurb">Became a professor at TH Brandenburg</p>
         <ul class='social-links'>
-          <li><a class='icon-home' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"></a></li>
-          <li><a class='icon-mail' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
+          <li><a class='icon-home' aria-label='Website' href="http://informatik.fh-brandenburg.de/sven-buchholz.html"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
         </ul>
       </div>
     </div>

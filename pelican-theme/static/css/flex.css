@@ -308,6 +308,7 @@ section a.image-reference img {
   background: #333;
   border: 1px solid #aaa;
   border-radius: 5px;
+  content: attr(aria-label);
   font-size: 0.8em;
   opacity: 0;
   padding: 3px 6px;
@@ -322,27 +323,27 @@ section a.image-reference img {
 }
 
 .social-links .icon-debian                 { background-color: #d70a53; }
-.social-links .icon-debian:after           { border-color: #d70a53; content: 'Debian'; }
+.social-links .icon-debian:after           { border-color:     #d70a53; }
 .social-links .icon-github                 { background-color: #111010; }
-.social-links .icon-github:after           { border-color: #111010; content: 'GitHub'; }
+.social-links .icon-github:after           { border-color:     #111010; }
 .social-links .icon-google                 { background-color: #d93e2d; }
-.social-links .icon-google:after           { border-color: #d93e2d; content: 'Google+'; }
+.social-links .icon-google:after           { border-color:     #d93e2d; }
 .social-links .icon-google-scholar         { background-color: #4889f1; }
-.social-links .icon-google-scholar:after   { border-color: #4889f1; content: 'Google Scholar'; }
+.social-links .icon-google-scholar:after   { border-color:     #4889f1; }
 .social-links .icon-gpg                    { background-color: #ff9800; }
-.social-links .icon-gpg:after              { border-color: #ff9800; content: 'GPG Key'; }
+.social-links .icon-gpg:after              { border-color:     #ff9800; }
 .social-links .icon-home                   { background-color: #bbb;    }
-.social-links .icon-home:after             { border-color: #bbb;    content: 'Website'; }
+.social-links .icon-home:after             { border-color:     #bbb;    }
 .social-links .icon-linkedin               { background-color: #0077b5; }
-.social-links .icon-linkedin:after         { border-color: #0077b5; content: 'LinkedIn'; }
+.social-links .icon-linkedin:after         { border-color:     #0077b5; }
 .social-links .icon-mail                   { background-color: #5e47b9; }
-.social-links .icon-mail:after             { border-color: #5e47b9; content: 'Email'; }
+.social-links .icon-mail:after             { border-color:     #5e47b9; }
 .social-links .icon-orcid                  { background-color: #a6ce39; }
-.social-links .icon-orcid:after            { border-color: #a6ce39; content: 'ORCID'; }
+.social-links .icon-orcid:after            { border-color:     #a6ce39; }
 .social-links .icon-research-gate          { background-color: #00d0af; }
-.social-links .icon-research-gate:after    { border-color: #00d0af; content: 'ResearchGate'; }
+.social-links .icon-research-gate:after    { border-color:     #00d0af; }
 .social-links .icon-twitter                { background-color: #4da7de; }
-.social-links .icon-twitter:after          { border-color: #4da7de; content: 'Twitter'; }
+.social-links .icon-twitter:after          { border-color:     #4da7de; }
 
 /*
  *  State
