@@ -10,7 +10,7 @@
   font-style: normal;
 }
 
-[class^="icon-"]:before, [class*=" icon-"]:before {
+[class^="icon-"]::before, [class*=" icon-"]::before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -38,16 +38,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-home:before { content: '\e800'; } /* '' */
-.icon-mail:before { content: '\e801'; } /* '' */
-.icon-phone:before { content: '\e802'; } /* '' */
-.icon-gpg:before { content: '\e803'; } /* '' */
-.icon-google-scholar:before { content: '\e900'; } /* '' */
-.icon-research-gate:before { content: '\e902'; } /* '' */
-.icon-orcid:before { content: '\e906'; } /* '' */
-.icon-twitter:before { content: '\f099'; } /* '' */
-.icon-github:before { content: '\f09b'; } /* '' */
-.icon-linkedin:before { content: '\f0e1'; } /* '' */
-.icon-debian:before { content: '\f102'; } /* '' */
-.icon-google:before { content: '\f1a0'; } /* '' */
-.icon-fax:before { content: '\f1ac'; } /* '' */
+.icon-home::before { content: '\e800'; } /* '' */
+.icon-mail::before { content: '\e801'; } /* '' */
+.icon-phone::before { content: '\e802'; } /* '' */
+.icon-gpg::before { content: '\e803'; } /* '' */
+.icon-google-scholar::before { content: '\e900'; } /* '' */
+.icon-research-gate::before { content: '\e902'; } /* '' */
+.icon-orcid::before { content: '\e906'; } /* '' */
+.icon-twitter::before { content: '\f099'; } /* '' */
+.icon-github::before { content: '\f09b'; } /* '' */
+.icon-linkedin::before { content: '\f0e1'; } /* '' */
+.icon-debian::before { content: '\f102'; } /* '' */
+.icon-google::before { content: '\f1a0'; } /* '' */
+.icon-fax::before { content: '\f1ac'; } /* '' */
