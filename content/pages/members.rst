@@ -109,7 +109,10 @@ Lab Members
       <div class="info">
         <h3>Christian&nbsp;Häusler (B.Sc.)</h3>
         <p class="title">Research Assistant</p>
-        <p class="blurb"></p>
+        <p class="blurb">If a topic intersects with neuroscience, experimental
+          psychology, filmmaking, and number crunching with open-source
+          software, you've just described his dream project. That and Neurofunk
+          Drum and Bass.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' aria-label='Email' href="mailto:der.haeusler@gmx.net"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/chrhaeusler"></a></li>
