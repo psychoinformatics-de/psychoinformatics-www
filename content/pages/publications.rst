@@ -10,9 +10,6 @@ Publications
 Submitted
 ~~~~~~~~~
 
-**Hanke, M. & Ibe, P.** Lies, irony, and contradiction — an annotation of
-semantic conflict in the movie "Forrest Gump". *F1000Research*.
-
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
 E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015). Standards
@@ -41,6 +38,10 @@ The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
 Peer-reviewed
 ~~~~~~~~~~~~~
 
+**Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
+of semantic conflict in the movie "Forrest Gump"
+<https://f1000research.com/articles/5-2375>`_. *F1000Research*, 5:2375.
+
 **Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
 F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.  `A
 studyforrest extension, simultaneous fMRI and eye gaze recordings during
@@ -48,8 +49,8 @@ prolonged natural stimulation
 <http://biorxiv.org/content/early/2016/03/31/046581>`_. Scientific Data.
 Accepted for publication.
 
-**Häusler, C. O. & Hanke, M.**. `An annotation of cuts, depicted locations, and
-temporal progression in the motion picture "Forrest Gump"
+**Häusler, C. O. & Hanke, M.**. (2016) `An annotation of cuts, depicted
+locations, and temporal progression in the motion picture "Forrest Gump"
 <http://f1000research.com/articles/5-2273>`_. *F1000Research*, 5:2273.
 
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
