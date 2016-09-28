@@ -43,7 +43,7 @@ help:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extra; then rsync -a $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/extra; then rsync -r $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -66,7 +66,7 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extra; then rsync -a $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/extra; then rsync -rv $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
 
 ssh_upload: publish
 ifdef SSH_USER
@@ -77,9 +77,9 @@ endif
 
 rsync_upload: publish
 ifdef SSH_USER
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh -p $(SSH_PORT)" -rv --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 else
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh -p $(SSH_PORT)" -rv --delete $(OUTPUTDIR)/ $(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 endif
 
 .PHONY: html help clean regenerate devserver publish ssh_upload rsync_upload
