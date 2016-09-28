@@ -15,6 +15,7 @@ Lab Members
           developer, Pythonero, open science and free software proponent.</p>
         <ul class='social-links'>
           <li><a class='icon-home' aria-label='Website' href="http://mih.voxindeserto.de"></a></li>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=5540"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-gpg' aria-label='GPG Key' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/mih"></a></li>
@@ -35,6 +36,7 @@ Lab Members
           gets done &mdash; and that plenty of 70s funk is played on the lab
           stereo system.</p>
         <ul class='social-links'>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=6245"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:Alexqw85@gmail.com"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/aqw"></a></li>
         </ul>
@@ -51,6 +53,7 @@ Lab Members
           memory, and the target template.</p>
         <ul class='social-links'>
           <li><a class='icon-home' aria-label='Website' href="http://reshannereeder.wix.com/home"></a></li>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=8605"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:reshanne.reeder@gmail.com"></a></li>
           <li><a class='icon-google-scholar' aria-label='Google Scholar' href="https://scholar.google.com/citations?user=ivzRHPIAAAAJ"></a></li>
         </ul>
@@ -81,6 +84,7 @@ Lab Members
           the next. One wonders what he actually does all day, until you see his
           impressive git commit log.</p>
         <ul class='social-links'>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=8676"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:benjamin.poldrack@ovgu.de"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/bpoldrack"></a></li>
         </ul>
@@ -97,6 +101,7 @@ Lab Members
           <a href='http://www.ipsy.ovgu.de/ipsy/en/exppsy.html'>Experimental
           Psychology</a>) on the way to finishing his greater goal: his PhD.</p>
         <ul class='social-links'>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=8426"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:falko.kaule@med.ovgu.de"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/farkau"></a></li>
           <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Falko_Kaule"></a></li>
