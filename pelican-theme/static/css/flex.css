@@ -332,8 +332,8 @@ section a.image-reference img {
 .social-links .icon-google-scholar::after   { border-color:     #4889f1; }
 .social-links .icon-gpg                     { background-color: #ff9800; }
 .social-links .icon-gpg::after              { border-color:     #ff9800; }
-.social-links .icon-home                    { background-color: #bbb;    }
-.social-links .icon-home::after             { border-color:     #bbb;    }
+.social-links .icon-home                    { background-color: #f33c14  }
+.social-links .icon-home::after             { border-color:     #f33c14  }
 .social-links .icon-info                    { background-color: #888;    }
 .social-links .icon-info::after             { border-color:     #888;    }
 .social-links .icon-linkedin                { background-color: #0077b5; }
