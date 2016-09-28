@@ -334,6 +334,8 @@ section a.image-reference img {
 .social-links .icon-gpg::after              { border-color:     #ff9800; }
 .social-links .icon-home                    { background-color: #bbb;    }
 .social-links .icon-home::after             { border-color:     #bbb;    }
+.social-links .icon-info                    { background-color: #888;    }
+.social-links .icon-info::after             { border-color:     #888;    }
 .social-links .icon-linkedin                { background-color: #0077b5; }
 .social-links .icon-linkedin::after         { border-color:     #0077b5; }
 .social-links .icon-mail                    { background-color: #5e47b9; }
