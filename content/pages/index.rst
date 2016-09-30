@@ -21,7 +21,7 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 
     <div class='index-logos'>
       <div class='ovgu'><a href="http://www.fnw.ovgu.de" target="_blank"><img src="/img/logo/ovgu_nat.png" alt="Otto-von-Guericke University Natural Sciences Logo" /></a></div>
-      <div class='cbbs'><a href="http://www.cbbs.eu" target="_blank"><img src="/img/logo/cbbs.png" alt="CBBS Logo" /></a></div>
+      <div class='cbbs'><a href="http://www.cbbs.eu/en/" target="_blank"><img src="/img/logo/cbbs.png" alt="CBBS Logo" /></a></div>
     </div>
 
 In The Press
