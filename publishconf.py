@@ -9,8 +9,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-#SITEURL = 'http://psychoinformatics.de'
-#RELATIVE_URLS = False
+SITEURL = 'http://psychoinformatics.de'
+RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 

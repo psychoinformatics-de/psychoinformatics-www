@@ -19,7 +19,8 @@ LOCALE = u'en_US.UTF-8'
 # Configure Pelican a bit
 #
 PLUGIN_PATHS = ['pelican-plugins']
-#PLUGINS = []
+PLUGINS = [ 'sitemap' ]
+SITEMAP = { 'format': 'xml' }
 
 DIRECT_TEMPLATES = ['404'] # unset all templates; add 404
 THEME = 'pelican-theme'
