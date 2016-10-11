@@ -334,8 +334,8 @@ section a.image-reference img {
 .social-links .icon-gpg::after              { border-color:     #ff9800; }
 .social-links .icon-home                    { background-color: #f33c14; }
 .social-links .icon-home::after             { border-color:     #f33c14; }
-.social-links .icon-info                    { background-color: #bfbfbf; }
-.social-links .icon-info::after             { border-color:     #bfbfbf; }
+.social-links .icon-info                    { background-color: #13dede; }
+.social-links .icon-info::after             { border-color:     #13dede; }
 .social-links .icon-linkedin                { background-color: #0077b5; }
 .social-links .icon-linkedin::after         { border-color:     #0077b5; }
 .social-links .icon-mail                    { background-color: #5e47b9; }
