@@ -17,6 +17,10 @@ publications resulting from such work can be found in:
   locations, and temporal progression in the motion picture "Forrest Gump".
   <http://f1000research.com/articles/5-2273>`_, *F1000Research*, 5:2273.
 
+* **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an
+  annotation of semantic conflict in the movie "Forrest Gump"
+  <https://f1000research.com/articles/5-2375>`_. *F1000Research*, 5:2375.
+
 * **Labs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,
   Hartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K.,
   Rabe, L. N., von Sobbe, F.-R.** & Hanke, M. (2015).
