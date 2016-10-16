@@ -60,11 +60,14 @@ else
 	$(BASEDIR)/develop_server.sh restart
 endif
 
+prep:
+	git submodule update --init
+
 stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+publish: prep
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	if test -d $(BASEDIR)/extra; then rsync -rv $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
 
@@ -82,4 +85,4 @@ else
 	rsync -e "ssh -p $(SSH_PORT)" -rv --delete $(OUTPUTDIR)/ $(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 endif
 
-.PHONY: html help clean regenerate devserver publish ssh_upload rsync_upload
+.PHONY: html help clean regenerate devserver prep publish ssh_upload rsync_upload
