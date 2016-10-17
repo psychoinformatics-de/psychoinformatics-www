@@ -15,7 +15,7 @@ all of which are Free and Open Source.
 
 .. raw:: html
 
-  <section class="alternate">
+  <section id="neurodebian" class="alternate">
 
 .. image:: {filename}/img/logo/neurodebian.png
    :alt: NeuroDebian Logo
@@ -43,7 +43,7 @@ information on NeuroDebian is available at http://neuro.debian.net.
     <li><a class='icon-github' aria-label='GitHub' href="https://github.com/neurodebian"></a></li>
   </ul>
   </section>
-  <section class="alternate">
+  <section id="pymvpa" class="alternate">
 
 .. image:: {filename}/img/logo/pymvpa.png
    :alt: PyMPVA Logo
@@ -70,7 +70,7 @@ including a detailed tutorial are available at http://pymvpa.org.
     <li><a class='icon-github' aria-label='GitHub' href="https://github.com/PyMVPA/PyMVPA"></a></li>
   </ul>
   </section>
-  <section class="alternate">
+  <section id="datalad" class="alternate">
 
 .. image:: {filename}/img/logo/datalad.png
    :alt: DataLad Logo
@@ -92,7 +92,7 @@ the domain and we welcome a wide range of contributions.
     <li><a class='icon-google' aria-label='Google+' href="https://plus.google.com/102227583349569690568"></a></li>
   </ul>
   </section>
-  <section class="alternate">
+  <section id="nibabel" class="alternate">
 
 .. image:: {filename}/img/logo/nibabel.png
    :alt: NiBabel Logo

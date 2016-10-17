@@ -22,7 +22,7 @@ order to validate our findings.
 
 .. raw:: html
 
-  <section class="alternate">
+  <section id="studyforrest" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/lsa.png" alt="State of Sachen-Anhalt Logo" />
       <img src="/img/logo/erdf.png" alt="ERDF Logo" />
@@ -67,7 +67,7 @@ many collaborators, please see the project homepage.
   </ul>
   </section>
 
-  <section class="alternate">
+  <section id="datalad" class="alternate">
     <div class='sponsor-logos'>
       <a href='http://www.gesundheitsforschung-bmbf.de/de/2550.php'>
         <img src="/img/logo/bmbf.png" alt="BMBF Logo" class="squarish" />
@@ -117,7 +117,7 @@ collaboration in computational neuroscience (CRCNS).
   </ul>
   </section>
 
-  <section class="alternate">
+  <section id="primary-rewards" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/dfg.png" alt="DFG Logo" />
     </div>
@@ -145,7 +145,7 @@ Research Center `SFB 779 <http://www.sfb779.de/en/>`_ in Magdeburg.
   </ul>
   </section>
 
-  <section class="alternate">
+  <section id="perceptual-relevance" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/dfg.png" alt="DFG Logo" />
     </div>
@@ -169,7 +169,7 @@ co-funded by the German Research Foundation (DFG; PO 548/16-1).
 
   <h2>Completed Projects</h2>
 
-  <section class="alternate">
+  <section id="neural-spaces" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/bmbf.png" alt="BMBF Logo" class="squarish" />
     </div>
@@ -196,7 +196,7 @@ National Science Foundation (1129764).
 
   </section>
 
-  <section class="alternate">
+  <section id="advanced-analysis" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/cbbs.png" alt="CBBS Logo" class="squarish" />
     </div>
@@ -223,7 +223,7 @@ part of the project "Center for Behavioral Brain Sciences".
 
   </section>
 
-  <section class="alternate">
+  <section id="mvpa-7T" class="alternate">
     <div class='sponsor-logos'>
       <img src="/img/logo/dfg.png" alt="DFG Logo" />
     </div>
