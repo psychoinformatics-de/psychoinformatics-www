@@ -18,6 +18,9 @@
 
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fontello.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/flex.css">
+  {% if page and page.url == "index.html" %}
+  <style>aside img { display: unset; }</style>
+  {% endif %}
 
   <link rel="license" hreflang="en" href="{{ SITEURL }}/copyright.html" />
 </head>

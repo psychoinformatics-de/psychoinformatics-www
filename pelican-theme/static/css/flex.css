@@ -126,6 +126,12 @@ aside {
   padding: 20px 0;
   text-align: center;
 }
+aside img {
+  display: none;
+}
+@media screen and (min-height: 641px) {
+  aside img { display: unset; }
+}
 aside a {
   color: #fff;
   transition: all 0.2s linear;
