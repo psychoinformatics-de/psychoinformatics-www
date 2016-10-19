@@ -31,9 +31,8 @@ representation of features and feature dimensions in the target
 template. Under revision.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
-The Effect of Acquisition Resolution on BOLD fMRI Decoding Analyses at
-7 Tesla? Revision submitted.
-
+`The effect of acquisition resolution on orientation decoding from V1 BOLD
+fMRI at 7 Tesla <http://dx.doi.org/10.1101/081604>`_. Revision submitted.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
