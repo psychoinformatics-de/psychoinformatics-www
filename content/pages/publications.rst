@@ -41,12 +41,11 @@ Peer-reviewed
 of semantic conflict in the movie "Forrest Gump"
 <https://f1000research.com/articles/5-2375>`_. *F1000Research*, 5:2375.
 
-**Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule,
-F. R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J.  `A
+**Hanke, M., Adelhöfer, N., Kottke, D., Iacovella, V., Sengupta, A., Kaule, F.
+R.**, Nigbur, R., **Waite, A. Q.**, Baumgartner, F. J. & Stadler, J. (2016). `A
 studyforrest extension, simultaneous fMRI and eye gaze recordings during
-prolonged natural stimulation
-<http://biorxiv.org/content/early/2016/03/31/046581>`_. Scientific Data.
-Accepted for publication.
+prolonged natural stimulation <http://www.nature.com/articles/sdata201692>`_.
+*Scientific Data*, 3:160092.
 
 **Häusler, C. O. & Hanke, M.**. (2016) `An annotation of cuts, depicted
 locations, and temporal progression in the motion picture "Forrest Gump"
@@ -57,10 +56,10 @@ Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
 publication.
 
 **Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
-C.**, Stadler, J. & **Hanke, M**. `A studyforrest extension, retinotopic
+C.**, Stadler, J. & **Hanke, M**. (2016). `A studyforrest extension, retinotopic
 mapping and localization of higher visual areas
-<http://biorxiv.org/content/early/2016/03/31/046573>`_.  Scientific Data.
-Accepted for publication.
+<http://www.nature.com/articles/sdata201693>`_. *Scientific Data*,
+3:160093.
 
 Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Duff, E. P.,
 Flandin, G., Ghosh, S. S., Halchenko, Y. O., Handwerker, D. A., **Hanke, M.**,
@@ -68,8 +67,7 @@ Keator, D., Li, X., Maumet, M., Michael, Z., Nichols, N. N., Nichols, T. E.,
 Poline, J. B., Rokem, A., Schaefer, G., Sochat, V., Turner, J. A., Varoquaux,
 G. & Poldrack, R. A. (2016). `The Brain Imaging Data Structure: a protocol for
 standardizing and describing outputs of neuroimaging experiments
-<http://dx.doi.org/10.1101/034561>`_. *Scientific Data*. Accepted for
-publication.
+<http://dx.doi.org/10.1101/034561>`_. *Scientific Data*, 3:160044.
 
 Guntupalli, J. S., **Hanke, M.**, Halchenko, Y. O., Connolly, A. C.,
 Ramadge, P. J. & Haxby, J. V. (2016). `A Model of Representational Spaces
@@ -99,7 +97,7 @@ binding <http://www.sciencedirect.com/science/article/pii/S105381191400593X>`_.
 **Hanke, M.**, Baumgartner, F. J., **Ibe, P., Kaule, F. R.**, Pollmann, S., Speck,
 O., Zinke, W. & Stadler, J. (2014). `A high-resolution 7-Tesla fMRI dataset
 from complex natural stimulation with an audio movie
-<http://www.nature.com/articles/sdata20143>`_. *Scientific Data*, 1.
+<http://www.nature.com/articles/sdata20143>`_. *Scientific Data*, 1:140003.
 
 Kohler, P. J., Fogelson, S. V., Reavis, E. A., Meng, M., Guntupalli, J. S.,
 **Hanke, M.**, Halchenko, Y. O., Connolly, A. C., Haxby, J. V. & Tse, P. U.
