@@ -51,9 +51,9 @@ prolonged natural stimulation <http://www.nature.com/articles/sdata201692>`_.
 locations, and temporal progression in the motion picture "Forrest Gump"
 <http://f1000research.com/articles/5-2273>`_. *F1000Research*, 5:2273.
 
-Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J.
-`Brains on Beats <http://arxiv.org/abs/1606.02627>`_. NIPS. Accepted for
-publication.
+Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J. (2016).
+`Brains on Beats <http://arxiv.org/abs/1606.02627>`_. In *Advances in Neural
+Information Processing Systems (NIPS)*.
 
 **Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
 C.**, Stadler, J. & **Hanke, M**. (2016). `A studyforrest extension, retinotopic
