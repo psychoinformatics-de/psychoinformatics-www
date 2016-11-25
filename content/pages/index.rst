@@ -24,8 +24,17 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
       <div class='cbbs'><a href="http://www.cbbs.eu/en/" target="_blank"><img src="/img/logo/cbbs.png" alt="CBBS Logo" /></a></div>
     </div>
 
-In The Press
+In The Media
 ============
+
+The 2016 extension of our `studyforrest <http://studyforrest.org>`_ dataset has
+received wide-spread media attention: `"Hirndatenbank lockt internationale
+Forscher" (Volksstimme 21.11.2016) </img/volkstimme_20161121.jpg>`_,
+`psychologie-aktuell.com <http://www.psychologie-aktuell.com/news/aktuelle-news-psychologie/news-lesen/article/1479377498-hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-sci.html>`_,
+`radiologenverband.de <http://radiologenverband.de/inhalte/2016-11-17/1/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-science>`_,
+`gesundheit-sachsen-anhalt.de <http://www.gesundheit-sachsen-anhalt.de/de/gesundheitsneuigkeiten-sachsen-anhalt/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-20043330.html>`_,
+`medizin-aspekte.de <http://medizin-aspekte.de/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-science>`_,
+`neurologen-und-psychiater-im-netz.org <http://www.neurologen-und-psychiater-im-netz.org/neurologie/news-archiv/meldung/article/open-science-hirnforscher-setzen-sich-fuer-offeneren-umgang-mit-grundlagenforschung-zum-gehirn-ein/>`_.
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing
 (COBIDAS) <http://www.humanbrainmapping.org/cobidas>`_ that produced a
