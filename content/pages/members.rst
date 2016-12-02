@@ -69,6 +69,7 @@ Lab Members
           interested in multisensory interactions and attention. Favorite song:
           True Colors.</p>
         <ul class='social-links'>
+          <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=9985"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:porcu.emanuele@gmail.com"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/eporcu"></a></li>
         </ul>
