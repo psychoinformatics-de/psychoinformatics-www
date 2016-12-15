@@ -10,9 +10,13 @@ Publications
 Submitted
 ~~~~~~~~~
 
+Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
+Distractor-resistant short-term memory is supported by transient changes in
+neural stimulus representations.
+
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
-E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015). Standards
+E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. Standards
 for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
 *Commentary submitted to Nature Neuroscience*.
 
@@ -30,12 +34,12 @@ neuroscience <http://biorxiv.org/content/early/2016/03/24/045104>`_.
 representation of features and feature dimensions in the target
 template. Under revision.
 
-**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
-`The effect of acquisition resolution on orientation decoding from V1 BOLD
-fMRI at 7 Tesla <http://dx.doi.org/10.1101/081604>`_. Revision submitted.
-
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
+`The effect of acquisition resolution on orientation decoding from V1 BOLD
+fMRI at 7 Tesla <http://dx.doi.org/10.1101/081604>`_. Accepted at *NeuroImage*.
 
 **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
 of semantic conflict in the movie "Forrest Gump"
