@@ -10,14 +10,14 @@ to pursue projects independently. Following the principles of Open Science,
 students are encouraged to perform their course work with the goal to share it
 with the larger scientific community, to expose it to public scrutiny via
 independent peer-review, and by those means obtain a first hand experience of
-the scientific process. Two successful examples of student-authored
+the scientific process. Successful examples of student-authored
 publications resulting from such work can be found in:
 
 * **Häusler, C. O.** & Hanke, M. (2016). `An annotation of cuts, depicted
   locations, and temporal progression in the motion picture "Forrest Gump".
   <http://f1000research.com/articles/5-2273>`_, *F1000Research*, 5:2273.
 
-* **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an
+* Hanke, M. & **Ibe, P.** (2016) `Lies, irony, and contradiction — an
   annotation of semantic conflict in the movie "Forrest Gump"
   <https://f1000research.com/articles/5-2375>`_. *F1000Research*, 5:2375.
 
