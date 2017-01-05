@@ -37,9 +37,11 @@ template. Under revision.
 Peer-reviewed
 ~~~~~~~~~~~~~
 
-**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
-`The effect of acquisition resolution on orientation decoding from V1 BOLD
-fMRI at 7 Tesla <http://dx.doi.org/10.1101/081604>`_. Accepted at *NeuroImage*.
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (in
+press) `The effect of acquisition resolution on orientation decoding from V1
+BOLD fMRI at 7 Tesla
+<http://authors.elsevier.com/sd/article/S1053811916307625>`_.  *NeuroImage*.
+[`BioRxiv <http://dx.doi.org/10.1101/081604>`_]
 
 **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
 of semantic conflict in the movie "Forrest Gump"
@@ -55,9 +57,10 @@ prolonged natural stimulation <http://www.nature.com/articles/sdata201692>`_.
 locations, and temporal progression in the motion picture "Forrest Gump"
 <http://f1000research.com/articles/5-2273>`_. *F1000Research*, 5:2273.
 
-Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J. (2016).
-`Brains on Beats <http://arxiv.org/abs/1606.02627>`_. In *Advances in Neural
-Information Processing Systems (NIPS)*.
+Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J. (2016).  `Brains on
+Beats <https://papers.nips.cc/paper/6222-brains-on-beats>`_. In *Advances in
+Neural Information Processing Systems (NIPS)*.
+[`ArXiv <http://arxiv.org/abs/1606.02627>`_].
 
 **Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
 C.**, Stadler, J. & **Hanke, M**. (2016). `A studyforrest extension, retinotopic
