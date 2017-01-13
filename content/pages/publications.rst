@@ -5,6 +5,7 @@ Publications
 
 .. raw:: html
 
+  <small>[Note: co-author names of lab member are bold-faced]</small>
   <div class="publications">
 
 Submitted
@@ -13,12 +14,6 @@ Submitted
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 Distractor-resistant short-term memory is supported by transient changes in
 neural stimulus representations.
-
-Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
-M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
-E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. Standards
-for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
-*Commentary submitted to Nature Neuroscience*.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
@@ -36,6 +31,12 @@ template. Under revision.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
+M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
+E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. (in press) Standards
+for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
+*Nature Neuroscience*.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (in
 press) `The effect of acquisition resolution on orientation decoding from V1
@@ -90,9 +91,9 @@ design" and not as an after-thought
 perception of musical genres – an extension to the studyforrest dataset
 <http://f1000research.com/articles/4-174>`_. *F1000Research*, 4:174.
 
-Labs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,
+**Labs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,
 Hartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K.,
-Rabe, L. N., von Sobbe, F.-R. & **Hanke, M.** (2015).
+Rabe, L. N., von Sobbe, F.-R. & Hanke, M.** (2015).
 `Portrayed emotions in the movie "Forrest Gump"
 <http://f1000research.com/articles/4-92>`_. *F1000Research*, 4:92.
 
