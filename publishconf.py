@@ -14,6 +14,5 @@ RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#GOOGLE_ANALYTICS = ""
+# In case we ever want to use GA
+#GOOGLE_ANALYTICS = "UA-79713963-1"
