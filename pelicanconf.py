@@ -47,5 +47,5 @@ MENUITEMS = (('home', 'index.html'),
 
 DEFAULT_PAGINATION = False
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# We prefer document-relative URLs
+RELATIVE_URLS = True
