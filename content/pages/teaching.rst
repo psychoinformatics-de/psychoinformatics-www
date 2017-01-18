@@ -64,8 +64,7 @@ evaluated. A `LaTeX thesis template
 the writing process can be obtained from `the lab's GitHub page
 <https://github.com/psychoinformatics-de>`_.
 
-We offer `guidelines (in German) </leitfaden.pdf>`_ on how theses, reports, and
-articles need to be compliant with formal requirements.
+We offer `guidelines (in German) </leitfaden.pdf>`_ on how to write theses, reports, and articles that are compliant with formal requirements.
 
 
 Ongoing Thesis Projects
