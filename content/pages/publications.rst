@@ -5,7 +5,7 @@ Publications
 
 .. raw:: html
 
-  <small>[Note: co-author names of lab member are bold-faced]</small>
+  <small>[Note: co-author names of lab members are bold-faced]</small>
   <div class="publications">
 
 Submitted
@@ -13,11 +13,12 @@ Submitted
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 Distractor-resistant short-term memory is supported by transient changes in
-neural stimulus representations.
+neural stimulus representations. *Journal of Cognitive Neuroscience*. Under
+revision.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
-visual cortex.
+visual cortex. *Data in Brief*.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,

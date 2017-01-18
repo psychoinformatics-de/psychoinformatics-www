@@ -45,8 +45,8 @@ is an example of an internship result:
   <http://f1000research.com/articles/4-174>`_. *F1000Research*, 4:174.
 
 
-Theses
-======
+Theses and written course work
+==============================
 
 Students are welcome to inquire about thesis topics at any point — and as early
 as possible. Potential thesis topics range from literature work to more
@@ -58,10 +58,13 @@ a strict requirement.
 
 Our `score sheet
 <http://www.ipsy.ovgu.de/ipsy_media/Psychoinformatik/begutachtung_abschlussarbeiten_pdf-download-1-p-2186.pdf>`_
-provides some information on how submitted theses are evaluated. A `LaTeX
-thesis template <https://github.com/psychoinformatics-de/thesis-template>`_
-that facilitates the writing process can be obtained from `the lab's GitHub
-page <https://github.com/psychoinformatics-de>`_.
+provides some information on how submitted theses and course work are
+evaluated. A `LaTeX thesis template
+<https://github.com/psychoinformatics-de/thesis-template>`_ that facilitates
+the writing process can be obtained from `the lab's GitHub page
+<https://github.com/psychoinformatics-de>`_.
+
+We offer `guidelines (in German) </leitfaden.pdf>`_ on how to write theses, reports, and articles that are compliant with formal requirements.
 
 
 Ongoing Thesis Projects
