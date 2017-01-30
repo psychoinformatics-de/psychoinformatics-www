@@ -11,6 +11,9 @@ Publications
 Submitted
 ~~~~~~~~~
 
+Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
+temporal Gestalt in the human brain.
+
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 Distractor-resistant short-term memory is supported by transient changes in
 neural stimulus representations. *Journal of Cognitive Neuroscience*. Under
