@@ -38,9 +38,9 @@ Peer-reviewed
 
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
-E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. (in press) Standards
-for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI.
-*Nature Neuroscience*.
+E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. (2017). `Standards
+for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI
+<http://rdcu.be/pxWt>`_.  *Nature Neuroscience*, 20, 299-303.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (in
 press) `The effect of acquisition resolution on orientation decoding from V1
