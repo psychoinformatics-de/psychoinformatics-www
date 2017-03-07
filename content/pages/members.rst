@@ -196,7 +196,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/pineapple.png);"></div>
       <div class="info">
         <h3>Richard&nbsp;Dinga</h3>
         <p class="blurb">Visiting researcher from University of Ljubljana.
@@ -220,7 +220,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
         <h3>Dr. Sven&nbsp;Buchholz</h3>
         <p class="blurb">Became a professor at TH Brandenburg</p>

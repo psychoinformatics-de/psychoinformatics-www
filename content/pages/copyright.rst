@@ -168,6 +168,17 @@ Source:
 ----
 
 Files:
+  img/mugshots/pineapple.png
+Copyright:
+  2016 June Jung
+License:
+  `Public Domain Dedication`_
+Source:
+  https://pixabay.com/en/tropical-fruits-pineapple-fruit-1922459/
+
+----
+
+Files:
   img/mugshots/woody.png
 Copyright:
   2010 by Unknown
