@@ -14,7 +14,6 @@ Lab Members
         <p class="blurb">Full-time informagician, real-life psychologist, Debian
           developer, Pythonero, open science and free software proponent.</p>
         <ul class='social-links'>
-          <li><a class='icon-home' aria-label='Website' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=5540"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-gpg' aria-label='GPG Key' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
