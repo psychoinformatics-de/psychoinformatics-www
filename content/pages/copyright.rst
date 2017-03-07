@@ -12,9 +12,9 @@ Files:
 Copyright:
   2014–2016, Michael Hanke and Alex Waite
 License:
-  `Attribution-ShareAlike 4.0 International`_
+  `Attribution-ShareAlike 4.0 International (CC-BY-SA)`_
 
-.. _Attribution-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+.. _Attribution-ShareAlike 4.0 International (CC-BY-SA): https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ----
 
@@ -84,7 +84,7 @@ Files:
 Copyright:
   2016 Alex Waite, Laura Waite, and Michael Hanke
 License:
-  `Attribution-ShareAlike 4.0 International`_
+  `Attribution-ShareAlike 4.0 International (CC-BY-SA)`_
 
 ----
 
@@ -104,11 +104,11 @@ Files:
 Copyright:
   2010 Creative Tools AB
 License:
-  `Attribution 2.0 Generic`_
+  `Attribution 2.0 Generic (CC-BY)`_
 Source:
   https://commons.wikimedia.org/wiki/File:CreativeTools\.se_-_PackshotCreator_-_Brush_tips.jpg
 
-.. _Attribution 2.0 Generic: https://creativecommons.org/licenses/by/2.0/deed.en
+.. _Attribution 2.0 Generic (CC-BY): https://creativecommons.org/licenses/by/2.0/deed.en
 
 ----
 
@@ -148,11 +148,11 @@ Files:
 Copyright:
   2016 skeeze
 License:
-  `Public Domain Dedication`_
+  `Public Domain Dedication (CC0)`_
 Source:
   https://pixabay.com/en/meerkat-portrait-facing-wildlife-1591315/
 
-.. _Public Domain Dedication: https://creativecommons.org/share-your-work/public-domain/zero/1.0/legalcode
+.. _Public Domain Dedication (CC0): https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 ----
 
@@ -161,7 +161,7 @@ Files:
 Copyright:
   2012 Joel Santana
 License:
-  `Public Domain Dedication`_
+  `Public Domain Dedication (CC0)`_
 Source:
   https://pixabay.com/en/arara-on-white-background-bird-1200084/
 
@@ -172,7 +172,7 @@ Files:
 Copyright:
   2016 June Jung
 License:
-  `Public Domain Dedication`_
+  `Public Domain Dedication (CC0)`_
 Source:
   https://pixabay.com/en/tropical-fruits-pineapple-fruit-1922459/
 
@@ -183,7 +183,7 @@ Files:
 Copyright:
   2010 by Unknown
 License:
-  `Public Domain Dedication`_
+  `Public Domain Dedication (CC0)`_
 Source:
   https://pixabay.com/en/body-boy-doll-figure-figurine-guy-15982/
 
