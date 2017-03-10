@@ -63,7 +63,7 @@ many collaborators, please see the project homepage.
   <ul class='social-links'>
     <li><a class='icon-home' aria-label='Website' href="http://studyforrest.org"></a></li>
     <li><a class='icon-twitter' aria-label='Twitter' href="https://twitter.com/studyforrest"></a></li>
-    <li><a class='icon-github' aria-label='GitHub' href="https://github.com/psychoinformatics-de?query=studyforrest"></a></li>
+    <li><a class='icon-github' aria-label='GitHub' href="https://github.com/psychoinformatics-de?q=studyforrest"></a></li>
   </ul>
   </section>
 
