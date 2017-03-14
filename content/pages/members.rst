@@ -212,6 +212,7 @@ Lab Members
         <h3>Daniel&nbsp;Kottke</h3>
         <p class="blurb">Joined the Active Learning Lab at Kassel University</p>
         <ul class='social-links'>
+          <li><a class='icon-home' aria-label='Website' href="http://daniel.kottke.eu"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/dakot"></a></li>
         </ul>
