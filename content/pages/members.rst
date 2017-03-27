@@ -14,7 +14,6 @@ Lab Members
         <p class="blurb">Full-time informagician, real-life psychologist, Debian
           developer, Pythonero, open science and free software proponent.</p>
         <ul class='social-links'>
-          <li><a class='icon-home' aria-label='Website' href="http://mih.voxindeserto.de"></a></li>
           <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=5540"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-gpg' aria-label='GPG Key' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
@@ -196,7 +195,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/pineapple.png);"></div>
       <div class="info">
         <h3>Richard&nbsp;Dinga</h3>
         <p class="blurb">Visiting researcher from University of Ljubljana.
@@ -213,6 +212,7 @@ Lab Members
         <h3>Daniel&nbsp;Kottke</h3>
         <p class="blurb">Joined the Active Learning Lab at Kassel University</p>
         <ul class='social-links'>
+          <li><a class='icon-home' aria-label='Website' href="http://daniel.kottke.eu"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:daniel.kottke@iti.cs.uni-magdeburg.de"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/dakot"></a></li>
         </ul>
@@ -220,7 +220,7 @@ Lab Members
     </div>
 
     <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/woody.png);"></div>
       <div class="info">
         <h3>Dr. Sven&nbsp;Buchholz</h3>
         <p class="blurb">Became a professor at TH Brandenburg</p>

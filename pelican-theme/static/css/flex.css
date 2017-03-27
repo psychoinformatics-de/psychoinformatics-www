@@ -374,7 +374,7 @@ aside a.active {
 /* Members Page */
 .members {
   align-items: flex-end;
-  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 6em));
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 498px, #fff 500px, #fff calc(500px + 6em));
   border: 0 !important; /* null both border-tops and -bottoms */
   display: flex;
   flex-wrap: wrap;
@@ -385,7 +385,7 @@ aside a.active {
 }
 .members .mem {
   flex-basis: 100%;
-  height: calc(501px + 6em);
+  height: calc(500px + 6em);
   position: relative;
 }
 .members .mem:last-of-type {
@@ -423,7 +423,7 @@ aside a.active {
 }
 
 .members.alumni {
-  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 310px, #fff 311px, #fff calc(311px + 4em));
+  background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 308px, #fff 310px, #fff calc(310px + 4em));
 }
 .members.alumni .mem {
   height: calc(310px + 4em);
@@ -439,11 +439,11 @@ aside a.active {
 
 @media screen and (max-width: 767px) {
   .members.grills {
-    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 500px, #fff 502px, #fff calc(502px + 2em));
+    background: repeating-linear-gradient(180deg, #fff 0px, #f6f6f6 498px, #fff 500px, #fff calc(500px + 2em));
   }
   .members.grills .mem {
     border-bottom: 1px solid #d0d0d0; /* grills don't have social links to act as a border */
-    height: calc(501px + 2em);
+    height: calc(500px + 2em);
   }
   .members.grills .mem:last-of-type {
     border-bottom: 0;

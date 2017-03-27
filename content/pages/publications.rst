@@ -5,7 +5,7 @@ Publications
 
 .. raw:: html
 
-  <small>[Note: co-author names of lab members are bold-faced]</small>
+  <small>The names of lab members are in bold.</small>
   <div class="publications">
 
 Submitted
