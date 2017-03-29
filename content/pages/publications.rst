@@ -23,18 +23,19 @@ revision.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
 visual cortex. *Data in Brief*.
 
-Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
-Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
-Willshaw, D. J., Pouzat, C. & Poline, J. B.
-`Towards standard practices for sharing computer code and programs in
-neuroscience <http://biorxiv.org/content/early/2016/03/24/045104>`_.
-
 **Reeder, R. R., Hanke, M.** & Pollmann, S. Task relevance modulates the
 representation of features and feature dimensions in the target
 template. Under revision.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
+Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
+Willshaw, D. J., Pouzat, C. & Poline, J. B. (accepted).
+Towards standard practices for sharing computer code and programs in
+neuroscience. *Nature Neuroscience*.
+[`BioRxiv <http://biorxiv.org/content/early/2016/03/24/045104>`__]
 
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
@@ -45,8 +46,9 @@ for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (in
 press) `The effect of acquisition resolution on orientation decoding from V1
 BOLD fMRI at 7 Tesla
-<http://authors.elsevier.com/sd/article/S1053811916307625>`_.  *NeuroImage*.
-[`BioRxiv <http://dx.doi.org/10.1101/081604>`_]
+<http://authors.elsevier.com/sd/article/S1053811916307625>`_.  *NeuroImage*,
+148, 64-76.
+[`BioRxiv <http://dx.doi.org/10.1101/081604>`__]
 
 **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
 of semantic conflict in the movie "Forrest Gump"
@@ -64,8 +66,8 @@ locations, and temporal progression in the motion picture "Forrest Gump"
 
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J. (2016).  `Brains on
 Beats <https://papers.nips.cc/paper/6222-brains-on-beats>`_. In *Advances in
-Neural Information Processing Systems (NIPS)*.
-[`ArXiv <http://arxiv.org/abs/1606.02627>`_].
+Neural Information Processing Systems (NIPS)*, 29, 2101-2109.
+[`ArXiv <http://arxiv.org/abs/1606.02627>`__].
 
 **Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
 C.**, Stadler, J. & **Hanke, M**. (2016). `A studyforrest extension, retinotopic
@@ -84,7 +86,7 @@ standardizing and describing outputs of neuroimaging experiments
 Guntupalli, J. S., **Hanke, M.**, Halchenko, Y. O., Connolly, A. C.,
 Ramadge, P. J. & Haxby, J. V. (2016). `A Model of Representational Spaces
 in Human Cortex <http://dx.doi.org/10.1093/cercor/bhw068>`_.
-*Cerebral Cortex*.
+*Cerebral Cortex*, 26, 2919-2934.
 
 Halchenko, Y. O. & **Hanke, M.** (2015). `Four aspects to make science open "by
 design" and not as an after-thought
