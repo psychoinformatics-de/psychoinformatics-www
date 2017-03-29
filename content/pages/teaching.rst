@@ -70,16 +70,16 @@ We offer `guidelines (in German) </leitfaden.pdf>`_ on how to write theses, repo
 Ongoing Thesis Projects
 -----------------------
 
-**Pierre Ibe** (M.Sc. Psychology)
-  Effects of observing interpersonal touch in the human brain using natural
-  stimulation
-
 **Falko Kaule** (PhD)
   Untersuchung von Physiologie und Pathophysiologie des menschlichen visuellen
   Kortex mit funktioneller Magnetresonanztomographie
 
 Completed Theses
 ----------------
+
+**Pierre Ibe** (M.Sc. Psychology)
+  Effects of observing interpersonal touch in the human brain using natural
+  stimulation
 
 **Christian Häusler** (M.Sc. Psychology, 2016)
   Forrest Gump's world: Spatial perception and cognition during a Hollywood
@@ -93,7 +93,7 @@ Completed Theses
   Neuronale Verarbeitung von visuell präsentierten emotionalen Reizen und ihre
   Rolle im visuell-räumlichen Aufmerksamkeitsnetzwerk
 
-**Ricarda Lidner** (M.Sc. Computational Visualistics, 2015)
+**Ricarda Lindner** (M.Sc. Computational Visualistics, 2015)
   Browser-basiertes Tool zur semantischen Beschreibung von multiplen Reizen für
   Hirnaktivitäten
 
