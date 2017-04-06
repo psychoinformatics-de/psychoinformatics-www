@@ -124,21 +124,6 @@ Lab Members
         </ul>
       </div>
     </div>
-
-    <div class="mem">
-      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
-      <div class="info">
-        <h3>Pierre&nbsp;Ibe (B.Sc.)</h3>
-        <p class="title">Research Assistant</p>
-        <p class="blurb">Helps out with whatever needs doing and soaks up
-          knowledge like a sponge on his way to a masters degree.</p>
-        <ul class='social-links'>
-          <li><a class='icon-mail' aria-label='Email' href="mailto:Ibe.pierre@gmail.com"></a></li>
-          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/pierre-ibe"></a></li>
-          <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Pierre_Ibe"></a></li>
-        </ul>
-      </div>
-    </div>
   </section>
 
 .. raw:: html
@@ -146,6 +131,21 @@ Lab Members
   <h2>Alumni</h2>
 
   <section class="members alumni">
+    <div class="mem">
+      <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
+      <div class="info">
+        <h3>Pierre&nbsp;Ibe</h3>
+        <p class="title">Research Assistant</p>
+        <p class="blurb">Graduated with his M.Sc in Psychology and now works at
+          Justus Liebig University Giessen.</p>
+        <ul class='social-links'>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:Ibe.pierre@gmail.com"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/pierre-ibe"></a></li>
+          <li><a class='icon-research-gate' aria-label='ResearchGate' href="https://www.researchgate.net/profile/Pierre_Ibe"></a></li>
+        </ul>
+      </div>
+    </div>
+
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/sengupta.png);"></div>
       <div class="info">
