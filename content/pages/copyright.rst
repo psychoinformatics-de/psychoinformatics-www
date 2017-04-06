@@ -48,7 +48,7 @@ Files:
 Copyright:
   2016, Alex Waite and Yaroslav Halchenko
 License:
-  `MIT`_
+  `Attribution-ShareAlike 4.0 International (CC-BY-SA)`_
 
 ----
 
@@ -57,7 +57,7 @@ Files:
 Copyright:
   Michael Hanke
 License:
-  `MIT`_
+  `Attribution-ShareAlike 4.0 International (CC-BY-SA)`_
 
 ----
 
@@ -73,7 +73,7 @@ License:
 Files:
   img/logo/pymvpa.png
 Copyright:
-  2010, Michael Hanke
+  2010
 License:
   `MIT`_
 
