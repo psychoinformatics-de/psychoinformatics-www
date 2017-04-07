@@ -135,7 +135,6 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/placeholders/meerkat.png);"></div>
       <div class="info">
         <h3>Pierre&nbsp;Ibe</h3>
-        <p class="title">Research Assistant</p>
         <p class="blurb">Graduated with his M.Sc in Psychology and now works at
           Justus Liebig University Giessen.</p>
         <ul class='social-links'>
