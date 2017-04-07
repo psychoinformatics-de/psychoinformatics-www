@@ -12,16 +12,11 @@ Submitted
 ~~~~~~~~~
 
 Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
-temporal Gestalt in the human brain.
-
-Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
-Distractor-resistant short-term memory is supported by transient changes in
-neural stimulus representations. *Journal of Cognitive Neuroscience*. Under
-revision.
+temporal Gestalt in the human brain. Revision submitted.
 
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
 Ultra high-field multi-resolution fMRI data for orientation decoding in
-visual cortex. *Data in Brief*.
+visual cortex. Submitted.
 
 **Reeder, R. R., Hanke, M.** & Pollmann, S. Task relevance modulates the
 representation of features and feature dimensions in the target
@@ -29,6 +24,11 @@ template. Under revision.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
+(accepted) Distractor-resistant short-term memory is supported by transient
+changes in neural stimulus representations. *Journal of Cognitive
+Neuroscience*.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
@@ -43,8 +43,8 @@ E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. (2017). `Standards
 for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI
 <http://rdcu.be/pxWt>`_.  *Nature Neuroscience*, 20, 299-303.
 
-**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (in
-press) `The effect of acquisition resolution on orientation decoding from V1
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (2017)
+`The effect of acquisition resolution on orientation decoding from V1
 BOLD fMRI at 7 Tesla
 <http://authors.elsevier.com/sd/article/S1053811916307625>`_.  *NeuroImage*,
 148, 64-76.
