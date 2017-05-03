@@ -71,14 +71,25 @@ reports, and articles that are compliant with formal requirements.
 Ongoing Thesis Projects
 -----------------------
 
-**Falko Kaule** (PhD)
-  Untersuchung von Physiologie und Pathophysiologie des menschlichen visuellen
-  Kortex mit funktioneller Magnetresonanztomographie
+**Markus Schleicher** (M.Sc, Psychology)
+  Detection of emotions from motion capture of facial features
+
+**Konstanze Braun** (M.Sc, Psychology)
+  Brain activity patterns of pity and compassion
+
 
 Completed Theses
 ----------------
 
-**Pierre Ibe** (M.Sc. Psychology)
+**Ulrike Schnaithmann** (B.Sc., Psychology, 2017)
+  Combining and testing filter and detection algorithms for post-experimental
+  analysis of eye tracking data on dynamic stimuli
+
+**Falko Kaule** (PhD, 2017)
+  Untersuchung von Physiologie und Pathophysiologie des menschlichen visuellen
+  Kortex mit funktioneller Magnetresonanztomographie
+
+**Pierre Ibe** (M.Sc. Psychology, 2017)
   Effects of observing interpersonal touch in the human brain using natural
   stimulation
 
