@@ -14,16 +14,17 @@ Submitted
 Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
 temporal Gestalt in the human brain. Revision submitted.
 
-**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**.
-Ultra high-field multi-resolution fMRI data for orientation decoding in
-visual cortex. Submitted.
-
-**Reeder, R. R., Hanke, M.** & Pollmann, S. Task relevance modulates the
-representation of features and feature dimensions in the target
-template. Under revision.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**
+(accepted) Ultra high-field multi-resolution fMRI data for orientation decoding
+in visual cortex. *Data in Brief*.
+
+**Reeder, R. R., Hanke, M.** & Pollmann, S. (accepted) Task relevance modulates
+the representation of features and feature dimensions in the target template.
+*Scientific Reports*.
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 (accepted) Distractor-resistant short-term memory is supported by transient
