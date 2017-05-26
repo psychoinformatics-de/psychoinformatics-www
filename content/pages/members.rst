@@ -225,7 +225,7 @@ Lab Members
         <h3>Dr. Sven&nbsp;Buchholz</h3>
         <p class="blurb">Became a professor at TH Brandenburg</p>
         <ul class='social-links'>
-          <li><a class='icon-home' aria-label='Website' href="https://www.th-brandenburg.de/mitarbeiterseiten/fbi/professoren/sven-buchholz"></a></li>
+          <li><a class='icon-home' aria-label='Website' href="https://www.th-brandenburg.de/mitarbeiterseiten/fbi/professoren/sven-buchholz/"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:sven.buchholz@th-brandenburg.de"></a></li>
         </ul>
       </div>
