@@ -154,7 +154,7 @@ Lab Members
           the University of Nottingham.</p>
         <ul class='social-links'>
           <li><a class='icon-mail' aria-label='Email' href="mailto:uam111@gmail.com"></a></li>
-          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/uam111"></a></li>
+          <li><a class='icon-github' aria-label='GitHub' href="https://github.com/ayansengupta"></a></li>
         </ul>
       </div>
     </div>
