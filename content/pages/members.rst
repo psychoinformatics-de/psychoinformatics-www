@@ -17,6 +17,7 @@ Lab Members
           <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=5540"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:michael.hanke@gmail.com"></a></li>
           <li><a class='icon-gpg' aria-label='GPG Key' href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC073D2287FFB9E9B"></a></li>
+          <li><a class='icon-twitter' aria-label='Twitter' href="https://twitter.com/eknahm"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/mih"></a></li>
           <li><a class='icon-orcid' aria-label='ORCID' href="http://orcid.org/0000-0001-6398-6370"></a></li>
           <li><a class='icon-linkedin' aria-label='LinkedIn' href="https://www.linkedin.com/profile/view?id=AAkAAAMpYkYBpUFaL_u9gRCZMYQ3_1jreo2DMGc"></a></li>
