@@ -96,7 +96,7 @@ the domain and we welcome a wide range of contributions.
 
 .. image:: {filename}/img/logo/nibabel.png
    :alt: NiBabel Logo
-   :target: http://nipy.org/nibabel
+   :target: http://nipy.org/nibabel/
 
 PyNIfTI was one of the first packages to access data in the NIfTI format with
 the Python programming language. In the meantime, NiBabel has superseded

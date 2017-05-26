@@ -28,9 +28,9 @@ Notes:
   The theme is derived from Alexandre Vicenzi's `Flex`_ theme for
   `Pelican`_. It was significantly modified by Alex Waite.
 
-.. _MIT: http://opensource.org/licenses/MIT
+.. _MIT: https://opensource.org/licenses/MIT
 .. _Flex: https://github.com/alexandrevicenzi/Flex/
-.. _Pelican: http://blog.getpelican.com
+.. _Pelican: https://blog.getpelican.com
 
 ----
 

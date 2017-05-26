@@ -190,7 +190,7 @@ Additional publications
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hanke, M.** (2017). `Studyforrest, study!
-<https://blog.f1000.com/2017/03/15/studyforrest-study>`_
+<https://blog.f1000.com/2017/03/15/studyforrest-study/>`_
 F1000Research Blog.
 
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
