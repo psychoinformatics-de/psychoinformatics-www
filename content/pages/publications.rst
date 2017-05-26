@@ -33,10 +33,10 @@ Neuroscience*.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
-Willshaw, D. J., Pouzat, C. & Poline, J. B. (accepted).
-Towards standard practices for sharing computer code and programs in
-neuroscience. *Nature Neuroscience*.
-[`BioRxiv <http://biorxiv.org/content/early/2016/03/24/045104>`__]
+Willshaw, D. J., Pouzat, C. & Poline, J. B. (2017).
+`Towards standard practices for sharing computer code and programs in
+neuroscience <http://dx.doi.org/10.1038/nn.4550>`_. *Nature Neuroscience*,
+20, 770-773.
 
 Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
