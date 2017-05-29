@@ -92,7 +92,7 @@ in Human Cortex <http://dx.doi.org/10.1093/cercor/bhw068>`_.
 
 Halchenko, Y. O. & **Hanke, M.** (2015). `Four aspects to make science open "by
 design" and not as an after-thought
-<http://www.gigasciencejournal.com/content/4/1/31>`_. *GigaScience*, 4:31.
+<http://haxbylab.dartmouth.edu/publications/HH15.pdf>`_. *GigaScience*, 4:31.
 
 **Hanke, M.**, **Dinga, R., Häusler, C.**, Guntupalli, J. S., Casey, M.,
 **Kaule, F. R.** & Stadler, S. (2015). `High-resolution 7-Tesla fMRI data on the
@@ -118,7 +118,7 @@ from complex natural stimulation with an audio movie
 Kohler, P. J., Fogelson, S. V., Reavis, E. A., Meng, M., Guntupalli, J. S.,
 **Hanke, M.**, Halchenko, Y. O., Connolly, A. C., Haxby, J. V. & Tse, P. U.
 (2013). `Pattern classification precedes region-average hemodynamic response in
-early visual cortex <http://www.dartmouth.edu/~kohler/kohler_et_al_2013.pdf>`_.
+early visual cortex <http://haxbylab.dartmouth.edu/publications/KFR+13.pdf>`_.
 *NeuroImage*, 78, 249-260.
 
 Baumgartner, F., **Hanke, M.**, Geringswald, F., Zinke, W., Speck, O. &
@@ -178,7 +178,7 @@ Rieger, J. W., Herrmann, C. S., Haxby, J. V., Hanson, S. J. and Pollmann, S.
 & Pollmann, S. (2009). `PyMVPA: A Python toolbox for multivariate pattern
 analysis of fMRI data <http://dx.doi.org/10.1007/s12021-008-9041-y>`_.
 *Neuroinformatics, 7*, 37--53.
-`[view] <_static/Hanke_et_al_Neuroinformatics2009.pdf>`_
+`[view] <https://www.nitrc.org/docman/view.php/6/776/pymvpa.pdf>`_
 
 Maertens, M., Pollmann, S., **Hanke, M.**, Mildner, T. & Möller, H.E.  (2008).
 `Retinotopic activation in response to subjective contours in primary visual
