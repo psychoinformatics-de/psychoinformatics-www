@@ -113,8 +113,8 @@ Lab Members
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/haeusler.png);"></div>
       <div class="info">
-        <h3>Christian&nbsp;Häusler (B.Sc.)</h3>
-        <p class="title">Research Assistant</p>
+        <h3>Christian&nbsp;Häusler (M.Sc.&nbsp;Psychology)</h3>
+        <p class="title">PhD Student</p>
         <p class="blurb">If a topic intersects with neuroscience, experimental
           psychology, filmmaking, and number crunching with open-source
           software, you've just described his dream project. That and Neurofunk
