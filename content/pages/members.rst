@@ -37,7 +37,7 @@ Lab Members
           stereo system.</p>
         <ul class='social-links'>
           <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=6245"></a></li>
-          <li><a class='icon-mail' aria-label='Email' href="mailto:Alexqw85@gmail.com"></a></li>
+          <li><a class='icon-mail' aria-label='Email' href="mailto:alex@waite.eu"></a></li>
           <li><a class='icon-github' aria-label='GitHub' href="https://github.com/aqw"></a></li>
         </ul>
       </div>
