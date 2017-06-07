@@ -71,6 +71,10 @@ reports, and articles that are compliant with formal requirements.
 Ongoing Thesis Projects
 -----------------------
 
+**Christian Häusler** (Phd)
+ Evaluating common high-dimensional models of cortical representational spaces
+ for improving the power of neuroimaging-based clinical diagnostics
+
 **Markus Schleicher** (M.Sc, Psychology)
   Detection of emotions from motion capture of facial features
 
