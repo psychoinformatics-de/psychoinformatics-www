@@ -71,7 +71,7 @@ reports, and articles that are compliant with formal requirements.
 Ongoing Thesis Projects
 -----------------------
 
-**Christian Häusler** (Phd)
+**Christian Olaf Häusler** (PhD)
  Evaluating common high-dimensional models of cortical representational spaces
  for improving the power of neuroimaging-based clinical diagnostics
 
@@ -97,7 +97,7 @@ Completed Theses
   Effects of observing interpersonal touch in the human brain using natural
   stimulation
 
-**Christian Häusler** (M.Sc. Psychology, 2016)
+**Christian Olaf Häusler** (M.Sc. Psychology, 2016)
   Forrest Gump's world: Spatial perception and cognition during a Hollywood
   movie
 
