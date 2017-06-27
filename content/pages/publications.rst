@@ -92,7 +92,7 @@ in Human Cortex <http://dx.doi.org/10.1093/cercor/bhw068>`_.
 
 Halchenko, Y. O. & **Hanke, M.** (2015). `Four aspects to make science open "by
 design" and not as an after-thought
-<http://haxbylab.dartmouth.edu/publications/HH15.pdf>`_. *GigaScience*, 4:31.
+<http://dx.doi.org/10.1186/s13742-015-0072-7>`_. *GigaScience*, 4:31.
 
 **Hanke, M.**, **Dinga, R., Häusler, C.**, Guntupalli, J. S., Casey, M.,
 **Kaule, F. R.** & Stadler, S. (2015). `High-resolution 7-Tesla fMRI data on the
