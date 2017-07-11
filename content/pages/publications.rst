@@ -18,19 +18,16 @@ temporal Gestalt in the human brain. Revision submitted.
 Peer-reviewed
 ~~~~~~~~~~~~~
 
-**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**
-(2017) `Ultra high-field multi-resolution fMRI data for orientation decoding
-in visual cortex <http://dx.doi.org/10.1016/j.dib.2017.05.014>`_. *Data in Brief*.
-
-**Reeder, R. R., Hanke, M.** & Pollmann, S. (accepted) Task relevance modulates
-the representation of features and feature dimensions in the target template.
-*Scientific Reports*.
-
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 (accepted) `Distractor-resistant short-term memory is supported by transient
 changes in neural stimulus representations
 <http://dx.doi.org/10.1162/jocn_a_01141>`_. *Journal of Cognitive
 Neuroscience*.
+
+**Reeder, R. R., Hanke, M.** & Pollmann, S. (2017) `Task relevance modulates
+the representation of features and feature dimensions in the target template
+<http://dx.doi.org/10.1038/s41598-017-04123-8>`_. *Scientific Reports*,
+7, 4514.
 
 Eglen, S., Marwick, B., Halchenko, Y. O, **Hanke, M**, Sufi, S., Gleeson, P.,
 Silver. R. A., Davison, A., Lanyon, L., Abrams, M., Wachtler, T.,
@@ -50,7 +47,12 @@ for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI
 BOLD fMRI at 7 Tesla
 <http://authors.elsevier.com/sd/article/S1053811916307625>`_.  *NeuroImage*,
 148, 64-76.
-[`BioRxiv <http://dx.doi.org/10.1101/081604>`__]
+[Description of associated dataset available in:
+**Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.**
+(2017) `Ultra high-field multi-resolution fMRI data for orientation decoding
+in visual cortex <http://dx.doi.org/10.1016/j.dib.2017.05.014>`_. *Data in Brief*,
+13, 219-222.]
+
 
 **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
 of semantic conflict in the movie "Forrest Gump"
