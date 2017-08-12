@@ -4,9 +4,9 @@ Software
 :url: software.html
 
 
-Repeatedly, we find ourselves in need of software tools to implements ideas and
+Repeatedly, we find ourselves in need of software tools to implement ideas and
 research projects. This can be software to help deal with large amounts of data
-or implementations of specific algorithms. Typically, such software tools are
+or the implementation of specific algorithms. Typically, such software tools are
 tailored to an individual project and are, consequently, not very interesting
 for other groups. However, over the years, we have created a number of software
 projects that specifically target a broader audience and have reached
@@ -52,15 +52,15 @@ information on NeuroDebian is available at http://neuro.debian.net.
 PyMVPA is a toolbox for multivariate pattern analysis of neuroscientific data.
 It is a Python-based, platform-independent, and open-source solution that aids
 the application of algorithms from machine learning research to data from
-various modalities. Since it first publication in 2009, PyMVPA has been employed
-in studies performed by `numerous research groups
+various modalities. Since its first publication in 2009, PyMVPA has been
+employed in studies performed by `numerous research groups
 <http://pymvpa.org/whoisusingit.html>`_.
 
 An `overview article
 <http://www.frontiersin.org/Neuroinformatics/10.3389/neuro.11.003.2009/abstract>`_
 on PyMVPA has been published in the journal `Frontiers in Neuroinformatics
 <http://www.frontiersin.org/Neuroinformatics>`_. More information on PyMVPA,
-including a detailed tutorial are available at http://pymvpa.org.
+including a detailed tutorial, are available at http://pymvpa.org.
 
 .. raw:: html
 
@@ -77,11 +77,11 @@ including a detailed tutorial are available at http://pymvpa.org.
    :target: http://datalad.org
 
 DataLad aims to provide access to scientific data available from various sources
-(e.g. lab or consortium web-sites such as Human connectome; data sharing portals
-such as OpenFMRI and CRCNS) through a single convenient interface and integrated
+(e.g. lab or consortium websites such as Human Connectome; data sharing portals
+such as OpenfMRI and CRCNS) through a single convenient interface and integrated
 with your software package managers (such as APT in Debian). Although initially
-targeting neuroimaging and neuroscience data in general, it is not limited by
-the domain and we welcome a wide range of contributions.
+targeting neuroimaging and neuroscience data in general, it is designed for
+broader use and we welcome a wide range of contributions from other domains.
 
 .. raw:: html
 
@@ -99,9 +99,9 @@ the domain and we welcome a wide range of contributions.
    :target: http://nipy.org/nibabel/
 
 PyNIfTI was one of the first packages to access data in the NIfTI format with
-the Python programming language. In the meantime, NiBabel has superseded
-PyNIfTI, offering support for many more file formats. More information on
-NiBabel is available at http://nipy.org/nibabel/
+the Python programming language. In the meantime, NiBabel has absorbed and
+superseded PyNIfTI, offering support for many more file formats. More
+information on NiBabel is available at http://nipy.org/nibabel/.
 
 .. raw:: html
 
