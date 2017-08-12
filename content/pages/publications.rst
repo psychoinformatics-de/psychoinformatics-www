@@ -12,7 +12,7 @@ Submitted
 ~~~~~~~~~
 
 Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
-temporal Gestalt in the human brain. Revision submitted.
+temporal Gestalt in the human brain. Cerebral Cortex. Revision submitted.
 
 
 Peer-reviewed
