@@ -19,10 +19,10 @@ Peer-reviewed
 ~~~~~~~~~~~~~
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
-(accepted) `Distractor-resistant short-term memory is supported by transient
+(2017) `Distractor-resistant short-term memory is supported by transient
 changes in neural stimulus representations
 <http://dx.doi.org/10.1162/jocn_a_01141>`_. *Journal of Cognitive
-Neuroscience*.
+Neuroscience*, 29, 1547-1565.
 
 **Reeder, R. R., Hanke, M.** & Pollmann, S. (2017) `Task relevance modulates
 the representation of features and feature dimensions in the target template
