@@ -89,7 +89,6 @@ broader use and we welcome a wide range of contributions from other domains.
     <li><a class='icon-home' aria-label='Website' href="http://datalad.org"></a></li>
     <li><a class='icon-twitter' aria-label='Twitter' href="https://twitter.com/datalad"></a></li>
     <li><a class='icon-github' aria-label='GitHub' href="https://github.com/datalad"></a></li>
-    <li><a class='icon-google' aria-label='Google+' href="https://plus.google.com/102227583349569690568"></a></li>
   </ul>
   </section>
   <section id="nibabel" class="alternate">
