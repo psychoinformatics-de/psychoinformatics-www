@@ -80,10 +80,10 @@ across many different locations, with heterogenous access methods, and are
 packaged in a multitude of structures and formats. This makes it hard to
 discover, obtain, and re-use existing data.
 
-Datalad is a software engineering project that aims to deliver a data
+DataLad is a software engineering project that aims to deliver a data
 management tool that aids data discovery, to simplify and homogenize access to
 data across many providers, and to re-share data with a community. One could
-think of Datalad as "Git for collections of datasets".
+think of DataLad as "Git for collections of datasets".
 
 As such, this software is ideally suited for projects like our *studyforrest*
 effort. It applies the successful model of collaborative, decentralized open
@@ -91,12 +91,12 @@ source software development to the domain of managing and sharing (scientific)
 data.
 
 .. figure:: {filename}/img/datalad_figure.png
-   :alt: Datalad data flow overview
+   :alt: DataLad data flow overview
    :width: 100%
    :figwidth: 100%
    :align: center
 
-   Datalad facilitates and homogenizes data exchange between peers, and
+   DataLad facilitates and homogenizes data exchange between peers, and
    tracking of resources from data portals. It is data format agnostic and
    exposes meta data to ease data discovery. Access to sensitive data is
    supported via configurable authentication schemes.

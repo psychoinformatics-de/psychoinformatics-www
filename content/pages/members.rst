@@ -80,7 +80,7 @@ Lab Members
       <div class="mugshot" style="background-image: url(/img/mugshots/poldrack.png);"></div>
       <div class="info">
         <h3>Dipl.-Inf. Benjamin&nbsp;Poldrack</h3>
-        <p class="title">Datalad Developer</p>
+        <p class="title">DataLad Developer</p>
         <p class="blurb">Sneaky like shadow, he's there one moment and gone with
           the next. One wonders what he actually does all day, until you see his
           impressive git commit log.</p>
