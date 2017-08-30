@@ -1,15 +1,15 @@
-      humans.txt haiku
-      ----------------
+       humans.txt haiku
+       ----------------
 
-      Alex and Michael,
-did this website jointly craft
-    —a smooth pixel touch.
+       Alex and Michael,
+ did this website jointly craft
+     — a smooth pixel touch.
 
 
-------------------------------
+--------------------------------
 
-Thanks for taking the time to
-check out who we are. It's
-nice to be humanized.
+ Thanks for taking the time to
+     check out who we are.
+   It's nice to be humanized.
 
-You stay classy.
+       You stay classy.
