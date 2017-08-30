@@ -43,7 +43,7 @@ help:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extra; then rsync -r $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/static; then rsync -r $(BASEDIR)/static/ $(OUTPUTDIR)/; fi
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -69,7 +69,7 @@ stopserver:
 
 publish: prep
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extra; then rsync -rv $(BASEDIR)/extra/ $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/static; then rsync -rv $(BASEDIR)/static/ $(OUTPUTDIR)/; fi
 
 ssh_upload: publish
 ifdef SSH_USER
