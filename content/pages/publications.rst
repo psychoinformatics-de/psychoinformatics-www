@@ -74,7 +74,7 @@ locations, and temporal progression in the motion picture "Forrest Gump"
 Güçlü, U., Thielen, J., **Hanke, M.**, van Gerven, M. A. J. (2016).  `Brains on
 Beats <https://papers.nips.cc/paper/6222-brains-on-beats>`_. In *Advances in
 Neural Information Processing Systems (NIPS)*, 29, 2101-2109.
-[`ArXiv <http://arxiv.org/abs/1606.02627>`__].
+[`ArXiv <https://arxiv.org/abs/1606.02627>`__].
 
 **Sengupta, A., Kaule, F. R.**, Guntupalli, J. S., Hoffmann, M. B., **Häusler,
 C.**, Stadler, J. & **Hanke, M**. (2016). `A studyforrest extension, retinotopic
@@ -202,7 +202,7 @@ Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
 M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
 E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015).  `Best
 Practices in Data Analysis and Sharing in Neuroimaging using MRI
-<http://biorxiv.org/content/early/2016/05/20/054262>`_.  *Report of the OHBM
+<http://www.biorxiv.org/content/early/2016/05/20/054262>`_.  *Report of the OHBM
 Committee on Best Practices in Data Analysis and Sharing (COBIDAS)*. [bioRxiv
 doi:10.1101/054262]
 
@@ -212,7 +212,7 @@ decentralized collaboration on studying real-life cognition
 
 Halchenko, Y.O., **Hanke, M.**, Haxby, J.V., Hanson, S.J. & Herrmann, C.S.
 (2013). `Transmodal Analysis of Neural Signals
-<http://arxiv.org/abs/1307.2150>`_. *arXiv:1307.215*.
+<https://arxiv.org/abs/1307.2150>`_. *arXiv:1307.215*.
 
 Tille, A., Möller, S., **Hanke, M** & Halchenko, Y. O. (2011). Debian Med:
 Integrated software environment for all medical purposes based on Debian

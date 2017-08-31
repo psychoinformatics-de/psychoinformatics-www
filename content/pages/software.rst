@@ -54,13 +54,13 @@ It is a Python-based, platform-independent, and open-source solution that aids
 the application of algorithms from machine learning research to data from
 various modalities. Since its first publication in 2009, PyMVPA has been
 employed in studies performed by `numerous research groups
-<http://pymvpa.org/whoisusingit.html>`_.
+<http://www.pymvpa.org/whoisusingit.html>`_.
 
 An `overview article
 <http://www.frontiersin.org/Neuroinformatics/10.3389/neuro.11.003.2009/abstract>`_
 on PyMVPA has been published in the journal `Frontiers in Neuroinformatics
 <http://www.frontiersin.org/Neuroinformatics>`_. More information on PyMVPA,
-including a detailed tutorial, are available at http://pymvpa.org.
+including a detailed tutorial, are available at http://www.pymvpa.org.
 
 .. raw:: html
 

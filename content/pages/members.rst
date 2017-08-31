@@ -52,7 +52,7 @@ Lab Members
           researching nonretinal vision including imagery, visual working
           memory, and the target template.</p>
         <ul class='social-links'>
-          <li><a class='icon-home' aria-label='Website' href="http://reshannereeder.wix.com/home"></a></li>
+          <li><a class='icon-home' aria-label='Website' href="http://reshannereeder.wixsite.com/home"></a></li>
           <li><a class='icon-info' aria-label='Contact Info' href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=8605"></a></li>
           <li><a class='icon-mail' aria-label='Email' href="mailto:reshanne.reeder@gmail.com"></a></li>
           <li><a class='icon-google-scholar' aria-label='Google Scholar' href="https://scholar.google.com/citations?user=ivzRHPIAAAAJ"></a></li>

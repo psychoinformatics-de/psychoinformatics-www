@@ -33,7 +33,7 @@ Forscher" (Volksstimme 21.11.2016) </img/volkstimme_20161121.jpg>`_,
 `psychologie-aktuell.com <http://www.psychologie-aktuell.com/news/aktuelle-news-psychologie/news-lesen/article/1479377498-hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-sci.html>`_,
 `radiologenverband.de <http://radiologenverband.de/inhalte/2016-11-17/1/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-science>`_,
 `gesundheit-sachsen-anhalt.de <http://www.gesundheit-sachsen-anhalt.de/de/gesundheitsneuigkeiten-sachsen-anhalt/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-20043330.html>`_,
-`medizin-aspekte.de <http://medizin-aspekte.de/hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-science>`_,
+`medizin-aspekte.de <https://medizin-aspekte.de/68110-hirnforschung-mit-kino-was-macht-das-hirn-in-alltagssituationen-open-minds-mit-open-science/>`_,
 `neurologen-und-psychiater-im-netz.org <http://www.neurologen-und-psychiater-im-netz.org/neurologie/news-archiv/meldung/article/open-science-hirnforscher-setzen-sich-fuer-offeneren-umgang-mit-grundlagenforschung-zum-gehirn-ein/>`_.
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing
@@ -41,7 +41,7 @@ We participated in the `Committee on Best Practice in Data Analysis and Sharing
 comprehesive report on how to conduct and report neuroimaging studies to aid
 reproducibility in this area of research. This work has been featured in the
 *New York Times* article "`Do You Believe in God, or Is That a Software Glitch?
-<http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html>`_".
+<https://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html>`_".
 
 Our contributions to the Open Science movement have been highlighted in this
 *Süddeutsche Zeitung* article: `Freie Daten für freie Forscher
