@@ -10,6 +10,3 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 DELETE_OUTPUT_DIRECTORY = True
-
-# In case we ever want to use GA
-#GOOGLE_ANALYTICS = "UA-79713963-1"

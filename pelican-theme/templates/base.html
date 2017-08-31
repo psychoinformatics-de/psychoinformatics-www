@@ -49,10 +49,6 @@
     {% include "include/footer.html" %}
   </main>
 
-  {% if GOOGLE_ANALYTICS %}
-    {% include "include/ga.html" %}
-  {% endif %}
-
   {% include "include/jsonld.html" %}
 
   {% block additional_js %}{% endblock %}
