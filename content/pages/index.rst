@@ -38,7 +38,7 @@ Forscher" (Volksstimme 21.11.2016) </img/volkstimme_20161121.jpg>`_,
 
 We participated in the `Committee on Best Practice in Data Analysis and Sharing
 (COBIDAS) <http://www.humanbrainmapping.org/cobidas>`_ that produced a
-comprehesive report on how to conduct and report neuroimaging studies to aid
+comprehensive report on how to conduct and report neuroimaging studies to aid
 reproducibility in this area of research. This work has been featured in the
 *New York Times* article "`Do You Believe in God, or Is That a Software Glitch?
 <https://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html>`_".
