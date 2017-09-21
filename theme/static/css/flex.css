@@ -271,18 +271,18 @@ section > h3:first-child, div.section > h3:first-child {
   margin-top: 0;
 }
 
-section a.image-reference { /* link that wraps the logo; default class name */
+section a.project-logo {
   display: block;
   margin: 0 auto 1.5em auto;
 }
-section a.image-reference img {
+section a.project-logo img {
   max-height: 40vh;
   min-width: 50vw;
   object-fit: scale-down;
   width: 100%;
 }
 @media screen and (min-width: 768px) {
-  section a.image-reference img { max-height: 20vh; }
+  section a.project-logo img { max-height: 20vh; }
 }
 
 .social-links {
