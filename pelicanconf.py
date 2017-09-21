@@ -23,7 +23,7 @@ PLUGINS = [ 'sitemap' ]
 SITEMAP = { 'format': 'xml' }
 
 DIRECT_TEMPLATES = ['404'] # unset all templates; add 404
-THEME = 'pelican-theme'
+THEME = 'theme'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
