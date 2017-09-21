@@ -196,10 +196,9 @@ blockquote::before {
   vertical-align: -0.4em;
 }
 
-.figure {
-  border-bottom: 1px dotted #ddd;
-}
-.figure .caption, .figure .legend {
+.figure { border-bottom: 1px dotted #ddd; }
+.figure img { width: 100%; }
+.figure p { /* caption */
   font-size: 0.8em;
   line-height: 1.4em;
   margin: 0.3em 1.5em;
