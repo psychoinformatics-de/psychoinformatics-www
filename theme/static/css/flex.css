@@ -271,10 +271,6 @@ section > h3:first-child, div.section > h3:first-child {
   margin-top: 0;
 }
 
-section a.project-logo {
-  display: block;
-  margin: 0 auto 1.5em auto;
-}
 section a.project-logo img {
   max-height: 40vh;
   min-width: 50vw;
