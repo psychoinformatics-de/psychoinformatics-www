@@ -20,6 +20,56 @@
        url('/theme/fonts/quicksand-v5-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+@font-face { /* License: OFL 1.1 */
+  font-family: 'fontello';
+  src: url('../fonts/fontello.woff2?75734824') format('woff2'),
+       url('../fonts/fontello.woff?75734824') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]::before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-home::before { content: '\e800'; }
+.icon-mail::before { content: '\e801'; }
+.icon-phone::before { content: '\e802'; }
+.icon-gpg::before { content: '\e803'; }
+.icon-google-scholar::before { content: '\e900'; }
+.icon-research-gate::before { content: '\e902'; }
+.icon-orcid::before { content: '\e906'; }
+.icon-twitter::before { content: '\f099'; }
+.icon-github::before { content: '\f09b'; }
+.icon-linkedin::before { content: '\f0e1'; }
+.icon-debian::before { content: '\f102'; }
+.icon-info::before { content: '\f129'; }
+.icon-google::before { content: '\f1a0'; }
+.icon-fax::before { content: '\f1ac'; }
+
 a {
   color: #d9411e;
   text-decoration: none;
