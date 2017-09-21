@@ -35,6 +35,17 @@ Notes:
 ----
 
 Files:
+  theme/css/style.css
+Copyright:
+  2015, Alexandre Vicenzi; 2016-2017 Alex Waite, 2017 `Fontello`_
+License:
+  `MIT`_
+
+.. _Fontello: http://fontello.com/
+
+----
+
+Files:
   img/logo/\*
 Copyright:
   Belongs to their respective owners
@@ -46,7 +57,7 @@ License:
 Files:
   img/logo/datalad.png
 Copyright:
-  2016, Alex Waite and Yaroslav Halchenko
+  2017, Alex Waite
 License:
   `Attribution-ShareAlike 4.0 International (CC-BY-SA)`_
 
@@ -220,17 +231,6 @@ License:
 .. _Academicons: https://jpswalsh.github.io/academicons/
 .. _font-linux: https://lukas-w.github.io/font-linux/
 .. _Unlicense: http://unlicense.org
-
-----
-
-Files:
-  theme/css/fontello.css
-Copyright:
-  `Fontello`_
-License:
-  `MIT`_
-
-.. _Fontello: http://fontello.com/
 
 ----
 
