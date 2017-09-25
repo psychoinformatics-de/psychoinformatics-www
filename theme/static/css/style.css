@@ -234,7 +234,7 @@ blockquote {
   border: 1px solid #f0f0f0;
   border-left: 10px solid #ccc;
   margin: 1.5em 0;
-  padding: 0.5em;
+  padding: 0.5em 0.95em;
   quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote::before {
@@ -242,8 +242,8 @@ blockquote::before {
   content: open-quote;
   font-size: 5em;
   line-height: 0em;
-  margin-right: 0.1em;
-  vertical-align: -0.4em;
+  margin-right: 0.5rem;;
+  vertical-align: -2.5rem;
 }
 
 .figure { border-bottom: 1px dotted #ddd; }
