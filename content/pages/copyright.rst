@@ -124,6 +124,17 @@ Source:
 ----
 
 Files:
+  img/mugshots/chaplin.png
+Copyright:
+  1915 Essanay Studios
+License:
+  Public Domain
+Source:
+  https://commons.wikimedia.org/wiki/File:The_Tramp_Essanay.jpg
+
+----
+
+Files:
   img/mugshots/curie.png
 Copyright:
   1921 Scientific Monthly; 2016 Alex Waite
