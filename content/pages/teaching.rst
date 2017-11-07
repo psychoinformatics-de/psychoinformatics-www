@@ -85,7 +85,7 @@ Ongoing Thesis Projects
 Completed Theses
 ----------------
 
-**Ulrike Schnaithmann** (B.Sc., Psychology, 2017)
+**Ulrike Schnaithmann** (B.Sc. Psychology, 2017)
   Combining and testing filter and detection algorithms for post-experimental
   analysis of eye tracking data on dynamic stimuli
 
