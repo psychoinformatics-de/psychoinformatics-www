@@ -14,12 +14,12 @@ Submitted
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. The neural basis of
 human deliberation.
 
-Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
-temporal Gestalt in the human brain. Cerebral Cortex. Revision submitted.
-
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
+temporal Gestalt in the human brain. *Cerebral Cortex*. Accepted for publication.
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 (2017) `Distractor-resistant short-term memory is supported by transient
