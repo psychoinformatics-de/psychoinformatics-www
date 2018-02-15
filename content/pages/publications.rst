@@ -18,16 +18,21 @@ human deliberation.
 Peer-reviewed
 ~~~~~~~~~~~~~
 
-Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. Encoding of auditory
-temporal Gestalt in the human brain. *Cerebral Cortex*. Accepted for publication.
+**Sengupta, A.**, Pollmann, S. & **Hanke, M.** (2018).  `Spatial band-pass
+filtering aids decoding musical genres from auditory cortex 7T fMRI.
+<http://dx.doi.org/10.12688/f1000research.13689.1>`_ *F1000Research*, 7,
+
+Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. (2018) `Encoding of auditory
+temporal Gestalt in the human brain. <http://dx.doi.org/10.1093/cercor/bhx328>`_
+*Cerebral Cortex*.
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
-(2017) `Distractor-resistant short-term memory is supported by transient
+(2017). `Distractor-resistant short-term memory is supported by transient
 changes in neural stimulus representations
 <http://dx.doi.org/10.1162/jocn_a_01141>`_. *Journal of Cognitive
 Neuroscience*, 29, 1547-1565.
 
-**Reeder, R. R., Hanke, M.** & Pollmann, S. (2017) `Task relevance modulates
+**Reeder, R. R., Hanke, M.** & Pollmann, S. (2017). `Task relevance modulates
 the representation of features and feature dimensions in the target template
 <http://dx.doi.org/10.1038/s41598-017-04123-8>`_. *Scientific Reports*,
 7, 4514.
