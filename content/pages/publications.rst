@@ -14,6 +14,12 @@ Submitted
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. The neural basis of
 human deliberation.
 
+**Sengupta, A.**, Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C.,
+Pollmann, S. & **Hanke, M.** (2018)
+`The effect of acquisition resolution on orientation decoding from V1:
+comparison of 3T and 7T
+<https://doi.org/10.1101/305417>`_.  *bioRxiv*.
+
 
 Peer-reviewed
 ~~~~~~~~~~~~~
