@@ -1,5 +1,7 @@
 # Sources for psychoinformatics.de #
 
+[![Travis tests status](https://secure.travis-ci.org/psychoinformatics-de/psychoinformatics-www.png?branch=master)](https://travis-ci.org/psychoinformatics-de/psychoinformatics-www)
+
 This repo has all of the sources and assets for the website of the
 Psychoinformatics Lab at Otto-von-Guericke-Universität Magdeburg
 (http://psychoinformatics.de).
