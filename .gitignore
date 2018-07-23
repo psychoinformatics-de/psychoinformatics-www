@@ -1,4 +1,4 @@
-output
-pelican.pid
-srv.pid
+*.pid
 *.pyc
+output
+pelican-plugins
