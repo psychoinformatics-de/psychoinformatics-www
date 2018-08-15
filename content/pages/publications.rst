@@ -24,6 +24,10 @@ comparison of 3T and 7T
 Peer-reviewed
 ~~~~~~~~~~~~~
 
+Reeder, R. R., Olivers, C. N. L., **Hanke, M.** & Pollmann, S. (accepted).
+No evidence for enhanced distractor template representation in early visual
+cortex. *Cortex*.
+
 **Sengupta, A.**, Pollmann, S. & **Hanke, M.** (2018).  `Spatial band-pass
 filtering aids decoding musical genres from auditory cortex 7T fMRI.
 <http://dx.doi.org/10.12688/f1000research.13689.1>`_ *F1000Research*, 7,
