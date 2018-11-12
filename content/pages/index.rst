@@ -27,6 +27,8 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 In The Media
 ============
 
+The talk for a broader audience "Psychologie & Gehirnforschung treffen Hollywood: Was können Neurowissenschaftler in Deinem Gehirn sehen, während Du einen Film schaust?" given by our PhD candidate Christian Olaf Häusler has been covered in *Wolfenbüttler Schaufenster*: `"Ist unsere Wahrnehmung eine Interpretation des Gehirns?" </img/wolfenbuettler_schaufenster_20181020.png>`_.
+
 The use of complex natural stimuli in the lab's human imaging studies plays a role in this
 `half-hour SWR2 radio feature on animal experiment in medical research <https://www.swr.de/swr2/programm/sendungen/wissen/medizin-ohne-tierversuche/-/id=660374/did=22367746/nid=660374/1xjzwct/index.html>`_ (2018; about 4min from the ~11 min mark).
 
