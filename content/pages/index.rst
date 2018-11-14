@@ -15,7 +15,8 @@ sciences, neuroscience, and psychology. We develop tools and strategies to
 employ inter-disciplinary expertise in psychological and neuroimaging research.
 Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 <http://www.pymvpa.org/>`_) to versatile research platforms (e.g.
-`NeuroDebian <http://neuro.debian.net/>`_).
+`NeuroDebian <http://neuro.debian.net/>`_) and data management systems (e.g.
+`DataLad <http://datalad.org>`_).
 
 .. raw:: html
 
