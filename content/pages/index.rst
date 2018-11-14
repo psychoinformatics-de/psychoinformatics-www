@@ -34,7 +34,7 @@ Neurowissenschaftler in Deinem Gehirn sehen, während Du einen Film schaust?" ha
 </img/wolfenbuettler_schaufenster_20181020.png>`_.
 
 The use of complex natural stimuli in the lab's human imaging studies plays a role in this
-`half-hour SWR2 radio feature on animal experiment in medical research <https://www.swr.de/swr2/programm/sendungen/wissen/medizin-ohne-tierversuche/-/id=660374/did=22367746/nid=660374/1xjzwct/index.html>`_ (2018; about 4min from the ~11 min mark).
+`half-hour SWR2 radio feature on animal experiments in medical research <https://www.swr.de/swr2/programm/sendungen/wissen/medizin-ohne-tierversuche/-/id=660374/did=22367746/nid=660374/1xjzwct/index.html>`_ (2018; about 4min from the ~11 min mark).
 
 The 2016 extension of our `studyforrest <http://studyforrest.org>`_ dataset has
 received wide-spread media attention: `"Hirndatenbank lockt internationale
