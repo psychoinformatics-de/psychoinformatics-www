@@ -24,6 +24,13 @@ comparison of 3T and 7T
 Peer-reviewed
 ~~~~~~~~~~~~~
 
+Kennedy, D. N., Abraham, S. A., Bates, J. F., Crowley, A., Ghosh, S., Gillespie, T.,
+Goncalves, M., Grethe, J. S., Halchenko, Y. O., **Hanke, M.**, Haselgrove, C.,
+Hodge, S. M., Jarecka, D., Kaczmarzyk, J., Keator, D. B., Meyer, K., Martone, M. E.,
+Padhy, S., Poline, J.-B., Preuss, N., Sincomb, T. & Travers, M. (2019).
+`Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging
+<http://dx.doi.org/10.3389/fninf.2019.00001>`_. Frontiers in Neuroinformatics, 13:1.
+
 Reeder, R. R., Olivers, C. N. L., **Hanke, M.** & Pollmann, S. (accepted).
 No evidence for enhanced distractor template representation in early visual
 cortex. *Cortex*.
