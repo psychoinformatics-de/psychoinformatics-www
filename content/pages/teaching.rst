@@ -85,6 +85,10 @@ Ongoing Thesis Projects
 Completed Theses
 ----------------
 
+**Adina Wagner** (M.Sc. Psychology, 2019)
+  Catching the eye: Investigating the functional neuroanatomy of the visuospatial
+  attention system with fMRI and eye gaze recordings during natural stimulation
+
 **Ulrike Schnaithmann** (B.Sc. Psychology, 2017)
   Combining and testing filter and detection algorithms for post-experimental
   analysis of eye tracking data on dynamic stimuli
