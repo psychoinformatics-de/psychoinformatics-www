@@ -187,7 +187,7 @@ aside img {
 }
 aside a {
   color: #fff;
-  transition: all 0.2s linear;
+  transition: border-bottom 0.2s linear, text-shadow 0.2s linear;
 }
 aside a:hover {
   color: #eee;
