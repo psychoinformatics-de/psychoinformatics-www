@@ -75,19 +75,21 @@ Ongoing Thesis Projects
  Evaluating common high-dimensional models of cortical representational spaces
  for improving the power of neuroimaging-based clinical diagnostics
 
-**Markus Schleicher** (M.Sc, Psychology)
-  Detection of emotions from motion capture of facial features
-
-**Konstanze Braun** (M.Sc, Psychology)
-  Brain activity patterns of pity and compassion
-
 
 Completed Theses
 ----------------
 
+**Markus Schleicher** (M.Sc, Psychology, 2019)
+  Detection of emotional facial expressions from motion capture of facial features
+  from low quality video data with an online capable algorithm
+
 **Adina Wagner** (M.Sc. Psychology, 2019)
   Catching the eye: Investigating the functional neuroanatomy of the visuospatial
   attention system with fMRI and eye gaze recordings during natural stimulation
+
+**Konstanze Braun** (M.Sc, Psychology, 2018)
+  Social pain in the movie Forrest Gump: Investigating the neural correlates of
+  compassion and empathy
 
 **Ulrike Schnaithmann** (B.Sc. Psychology, 2017)
   Combining and testing filter and detection algorithms for post-experimental
