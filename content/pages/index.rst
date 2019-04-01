@@ -21,8 +21,8 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 .. raw:: html
 
     <div class='index-logos'>
-      <div class='ovgu'><a href="http://www.fnw.ovgu.de" target="_blank"><img src="/img/logo/ovgu_nat.png" alt="Otto-von-Guericke University Natural Sciences Logo" /></a></div>
-      <div class='cbbs'><a href="http://www.cbbs.eu/en/" target="_blank"><img src="/img/logo/cbbs.png" alt="CBBS Logo" /></a></div>
+      <div class='fzj'><a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html" target="_blank"><img src="/img/logo/fzjuelich.svg" alt="Jülich Research Center Logo" /></a></div>
+      <div class='hhu'><a href="http://www.medizin.hhu.de/en.html" target="_blank"><img src="/img/logo/hhu.svg" alt="Heinrich Heine University Logo" /></a></div>
     </div>
 
 In The Media
@@ -30,7 +30,7 @@ In The Media
 
 Christian Olaf Häusler's popular science talk "Psychologie & Gehirnforschung treffen Hollywood: Was können
 Neurowissenschaftler in Deinem Gehirn sehen, während Du einen Film schaust?" has been covered in
-*Wolfenbüttler Schaufenster*: `"Ist unsere Wahrnehmung eine Interpretation des Gehirns?" 
+*Wolfenbüttler Schaufenster*: `"Ist unsere Wahrnehmung eine Interpretation des Gehirns?"
 </img/wolfenbuettler_schaufenster_20181020.png>`_.
 
 The use of complex natural stimuli in the lab's human imaging studies plays a role in this

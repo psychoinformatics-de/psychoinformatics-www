@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 #
 AUTHOR = u'Michael Hanke & Alex Waite'
 SITETITLE = u'Psycho&shy;informatics'
-SITESUBTITLE = u'at <a href="http://www.ipsy.ovgu.de">OvGU</a>'
+SITESUBTITLE = u'at <a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html">Jülich</a>'
 SITENAME = u'Psychoinformatics'
 SITEURL = ''
 
