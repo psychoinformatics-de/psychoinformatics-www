@@ -4,8 +4,9 @@
 
 # It assumes that `make html` was performed beforehand and thus output/ is
 # up-to-date.
-
 set -x
+
+printf 'Running GitHub Pages deployment script.\n'
 git --version
 
 # set up git and GitHub access
