@@ -21,8 +21,8 @@ Our projects range from tailored solutions to specific problems (e.g. `PyMVPA
 .. raw:: html
 
     <div class='index-logos'>
-      <div class='fzj'><a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html" target="_blank"><img src="/img/logo/fzjuelich.png" alt="Juelich Research Center Logo" /></a></div>
-      <div class='hhu'><a href="http://www.medizin.hhu.de/en.html" target="_blank"><img src="/img/logo/hhu.png" alt="Heinrich-Heine-University Logo" /></a></div>
+      <div class='fzj'><a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html" target="_blank"><img src="/img/logo/fzjuelich.svg" alt="Jülich Research Center Logo" /></a></div>
+      <div class='hhu'><a href="http://www.medizin.hhu.de/en.html" target="_blank"><img src="/img/logo/hhu.svg" alt="Heinrich Heine University Logo" /></a></div>
     </div>
 
 In The Media
