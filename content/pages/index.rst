@@ -30,7 +30,7 @@ In The Media
 
 Christian Olaf Häusler's popular science talk "Psychologie & Gehirnforschung treffen Hollywood: Was können
 Neurowissenschaftler in Deinem Gehirn sehen, während Du einen Film schaust?" has been covered in
-*Wolfenbüttler Schaufenster*: `"Ist unsere Wahrnehmung eine Interpretation des Gehirns?" 
+*Wolfenbüttler Schaufenster*: `"Ist unsere Wahrnehmung eine Interpretation des Gehirns?"
 </img/wolfenbuettler_schaufenster_20181020.png>`_.
 
 The use of complex natural stimuli in the lab's human imaging studies plays a role in this
