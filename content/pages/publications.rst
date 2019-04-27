@@ -11,6 +11,10 @@ Publications
 Submitted
 ~~~~~~~~~
 
+Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye Movement Detection
+for Natural Viewing <https://doi.org/10.1101/619254>`_.  *bioRxiv*.
+*(first two authors contributed equally)*
+
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. The neural basis of
 human deliberation.
 
