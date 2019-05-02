@@ -157,6 +157,19 @@ Source:
 ----
 
 Files:
+  img/mugshots/extinguisher.png
+Copyright:
+  George Hodan
+License:
+  `Public Domain Dedication (CC0)`_
+Source:
+  https://www.publicdomainpictures.net/en/view-image.php?image=67832
+
+.. _Public Domain Dedication (CC0): https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+----
+
+Files:
   img/mugshots/grill-\*.png
 Copyright:
   Belongs to their respective owners
@@ -173,8 +186,6 @@ License:
   `Public Domain Dedication (CC0)`_
 Source:
   https://pixabay.com/en/meerkat-portrait-facing-wildlife-1591315/
-
-.. _Public Domain Dedication (CC0): https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 ----
 
