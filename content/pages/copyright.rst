@@ -201,6 +201,17 @@ Source:
 ----
 
 Files:
+  img/mugshots/violin.png
+Copyright:
+  Metropolitan Museum of Art
+License:
+  `Public Domain Dedication (CC0)`_
+Source:
+  https://commons.wikimedia.org/wiki/File:%22The_Francesca%22_Violin_MET_DP167848.jpg
+
+----
+
+Files:
   img/mugshots/woody.png
 Copyright:
   2010 by Unknown
