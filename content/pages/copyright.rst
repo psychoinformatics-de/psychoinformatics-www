@@ -212,6 +212,19 @@ Source:
 ----
 
 Files:
+  img/mugshots/trumpet.png
+Copyright:
+  2006 PJ
+License:
+  `Attribution-Share Alike 3.0 Unported (CC-BY-SA 3.0)`_
+Source:
+  https://upload.wikimedia.org/wikipedia/commons/9/9d/Trumpet_1.jpg
+
+.. _Attribution-Share Alike 3.0 Unported (CC-BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
+
+----
+
+Files:
   img/mugshots/violin.png
 Copyright:
   Metropolitan Museum of Art
