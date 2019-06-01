@@ -8,25 +8,25 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+
 Submitted
 ~~~~~~~~~
 
-Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye Movement Detection
-for Natural Viewing <https://doi.org/10.1101/619254>`_.  *bioRxiv*.
+**Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). multimatch_gaze:
+The MultiMatch algorithm for gaze comparison in Python. The Journal of Open
+Source Software.
+
+Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
+Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
+*bioRxiv*.
 *(first two authors contributed equally)*
-
-Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. The neural basis of
-human deliberation.
-
-**Sengupta, A.**, Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C.,
-Pollmann, S. & **Hanke, M.** (2018)
-`The effect of acquisition resolution on orientation decoding from V1:
-comparison of 3T and 7T
-<https://doi.org/10.1101/305417>`_.  *bioRxiv*.
-
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). Neural
+signatures underlying deliberation in human foraging decisions. Cognitive,
+Affective, and Behavioral Neuroscience.
 
 Kennedy, D. N., Abraham, S. A., Bates, J. F., Crowley, A., Ghosh, S., Gillespie, T.,
 Goncalves, M., Grethe, J. S., Halchenko, Y. O., **Hanke, M.**, Haselgrove, C.,
@@ -35,17 +35,22 @@ Padhy, S., Poline, J.-B., Preuss, N., Sincomb, T. & Travers, M. (2019).
 `Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging
 <http://dx.doi.org/10.3389/fninf.2019.00001>`_. Frontiers in Neuroinformatics, 13:1.
 
-Reeder, R. R., Olivers, C. N. L., **Hanke, M.** & Pollmann, S. (accepted).
-No evidence for enhanced distractor template representation in early visual
-cortex. *Cortex*.
+Reeder, R. R., Olivers, C. N. L., **Hanke, M.** & Pollmann, S. (2018).
+`No evidence for enhanced distractor template representation in early visual
+cortex <https://doi.org/10.1016/j.cortex.2018.08.005>`_. *Cortex*, 108:279-282.
+
+**Sengupta, A.**, Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C.,
+Pollmann, S. & **Hanke, M.** (2018) `The effect of acquisition resolution on
+orientation decoding from V1: comparison of 3T and 7T
+<https://doi.org/10.1101/305417>`_.  *bioRxiv*.
 
 **Sengupta, A.**, Pollmann, S. & **Hanke, M.** (2018).  `Spatial band-pass
 filtering aids decoding musical genres from auditory cortex 7T fMRI.
-<http://dx.doi.org/10.12688/f1000research.13689.1>`_ *F1000Research*, 7,
+<http://dx.doi.org/10.12688/f1000research.13689.1>`_ *F1000Research*, 7.
 
 Notter, M., **Hanke, M.**, Murray, M. & Geiser, E. (2018) `Encoding of auditory
 temporal Gestalt in the human brain. <http://dx.doi.org/10.1093/cercor/bhx328>`_
-*Cerebral Cortex*.
+*Cerebral Cortex*, 2, 475-484.
 
 Derrfuss, J., Ekman, M., **Hanke, M.**, Tittgemeyer, M. & Fiebach, C.
 (2017). `Distractor-resistant short-term memory is supported by transient
@@ -219,6 +224,11 @@ Neuroscience, 2:2*.
 
 Additional publications
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+**Hanke, M.,** Mathôt, S., Ort, E., Peitek, N., Stadler, S. & **Wagner, A. S.**
+(2019).  A practical guide to functional magnetic resonance imaging with
+simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
+(Ed.) *Spatial learning and attention guidance*. Springer.
 
 **Hanke, M.** (2017). `Studyforrest, study!
 <https://blog.f1000.com/2017/03/15/studyforrest-study/>`_
