@@ -34,10 +34,13 @@ Research Internships
 We offer the opportunity for research internships for international students
 (PhD, high school) and postdocs, ranging from few weeks to several months.
 Research topics have comprised multivariate data analysis of neuroimaging data,
-multi-modal dataset from natural stimulation, and computational modeling of
-behavioral data. The implementation of the algorithm for statistical evaluation
-of classification results in the following paper is an example of an internship
-result:
+multi-modal datasets from natural stimulation, and computational modeling of
+behavioral data. The algorithm implementations in the following papers are
+examples of of such projects:
+
+* **Dar, A. H., Wagner, A. S.** & Hanke, M. (2019). `REMoDNaV: Robust Eye
+  Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
+  *bioRxiv*. *(first two authors contributed equally)*
 
 * Hanke, M., **Dinga, R.**, Häusler, C., Guntupalli, J. S., Casey, M., Kaule,
   F. R. & Stadler, S. (2015). `High-resolution 7-Tesla fMRI data on the
