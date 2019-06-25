@@ -12,9 +12,9 @@ Publications
 Submitted
 ~~~~~~~~~
 
-**Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). multimatch_gaze:
-The MultiMatch algorithm for gaze comparison in Python. The Journal of Open
-Source Software.
+**Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
+The MultiMatch algorithm for gaze comparison in Python
+<https://doi.org/10.21105/joss.01525>`_. The Journal of Open Source Software.
 
 Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
 Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
