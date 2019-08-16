@@ -16,10 +16,6 @@ DuPre, E., **Hanke, M.**, & Poline, J.-B. (2019). `Nature abhors a paywall:
 How open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.31234/osf.io/sdbqv>`_. *PsyArXiv*.
 
-**Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
-The MultiMatch algorithm for gaze comparison in Python
-<https://doi.org/10.21105/joss.01525>`_. The Journal of Open Source Software.
-
 Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
 Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
 *bioRxiv*.
@@ -27,6 +23,10 @@ Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
 
 Peer-reviewed
 ~~~~~~~~~~~~~
+
+**Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
+The MultiMatch algorithm for gaze comparison in Python
+<https://doi.org/10.21105/joss.01525>`_. The Journal of Open Source Software.
 
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). Neural
 signatures underlying deliberation in human foraging decisions. Cognitive,
