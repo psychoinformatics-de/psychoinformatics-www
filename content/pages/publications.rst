@@ -28,6 +28,15 @@ Peer-reviewed
 The MultiMatch algorithm for gaze comparison in Python
 <https://doi.org/10.21105/joss.01525>`_. The Journal of Open Source Software.
 
+Yarkoni, T., Markiewicz, C. J., de la Vega, A., Gorgolewski, K. J., Salo, T.,
+Halchenko, Y. O., McNamara, Q., DeStasio, K., Poline, J.-B., Petrov, D.,
+Hayot-Sasson, V., Nielson, D. M., Carlin, J., Kiar, G., Whitaker, K.,
+DuPre, E., **Wagner, A. S.**, Tirrell, L. S., Jas, M., **Hanke, M.**,
+Poldrack, R. A., Esteban, O., Appelhoff, S., Holdgraf, C., Staden, I.,
+Thirion, B., Kleinschmidt, D. F., Lee, J. A., Visconti di Oleggio Castello, M.,
+Notter, M. P & Blair, R. (2019). `PyBIDS: Python tools for BIDS datasets
+<https://doi.org/10.21105/joss.01294>`_. The Journal of Open Source Software.
+
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). Neural
 signatures underlying deliberation in human foraging decisions. Cognitive,
 Affective, and Behavioral Neuroscience.
