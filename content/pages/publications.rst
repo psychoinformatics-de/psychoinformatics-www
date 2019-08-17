@@ -9,9 +9,6 @@ Publications
   <div class="publications">
 
 
-Submitted
-~~~~~~~~~
-
 DuPre, E., **Hanke, M.**, & Poline, J.-B. (2019). `Nature abhors a paywall:
 How open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.31234/osf.io/sdbqv>`_. *PsyArXiv*.
@@ -20,9 +17,6 @@ Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
 Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
 *bioRxiv*.
 *(first two authors contributed equally)*
-
-Peer-reviewed
-~~~~~~~~~~~~~
 
 **Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
 The MultiMatch algorithm for gaze comparison in Python
@@ -36,6 +30,11 @@ Poldrack, R. A., Esteban, O., Appelhoff, S., Holdgraf, C., Staden, I.,
 Thirion, B., Kleinschmidt, D. F., Lee, J. A., Visconti di Oleggio Castello, M.,
 Notter, M. P & Blair, R. (2019). `PyBIDS: Python tools for BIDS datasets
 <https://doi.org/10.21105/joss.01294>`_. The Journal of Open Source Software.
+
+**Hanke, M.,** Mathôt, S., Ort, E., Peitek, N., Stadler, S. & **Wagner, A. S.**
+(2019).  A practical guide to functional magnetic resonance imaging with
+simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
+(Ed.) *Spatial learning and attention guidance*. Springer.
 
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). Neural
 signatures underlying deliberation in human foraging decisions. Cognitive,
@@ -89,6 +88,14 @@ E., Thirion, B., Van Essen, D. C., White, T. & Yeo, B. T. T. (2017). `Standards
 for Best Practices in Data Analysis and Sharing in Neuroimaging using MRI
 <http://rdcu.be/pxWt>`_.  *Nature Neuroscience*, 20, 299-303.
 
+Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
+M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
+E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2016).  `Best
+Practices in Data Analysis and Sharing in Neuroimaging using MRI
+<http://www.biorxiv.org/content/early/2016/05/20/054262>`_.  *Report of the OHBM
+Committee on Best Practices in Data Analysis and Sharing (COBIDAS)*. [bioRxiv
+doi:10.1101/054262]
+
 **Sengupta, A.**, Yakupov, R., Speck, O., Pollmann, S. & **Hanke, M.** (2017)
 `The effect of acquisition resolution on orientation decoding from V1
 BOLD fMRI at 7 Tesla
@@ -99,7 +106,6 @@ BOLD fMRI at 7 Tesla
 (2017) `Ultra high-field multi-resolution fMRI data for orientation decoding
 in visual cortex <http://dx.doi.org/10.1016/j.dib.2017.05.014>`_. *Data in Brief*,
 13, 219-222.]
-
 
 **Hanke, M. & Ibe, P.** (2016) `Lies, irony, and contradiction — an annotation
 of semantic conflict in the movie "Forrest Gump"
@@ -139,6 +145,10 @@ Ramadge, P. J. & Haxby, J. V. (2016). `A Model of Representational Spaces
 in Human Cortex <http://dx.doi.org/10.1093/cercor/bhw068>`_.
 *Cerebral Cortex*, 26, 2919-2934.
 
+**Hanke, M.** & Halchenko, Y. O. (2015). `A communication hub for a
+decentralized collaboration on studying real-life cognition
+<http://f1000research.com/articles/4-62>`_. *F1000Research, 4:62*.
+
 Halchenko, Y. O. & **Hanke, M.** (2015). `Four aspects to make science open "by
 design" and not as an after-thought
 <http://dx.doi.org/10.1186/s13742-015-0072-7>`_. *GigaScience*, 4:31.
@@ -163,6 +173,10 @@ binding <http://www.sciencedirect.com/science/article/pii/S105381191400593X>`_.
 O., Zinke, W. & Stadler, J. (2014). `A high-resolution 7-Tesla fMRI dataset
 from complex natural stimulation with an audio movie
 <http://www.nature.com/articles/sdata20143>`_. *Scientific Data*, 1:140003.
+
+Halchenko, Y.O., **Hanke, M.**, Haxby, J.V., Hanson, S.J. & Herrmann, C.S.
+(2013). `Transmodal Analysis of Neural Signals
+<https://arxiv.org/abs/1307.2150>`_. *arXiv:1307.215*.
 
 Kohler, P. J., Fogelson, S. V., Reavis, E. A., Meng, M., Guntupalli, J. S.,
 **Hanke, M.**, Halchenko, Y. O., Connolly, A. C., Haxby, J. V. & Tse, P. U.
@@ -208,10 +222,20 @@ Lee, Y. S., Janata, P., Frost, C., **Hanke, M.** & Granger, R. (2011).
 pattern-based fMRI <http://dx.doi.org/10.1016/j.neuroimage.2011.02.006>`_.
 *NeuroImage, 57*, 293--300.
 
+Tille, A., Möller, S., **Hanke, M** & Halchenko, Y. O. (2011). Debian Med:
+Integrated software environment for all medical purposes based on Debian
+GNU/Linux. In Jordanova, M. & Lievens, F. (Eds.), *Global Telemedicine and
+eHealth Updates: Knowledge Resources, Vol. 4*. Luxembourg: ISfTeH.
+
 **Hanke, M.**, Halchenko, Y. O., Haxby, J. V., & Pollmann, S. (2010).
 `Statistical learning analysis in neuroscience: aiming for transparency
 <http://dx.doi.org/10.3389/neuro.01.007.2010>`_. *Frontiers in Neuroscience, 4*,
 38--43.
+
+Halchenko, Y. O. & **Hanke, M.** (2010). `Advancing Neuroimaging Research with
+Predictive Multivariate Pattern Analysis (MVPA)
+<http://www.ine-news.org/view.php?source=1683-2009-09-03>`_. *The Neuromorphic
+Engineer*.
 
 **Hanke, M.** (2009). Advancing the understanding of brain function with
 multivariate pattern analysis (Doctoral dissertation), Otto-von-Guericke
@@ -233,47 +257,6 @@ Maertens, M., Pollmann, S., **Hanke, M.**, Mildner, T. & Möller, H.E.  (2008).
 `Retinotopic activation in response to subjective contours in primary visual
 cortex <http://dx.doi.org/10.3389/neuro.09.002.2008>`_. *Frontiers in Human
 Neuroscience, 2:2*.
-
-
-Additional publications
-~~~~~~~~~~~~~~~~~~~~~~~
-
-**Hanke, M.,** Mathôt, S., Ort, E., Peitek, N., Stadler, S. & **Wagner, A. S.**
-(2019).  A practical guide to functional magnetic resonance imaging with
-simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
-(Ed.) *Spatial learning and attention guidance*. Springer.
-
-**Hanke, M.** (2017). `Studyforrest, study!
-<https://blog.f1000.com/2017/03/15/studyforrest-study/>`_
-F1000Research Blog.
-
-Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., **Hanke,
-M.**, Kriegeskorte, N., Milham, M. P., Poldrack, R. A., Poline, J.-B., Proal,
-E., Thirion, B., Van Essen, D. C., White, T., Yeo, B. T. T. (2015).  `Best
-Practices in Data Analysis and Sharing in Neuroimaging using MRI
-<http://www.biorxiv.org/content/early/2016/05/20/054262>`_.  *Report of the OHBM
-Committee on Best Practices in Data Analysis and Sharing (COBIDAS)*. [bioRxiv
-doi:10.1101/054262]
-
-**Hanke, M.** & Halchenko, Y. O. (2015). `A communication hub for a
-decentralized collaboration on studying real-life cognition
-<http://f1000research.com/articles/4-62>`_. *F1000Research, 4:62*.
-
-Halchenko, Y.O., **Hanke, M.**, Haxby, J.V., Hanson, S.J. & Herrmann, C.S.
-(2013). `Transmodal Analysis of Neural Signals
-<https://arxiv.org/abs/1307.2150>`_. *arXiv:1307.215*.
-
-Tille, A., Möller, S., **Hanke, M** & Halchenko, Y. O. (2011). Debian Med:
-Integrated software environment for all medical purposes based on Debian
-GNU/Linux. In Jordanova, M. & Lievens, F. (Eds.), *Global Telemedicine and
-eHealth Updates: Knowledge Resources, Vol. 4*. Luxembourg: ISfTeH.
-
-.. **Hanke, M.** (2010). Gemeinsam das Gehirn entschlüsseln.
-
-Halchenko, Y. O. & **Hanke, M.** (2010). `Advancing Neuroimaging Research with
-Predictive Multivariate Pattern Analysis (MVPA)
-<http://www.ine-news.org/view.php?source=1683-2009-09-03>`_. *The Neuromorphic
-Engineer*.
 
 Lukas, J., & **Hanke, M.** (2004). Wie die Bilder laufen lernten:
 Kognitive Prozesse bei der Bewegungswahrnehmung. *Scientia halensis, 4*,
