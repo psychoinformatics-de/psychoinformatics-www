@@ -13,7 +13,7 @@ DuPre, E., **Hanke, M.**, & Poline, J.-B. (2019). `Nature abhors a paywall:
 How open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.31234/osf.io/sdbqv>`_. *PsyArXiv*.
 
-Dar, A. H., **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
+**Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
 Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
 *bioRxiv*.
 *(first two authors contributed equally)*
