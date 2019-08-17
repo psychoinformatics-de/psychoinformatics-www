@@ -20,7 +20,7 @@ Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
 
 **Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
 The MultiMatch algorithm for gaze comparison in Python
-<https://doi.org/10.21105/joss.01525>`_. The Journal of Open Source Software.
+<https://doi.org/10.21105/joss.01525>`_. *The Journal of Open Source Software*.
 
 Yarkoni, T., Markiewicz, C. J., de la Vega, A., Gorgolewski, K. J., Salo, T.,
 Halchenko, Y. O., McNamara, Q., DeStasio, K., Poline, J.-B., Petrov, D.,
@@ -29,23 +29,24 @@ DuPre, E., **Wagner, A. S.**, Tirrell, L. S., Jas, M., **Hanke, M.**,
 Poldrack, R. A., Esteban, O., Appelhoff, S., Holdgraf, C., Staden, I.,
 Thirion, B., Kleinschmidt, D. F., Lee, J. A., Visconti di Oleggio Castello, M.,
 Notter, M. P & Blair, R. (2019). `PyBIDS: Python tools for BIDS datasets
-<https://doi.org/10.21105/joss.01294>`_. The Journal of Open Source Software.
+<https://doi.org/10.21105/joss.01294>`_. *The Journal of Open Source Software*.
 
 **Hanke, M.,** Mathôt, S., Ort, E., Peitek, N., Stadler, S. & **Wagner, A. S.**
 (2019).  A practical guide to functional magnetic resonance imaging with
 simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
 (Ed.) *Spatial learning and attention guidance*. Springer.
 
-Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). Neural
-signatures underlying deliberation in human foraging decisions. Cognitive,
-Affective, and Behavioral Neuroscience.
+Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). `Neural
+signatures underlying deliberation in human foraging decisions
+<https://doi.org/10.21105/joss.01294>`_. *Cognitive, Affective, and Behavioral
+Neuroscience*.
 
 Kennedy, D. N., Abraham, S. A., Bates, J. F., Crowley, A., Ghosh, S., Gillespie, T.,
 Goncalves, M., Grethe, J. S., Halchenko, Y. O., **Hanke, M.**, Haselgrove, C.,
 Hodge, S. M., Jarecka, D., Kaczmarzyk, J., Keator, D. B., Meyer, K., Martone, M. E.,
 Padhy, S., Poline, J.-B., Preuss, N., Sincomb, T. & Travers, M. (2019).
 `Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging
-<http://dx.doi.org/10.3389/fninf.2019.00001>`_. Frontiers in Neuroinformatics, 13:1.
+<http://dx.doi.org/10.3389/fninf.2019.00001>`_. *Frontiers in Neuroinformatics*, 13:1.
 
 Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S. (2019).
 `Individual face and house-related eye movement patterns distinctively activate
