@@ -47,6 +47,11 @@ Padhy, S., Poline, J.-B., Preuss, N., Sincomb, T. & Travers, M. (2019).
 `Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging
 <http://dx.doi.org/10.3389/fninf.2019.00001>`_. Frontiers in Neuroinformatics, 13:1.
 
+Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S. (2019).
+`Individual face and house-related eye movement patterns distinctively activate
+FFA and PPA in the absence of faces and houses
+<https://doi.org/10.31219/osf.io/m3wkp>`_. *OSF Preprints*.
+
 Reeder, R. R., Olivers, C. N. L., **Hanke, M.** & Pollmann, S. (2018).
 `No evidence for enhanced distractor template representation in early visual
 cortex <https://doi.org/10.1016/j.cortex.2018.08.005>`_. *Cortex*, 108:279-282.
