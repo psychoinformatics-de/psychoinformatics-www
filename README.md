@@ -3,7 +3,7 @@
 [![Travis tests status](https://secure.travis-ci.org/psychoinformatics-de/psychoinformatics-www.png?branch=master)](https://travis-ci.org/psychoinformatics-de/psychoinformatics-www)
 
 This repo has all of the sources and assets for the website of the
-Psychoinformatics Lab at Otto-von-Guericke-Universität Magdeburg
+Psychoinformatics Lab at the Research Center in Jülich
 (https://www.psychoinformatics.de).
 
 Generated using [Pelican](https://blog.getpelican.com/), building is as simple as
