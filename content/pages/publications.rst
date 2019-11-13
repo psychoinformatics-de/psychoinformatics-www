@@ -8,6 +8,10 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S.
+(in press). Individual face and house-related eye movement patterns
+distinctively activate FFA and PPA in the absence of faces and houses.
+*Nature Communications*.
 
 DuPre, E., **Hanke, M.**, & Poline, J.-B. (2019). `Nature abhors a paywall:
 How open science can realize the potential of naturalistic stimuli
