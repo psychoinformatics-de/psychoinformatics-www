@@ -8,12 +8,18 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+**Porcu, E.**, Benz, K. M., Ball, F., Tempelmann, C., **Hanke, M.** &
+Noesselt, T. (2020). `Macroscopic information-based taste representations
+in insular cortex are shaped by stimulus concentration
+<https://doi.org/10.1073/pnas.1916329117>`_.
+*Proceedings of the National Academy of Sciences*.
+
 Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S.  (2019).
 `Individual face and house-related eye movement patterns distinctively activate
 FFA and PPA in the absence of faces and houses.
 <https://doi.org/10.1038/s41467-019-13541-3>`_.  *Nature Communications*.
 
-DuPre, E., **Hanke, M.**, & Poline, J.-B. (2019). `Nature abhors a paywall:
+DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall:
 How open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.31234/osf.io/sdbqv>`_. *PsyArXiv*.
 
@@ -42,7 +48,7 @@ simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
 
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). `Neural
 signatures underlying deliberation in human foraging decisions
-<https://doi.org/10.21105/joss.01294>`_. *Cognitive, Affective, and Behavioral
+<https://doi.org/10.3758/s13415-019-00733-z>`_. *Cognitive, Affective, and Behavioral
 Neuroscience*.
 
 Kennedy, D. N., Abraham, S. A., Bates, J. F., Crowley, A., Ghosh, S., Gillespie, T.,
