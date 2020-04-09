@@ -8,6 +8,10 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+**Boos, M.**, Guntupalli, J. S., Rieger, J. W., **Hanke, M.** (2020).  `The
+role of auxiliary parameters in evaluating voxel-wise encoding models for 3T
+and 7T BOLD fMRI data <https://doi.org/10.1101/2020.04.07.029397>`_. *bioRxiv*.
+
 **Porcu, E.**, Benz, K. M., Ball, F., Tempelmann, C., **Hanke, M.** &
 Noesselt, T. (2020). `Macroscopic information-based taste representations
 in insular cortex are shaped by stimulus concentration
