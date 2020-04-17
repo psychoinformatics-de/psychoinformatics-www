@@ -23,9 +23,10 @@ Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S.  (2019).
 FFA and PPA in the absence of faces and houses.
 <https://doi.org/10.1038/s41467-019-13541-3>`_.  *Nature Communications*.
 
-DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall:
-How open science can realize the potential of naturalistic stimuli
-<https://doi.org/10.31234/osf.io/sdbqv>`_. *PsyArXiv*.
+DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall: How
+open science can realize the potential of naturalistic stimuli
+<https://doi.org/10.1016/j.neuroimage.2019.116330>`_. *NeuroImage*, 116330.
+[`preprint <https://doi.org/10.31234/osf.io/sdbqv>`_]
 
 **Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
 Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
