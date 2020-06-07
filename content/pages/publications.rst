@@ -12,6 +12,11 @@ Publications
 role of auxiliary parameters in evaluating voxel-wise encoding models for 3T
 and 7T BOLD fMRI data <https://doi.org/10.1101/2020.04.07.029397>`_. *bioRxiv*.
 
+**Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2020). `REMoDNaV: Robust
+Eye-Movement Classification for Dynamic Stimulation
+<https://doi.org/10.1101/619254>`_.  *Behavior Research Methods*.  *(first two
+authors contributed equally)*
+
 **Porcu, E.**, Benz, K. M., Ball, F., Tempelmann, C., **Hanke, M.** &
 Noesselt, T. (2020). `Macroscopic information-based taste representations
 in insular cortex are shaped by stimulus concentration
@@ -27,11 +32,6 @@ DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall: How
 open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.1016/j.neuroimage.2019.116330>`_. *NeuroImage*, 116330.
 [`preprint <https://doi.org/10.31234/osf.io/sdbqv>`_]
-
-**Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2019). `REMoDNaV: Robust Eye
-Movement Detection for Natural Viewing <https://doi.org/10.1101/619254>`_.
-*bioRxiv*.
-*(first two authors contributed equally)*
 
 **Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
 The MultiMatch algorithm for gaze comparison in Python
