@@ -8,8 +8,14 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+
+Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
+Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
+O.W. (2021). NFDI-Neuro: Building a community for research data management in
+neuroscience. Neuroforum.
+
 **Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline, J.-B.,
-Halchenko, Y. O. (2020) In defense of decentralized research data management.
+Halchenko, Y. O. (2021) In defense of decentralized research data management. Neuroforum.
 
 **Boos, M.**, Guntupalli, J. S., Rieger, J. W., **Hanke, M.** (2020).  `The
 role of auxiliary parameters in evaluating voxel-wise encoding models for 3T
