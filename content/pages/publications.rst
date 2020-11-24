@@ -11,8 +11,8 @@ Publications
 
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
-O.W. (2021). NFDI-Neuro: Building a community for research data management in
-neuroscience. Neuroforum.
+O.W. (2021). NFDI-Neuro: Building a community for neuroscience research data
+management in Germany. Neuroforum.
 
 **Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline, J.-B.,
 Halchenko, Y. O. (2021) In defense of decentralized research data management. Neuroforum.
