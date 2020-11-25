@@ -14,8 +14,13 @@ Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
 O.W. (2021). NFDI-Neuro: Building a community for neuroscience research data
 management in Germany. Neuroforum.
 
-**Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline, J.-B.,
-Halchenko, Y. O. (2021) In defense of decentralized research data management. Neuroforum.
+**Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline,
+J.-B., Halchenko, Y. O. (2021) In defense of decentralized research data
+management. Neuroforum.
+
+**Häusler, C. O. & Hanke, M.**. (2020) A studyforrest extension, an annotation
+of spoken language in the German dubbed movie “Forrest Gump” and its
+audio-description. *F1000Research*.
 
 **Boos, M.**, Guntupalli, J. S., Rieger, J. W., **Hanke, M.** (2020).  `The
 role of auxiliary parameters in evaluating voxel-wise encoding models for 3T
