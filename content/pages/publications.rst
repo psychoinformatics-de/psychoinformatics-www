@@ -11,14 +11,18 @@ Publications
 
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
-O.W. (2021). NFDI-Neuro: Building a community for neuroscience research data
-management in Germany. Neuroforum.
+O.W. (2021). `NFDI-Neuro: Building a community for neuroscience research data
+management in Germany
+<https://www.degruyter.com/view/journals/nf/ahead-of-print/article-10.1515-nf-2020-0036/article-10.1515-nf-2020-0036.xml>`_.
+Neuroforum, 27(1).
 
 **Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline,
-J.-B., Halchenko, Y. O. (2021) In defense of decentralized research data
-management. Neuroforum.
+J.-B., Halchenko, Y. O. (2021). `In defense of decentralized research data
+management
+<https://www.degruyter.com/view/journals/nf/ahead-of-print/article-10.1515-nf-2020-0037/article-10.1515-nf-2020-0037.xml>`_.
+Neuroforum, 27(1).
 
-**Häusler, C. O. & Hanke, M.**. (2020) A studyforrest extension, an annotation
+**Häusler, C. O. & Hanke, M.**. (2021) A studyforrest extension, an annotation
 of spoken language in the German dubbed movie “Forrest Gump” and its
 audio-description. *F1000Research*.
 
