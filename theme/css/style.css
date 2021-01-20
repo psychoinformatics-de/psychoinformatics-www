@@ -351,6 +351,19 @@ section a.project-logo img {
   section a.project-logo img { max-height: 20vh; }
 }
 
+section .youtube-project-logo,
+section .youtube-iframe {
+  max-height: 40vh;
+  min-width: 50vw;
+  object-fit: scale-down;
+  width: 100%;
+}
+@media screen and (min-width: 768px) {
+  section .youtube-project-logo,
+  section .youtube-iframe {
+  { max-height: 20vh; }
+}
+
 .social-links {
   font-size: 1.6em;
   list-style: none;
@@ -606,4 +619,31 @@ aside a.active {
 @media screen and (min-width: 1000px) {
   #contact > div { flex-basis: 50%; }
   #contact > div:nth-child(2n) { text-align: right; }
+}
+
+
+.youtube {
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    transition: all 200ms ease-out;
+    cursor: pointer;
+}
+
+.youtube .play {
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAHsAAAB7AHenRA+AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAACP9JREFUeNrdW2lUU2cajnPO9MyP6bSdc6ZzjrJLYBBEUDa1xdqCoGhL6oLaVhSQIiibgC1TZyCGKAplD2tImVJEREWQEFKKVRapCGFJQhJBRFnUugXUCkreuR82HBWzkZvF3nOeP5Dce58n3/t+7/YRCBq+4Er+P683HvHvZlLoTWXfVNUURjeX08Lay7PDeKUZoX0IJ2jhfPQ39D/0GV4NpWCo6cgO6M1+l/A6XndbU5ZzquKLmYVRF9Pi/IY3ebuBs5MjLFmyRCmgz2LfkaTH+w+je6B7idvSXfSaNFxO/1tPLfVIbVHMpZhdG0ZdnJ2UJqwIS12c4KuQTWLs3q0CNjURBPQ39Yc4r+Dv3Uxy9rHMUIGnm6sEL9KysNrdFYpTdw9gqyIPBmjv6I44xP1JwE7YV5YVKvrog+WgaeIvw23le1CeFS4U/UiNAoA5WiU/2pXxr+bj+5s/2+Axrm3iL+OLjZ6PL5T/p2m0k2apFfJC9sGA0vQ9A6o4NU3DydEB8g4GDvSwKLs1uuS5NZTvQv29xfpC/GWEB5LE2Dsy0Lvi7OjK3uCxEk5vJq16rK/kpdj4idsEl0lmQj/jL7iRb6+Mr/PycJ3Ud/JSrPVcMdlRFV+H3l3tZY9++bUeHzx9XchLsWaV62TnGfJptcwB2TwWkU0o+1BytC+U5cROBS76IIIPyX2cx6LQZ0VeVEf9MmwnSSWHl0oOBsmjERC1lEJs2Od6IUJk4Pr7l+sOBqu2z2N7auHhoH5VH4YEgCdjgK6Hv4qgtSYDPl69UuciFKeEXB1ry7JS2u5RkIP2VnUEmLokkzDMZ8OxnK91ahaICwqWlIoYUXg72whvhgC/X5OP70FfSzF8FfqZTiNGYR01UmFig2L72T5ElgDS68FNHrSxMmCdjswC5Q5YfPC2TAH4tQk0lGRoSoBnZvEERvisKbPAM2VWBihp4zIpGTLz+ZK0PSJ1HqCUAL9fT3+7C4KGQti7y0erImArXPjKegL26x/G8nnAXYDJcblCiIc4cP5kEqj7bBXqCRI+68ChGQKwvou5pO7NXyXAnb5z2C9NxxzhfdkqTE7A9c5KKEiOhNnsPqqC/b+Y1hk1vH3BG8WaEOCGoA5srYmQGv8lDHYzMR/wVLZZPLoD/PMMCPFbr1EBYvf4iMUd6U7TAnCqyD/g4ZBkCWBlaQZz584FBzsrYBZTQDzMlWsW9wY74RxmFu4fvqcRAVBM0nGG/P20ANX0vRfxuLEiAaTw3+IJXfV5mFmI5ZjFExjoPAP5SRHgqAGzYBZGtTzz/r3Z76bF+w9rUwAEM1MjoCeFwhC3WoFZ3IaeBgYEbSfhKkDWgYAh1LMgoKYFqsFrWwApljsthJ+PU2HsZo9cs7g/2A6NFcmgTpzyPDaTVkkGm5K3E1AXBq/63mwEkCJk+9qpuEAyMSrHLMZhsPM05B8JV9sskM/DgqJcAmpF4bWs1BFAahZFqZFwU1A7lUjJNIuHN0HYyIDAbd5qvW9z2f5KAuYMmvVFAClcl9rBhcpkeHRbJN8srrfCuROJMNu+RA0jqolwKjeCo28CSBEW4A29F4owsxiTaxZX209CzqE9KptFRW5kO6GcFs7XVwEQ5psZAyMlEkYEP8k1i/HRIeiuzwG/reuUft/jtDAeoTQjtFefBZDCzRWz2dOYWdztl5dqwp0rTViwdQBWvL9U4fsi7n84AW73NUJF4X5Y5uKgnACviwncENYrNAEOOxM+8Vg2/V0ikQiLFy+WbwJ/BCfY13ockr7ZAQYG82bcw8DAAKytrWU7QX3eBlFlWW7SdO0isEvIYGNlrvCepqamYGdnN3Mb1KdACC13FAjdErIVBkK8n/Nhvdf7Kgk7b948sLCweDEQ0q9QmK4wFL7GOQUp/w0AQ0ODWfsVIyMjsFtk+ywUvtZw2M/H213vk6F719ugrjQBFi4gqr2jIFhazIfBxiTfZ+lwnJ/O0uFhHlNhOoxqB5s+XoELcSmw3WIMLhf+Q1oQ+UWbAgT7egH3rOKCSD+nElLidqq13GUhLnyj4LmSWHwxHq0rRQI42i+YKomNjvAUlsRqSyiwyMYCd+JSZ3j+6Ncl0wKgIUQ0h6fZomiQUkXRrvp82Er6UCPEpVjmtGhCzEl1fKEyjCYydVkWH+BUYCIFgpEGlvvLSIjeInpFU5SaiJoG+DdGJhSWun48mgD2Cy01ThzBxNgIOqriEme2xgT0N4+ma7c1hhzhDh93rRCXYudWj1syR235tZQsbTRHh7hMYHwbBsZGhlolb4Q9r/FYbI7s9vgA7R3UQtZke7yl6ltwXmKtVeLT0abvmhvQl/uW3BmBK2cT927fvPo3vAckRE1FELTNSyfEESyIZpKuanKkEiMyMAeNk+A1IjPEq4XC5FDM+RjqjDza9+mHAjuUHqoe7ci0KEoOvqKOAA9uCaGxIglcdLTcn8cX61feFXPSiCqPyUXt2jCrMTlew/dYuLtW58QRFi9a8IRbnRAw20FJhg9pldIDU2hQsjg9CkxNjPSCPHG+maShNLZIjVFZmNPNJJev81R+VBbV4FDRQdfkTUyMobogslbtyXE0cIwGj9d5rlRpWNrGxmbK+eiCvClGviov4jxcyv0zruPyWz5VbVwe1eCMjY21St7SYr6ExYiuwY38i5PjFDqavVVFBGQS5ubmWiHv4mA73nJiP0OjZ4h6z1J90WFHVeuIVlZWGt3nfTd8dLu3/mCgdg5NYXECCpa2bfJUKWK0tbUFQ0N8AyJrK+Lk0fSQNnFblrmWj83BHCE7YS/KHVQZZrK3t8c8tAkuic2+XaTByz9Rw7V+bO4FIfoZbwvYCanltHCusvUEdbZKtL0Ffe7568VTcTSFiY1WhcBybD6LkoiGENEcnjI1RtSyUmarRJ9xdlg4cSDKR9R1Jv4Q8LL+qtfniMWdmc5oDq+GEf1LJtl/CA0kyZpDRFslalTMjOJMYY2b84N/7/5U1FgW+8PD7gyH1/IkOaq9o2ksLpOSh1pRLEZM04nssPaT2RHTx+dL0nb3hPt7XSVH+PAZh3eevXQqrmCkOXnbdN1eg9f/AbLSQllDOZ6qAAAAAElFTkSuQmCC") no-repeat center center;
+    background-size: 64px 64px;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: .5;
+    filter: alpha(opacity=50);
+    transition: all 0.2s ease-out;
+}
+
+.youtube .play:hover {
+    opacity: .8;
+    filter: alpha(opacity=80);
 }

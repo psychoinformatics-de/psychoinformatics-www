@@ -56,9 +56,8 @@
   projects — all of which are Free and Open Source.</p>
 
   <section id="datalad" class="alternate">
-    <a class="project-logo" href="http://datalad.org">
-      <img alt="DataLad Logo" src="/img/logo/datalad.png" />
-    </a>
+    <div class="youtube youtube-project-logo" id="IN0vowZ67vs" data-thumbnail="/img/logo/datalad.png" data-params="modestbranding=1&amp;showinfo=0&amp;controls=0&amp;vq=hd720" style="width=768px; height: 250px;">
+    </div>
 
     <p>DataLad aims to provide access to scientific data available from various
     sources (e.g. lab or consortium websites such as Human Connectome; data
@@ -140,6 +139,62 @@
       <li><a class="icon-github" aria-label="GitHub" href="https://github.com/nipy/nibabel"></a></li>
     </ul>
   </section>
+
+<script id="youtubeplayer">
+"use strict";
+function r(f) {/in/.test(document.readyState) ? setTimeout('r(' + f + ')', 9) : f();}
+r(function () {
+  if (!document.getElementsByClassName) {
+    // IE8 support
+    var getElementsByClassName = function (node, classname) {
+      var a = [];
+      var re = new RegExp('(^| )' + classname + '( |$)');
+      var els = node.getElementsByTagName("*");
+      for (var i = 0, j = els.length; i < j; i++) {
+        if (re.test(els[i].className)) a.push(els[i]);}
+      return a;
+    };
+    var videos = getElementsByClassName(document.body, "youtube");
+  } else
+  {
+    var videos = document.getElementsByClassName("youtube");
+  }
+
+  var nb_videos = videos.length;
+  for (var i = 0; i < nb_videos; i++) {
+    vid = videos[i]
+    if (vid.getAttribute("data-thumbnail")) {
+      vid.style.backgroundImage = 'url(' + vid.getAttribute("data-thumbnail") + ')';
+    } else {
+      // Based on the YouTube ID, we can easily find the thumbnail image
+      vid.style.backgroundImage = 'url(http://i.ytimg.com/vi/' + vid.id + '/sddefault.jpg)';
+    }
+
+    // Overlay the Play icon to make it look like a video player
+    var play = document.createElement("div");
+    play.setAttribute("class", "play");
+    vid.appendChild(play);
+
+    vid.onclick = function () {
+      // Create an iFrame with autoplay set to true
+      var iframe = document.createElement("iframe");
+      var iframe_url = "https://www.youtube.com/embed/" + this.id + "?autoplay=1&autohide=1";
+      if (this.getAttribute("data-params")) iframe_url += '&' + this.getAttribute("data-params");
+      iframe.setAttribute("src", iframe_url);
+      iframe.setAttribute("frameborder", '0');
+      iframe.setAttribute("class", 'youtube-iframe');
+
+      // The height and width of the iFrame should be the same as parent
+      iframe.style.width = this.style.width;
+      iframe.style.height = this.style.height;
+
+      // Replace the YouTube thumbnail with YouTube Player
+      this.parentNode.replaceChild(iframe, this);
+    };
+  }
+});
+</script>
+
 
   </div>
 </article>
