@@ -32,14 +32,14 @@ and 7T BOLD fMRI data <https://doi.org/10.1101/2020.04.07.029397>`_. *bioRxiv*.
 
 **Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2020). `REMoDNaV: Robust
 Eye-Movement Classification for Dynamic Stimulation
-<https://doi.org/10.1101/619254>`_.  *Behavior Research Methods*.  *(first two
-authors contributed equally)*
+<https://doi.org/10.3758/s13428-020-01428-x>`_.  *Behavior Research Methods*.
+*(first two authors contributed equally)*
 
 **Porcu, E.**, Benz, K. M., Ball, F., Tempelmann, C., **Hanke, M.** &
 Noesselt, T. (2020). `Macroscopic information-based taste representations
 in insular cortex are shaped by stimulus concentration
 <https://doi.org/10.1073/pnas.1916329117>`_.
-*Proceedings of the National Academy of Sciences*.
+*Proceedings of the National Academy of Sciences*, 117, 7409-7417.
 
 Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S.  (2019).
 `Individual face and house-related eye movement patterns distinctively activate
