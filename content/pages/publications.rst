@@ -22,9 +22,10 @@ management
 <https://www.degruyter.com/view/journals/nf/ahead-of-print/article-10.1515-nf-2020-0037/article-10.1515-nf-2020-0037.xml>`_.
 Neuroforum, 27(1).
 
-**Häusler, C. O. & Hanke, M.**. (2021) A studyforrest extension, an annotation
+**Häusler, C. O. & Hanke, M.**. (2021) `A studyforrest extension, an annotation
 of spoken language in the German dubbed movie “Forrest Gump” and its
-audio-description. *F1000Research*.
+audio-description <https://doi.org/10.12688/f1000research.27621.1>`_.
+*F1000Research*, 10:54.
 
 **Boos, M.**, Guntupalli, J. S., Rieger, J. W., **Hanke, M.** (2020).  `The
 role of auxiliary parameters in evaluating voxel-wise encoding models for 3T
