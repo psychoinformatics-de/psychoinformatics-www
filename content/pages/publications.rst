@@ -8,6 +8,9 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (submitted).
+Processing of visual and non-visual naturalistic spatial information in
+the "parahippocampal place area".
 
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
