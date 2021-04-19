@@ -357,11 +357,13 @@ section .youtube-iframe {
   min-width: 50vw;
   object-fit: scale-down;
   width: 100%;
+  background-size: contain;
 }
 @media screen and (min-width: 768px) {
   section .youtube-project-logo,
   section .youtube-iframe {
-  { max-height: 20vh; }
+    max-height: 20vh;
+  }
 }
 
 .social-links {
