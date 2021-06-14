@@ -12,6 +12,12 @@ Publications
 Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area".
 
+**Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
+Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. `The effects of
+multi-echo fMRI combination and rapid T2*-mapping on offline and real-time
+BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
+*NeuroImage*, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`_]
+
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
 O.W. (2021). `NFDI-Neuro: Building a community for neuroscience research data
