@@ -64,7 +64,7 @@ License:
 ----
 
 Files:
-  img/logo/neurodebian.png
+  img/logo/neurodebian.svg
 Copyright:
   Michael Hanke
 License:
@@ -73,7 +73,7 @@ License:
 ----
 
 Files:
-  img/logo/nibabel.png
+  img/logo/nibabel.svg
 Copyright:
   2016, Alex Waite and Michael Hanke
 License:
@@ -82,7 +82,7 @@ License:
 ----
 
 Files:
-  img/logo/pymvpa.png
+  img/logo/pymvpa.svg
 Copyright:
   2010
 License:
