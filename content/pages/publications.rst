@@ -16,7 +16,7 @@ the "parahippocampal place area".
 Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. `The effects of
 multi-echo fMRI combination and rapid T2*-mapping on offline and real-time
 BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
-*NeuroImage*, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`_]
+*NeuroImage*, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`__]
 
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
@@ -59,7 +59,7 @@ FFA and PPA in the absence of faces and houses.
 DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall: How
 open science can realize the potential of naturalistic stimuli
 <https://doi.org/10.1016/j.neuroimage.2019.116330>`_. *NeuroImage*, 116330.
-[`preprint <https://doi.org/10.31234/osf.io/sdbqv>`_]
+[`preprint <https://doi.org/10.31234/osf.io/sdbqv>`__]
 
 **Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
 The MultiMatch algorithm for gaze comparison in Python
