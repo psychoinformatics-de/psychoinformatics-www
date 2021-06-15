@@ -32,7 +32,6 @@ FEED_ALL_ATOM = None
 #
 # Configure the site
 #
-STATIC_PATHS = ['img']
 MENUITEMS = (('home', 'index.html'),
              ('people', 'lab-members.html'),
              ('research', 'research.html'),
@@ -41,6 +40,19 @@ MENUITEMS = (('home', 'index.html'),
              ('publications', 'publications.html'),
              ('contact', 'contact.html'),
 )
+STATIC_PATHS = ['img/', 'static/']
+EXTRA_PATH_METADATA = {
+    "static/apple-touch-icon.png": {'path': ''},
+    "static/browserconfig.xml": {'path': ''},
+    "static/favicon-16x16.png": {'path': ''},
+    "static/favicon-32x32.png": {'path': ''},
+    "static/favicon.ico": {'path': ''},
+    "static/humans.txt": {'path': ''},
+    "static/leitfaden.pdf": {'path': ''},
+    "static/manifest.json": {'path': ''},
+    "static/mstile-150x150.png": {'path': ''},
+    "static/robots.txt": {'path': ''},
+}
 
 DEFAULT_PAGINATION = False
 
