@@ -26,6 +26,20 @@
 </div>
 
 <h2>In The Media</h2>
+<p>The jury of the <a href="https://sites.google.com/view/brain-art-competition-2021/home">
+   2021 OHBM Brain Art Competition</a> awarded our submission second place in the category
+   videos &amp; animations. The 1:20 min video is a visualization of the provenance information
+   captured by DataLad for processing 41,180 brain images from one of the largest datasets
+   of this kind, the <a href="https://www.ukbiobank.ac.uk">UKBiobank</a>.
+</p>
+
+<div class="youtube youtube-project-logo"
+   id="UsW6xN2f2jc"
+   data-thumbnail="/img/ukbvideo_thumb.png"
+   data-params="modestbranding=1&showinfo=0&controls=1&vq=hd720"
+   style="width:100%; height: 300px;">
+</div>
+
 <p>Christian Olaf Häusler's popular science talk "Psychologie &amp;
    Gehirnforschung treffen Hollywood: Was können Neurowissenschaftler in Deinem
    Gehirn sehen, während Du einen Film schaust?" has been covered in
@@ -59,5 +73,61 @@
    <a href="http://heise.de/-2210869">Open Science: Forschungsdaten frei
       zugänglich. Magdeburger Hirnforscher veröffentlichen den bislang
       umfangreichsten Rohdatensatz über die Verarbeitung von Sprache im Gehirn</a>.</p>
+
+<script id="youtubeplayer">
+"use strict";
+function r(f) {/in/.test(document.readyState) ? setTimeout('r(' + f + ')', 9) : f();}
+r(function () {
+  if (!document.getElementsByClassName) {
+    // IE8 support
+    var getElementsByClassName = function (node, classname) {
+      var a = [];
+      var re = new RegExp('(^| )' + classname + '( |$)');
+      var els = node.getElementsByTagName("*");
+      for (var i = 0, j = els.length; i < j; i++) {
+        if (re.test(els[i].className)) a.push(els[i]);}
+      return a;
+    };
+    var videos = getElementsByClassName(document.body, "youtube");
+  } else
+  {
+    var videos = document.getElementsByClassName("youtube");
+  }
+
+  var nb_videos = videos.length;
+  for (var i = 0; i < nb_videos; i++) {
+    vid = videos[i]
+    if (vid.getAttribute("data-thumbnail")) {
+      vid.style.backgroundImage = 'url(' + vid.getAttribute("data-thumbnail") + ')';
+    } else {
+      // Based on the YouTube ID, we can easily find the thumbnail image
+      vid.style.backgroundImage = 'url(http://i.ytimg.com/vi/' + vid.id + '/sddefault.jpg)';
+    }
+
+    // Overlay the Play icon to make it look like a video player
+    var play = document.createElement("div");
+    play.setAttribute("class", "play");
+    vid.appendChild(play);
+
+    vid.onclick = function () {
+      // Create an iFrame with autoplay set to true
+      var iframe = document.createElement("iframe");
+      var iframe_url = "https://www.youtube.com/embed/" + this.id + "?autoplay=1&autohide=1";
+      if (this.getAttribute("data-params")) iframe_url += '&' + this.getAttribute("data-params");
+      iframe.setAttribute("src", iframe_url);
+      iframe.setAttribute("frameborder", '0');
+      iframe.setAttribute("class", 'youtube-iframe');
+
+      // The height and width of the iFrame should be the same as parent
+      iframe.style.width = this.style.width;
+      iframe.style.height = this.style.height;
+
+      // Replace the YouTube thumbnail with YouTube Player
+      this.parentNode.replaceChild(iframe, this);
+    };
+  }
+});
+</script>
+
 </body>
 </html>
