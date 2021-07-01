@@ -8,6 +8,16 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Halchenko, Y. O., Meyer, K., **Poldrack, B.**, Solanky, D. S., **Wagner, A.
+S.**, Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S. S., **Mönch,
+C.**, Markiewicz, C. J., **Waite, L.**, Shlyakhter, I., de la Vega, A., ,
+Hayashi, S., **Häusler, C. O.**, Poline, J.-B., Kadelka, T., Skytén, K.,
+Jarecka, D., Kennedy, D., Strauss, T., Cieslak, M., Vavra, P., Ioanas, H.-I.,
+Schneider, R., Pflüger, M., Haxby, J. V., Eickhoff, S. B. & **Hanke, M.**.
+`DataLad: distributed system for joint management of code, data, and their
+relationship <https://doi.org/10.21105/joss.03262>`__.  Journal of Open Source
+Software, 6(63), 3262.
+
 **Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (submitted).
 Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area".
