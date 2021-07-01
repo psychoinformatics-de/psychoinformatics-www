@@ -18,7 +18,7 @@ Schneider, R., Pflüger, M., Haxby, J. V., Eickhoff, S. B. & **Hanke, M.**.
 relationship <https://doi.org/10.21105/joss.03262>`__.  Journal of Open Source
 Software, 6(63), 3262.
 
-**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (submitted).
+**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (under revision).
 Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area".
 
