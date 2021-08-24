@@ -8,6 +8,8 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Levitis, E.. Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A. S.**, [...] Camille Maumet. (2021) `Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective <https://doi.org/10.1093/gigascience/giab051>`_. GigaScience, 10(8), giab051.
+
 Halchenko, Y. O., Meyer, K., **Poldrack, B.**, Solanky, D. S., **Wagner, A.
 S.**, Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S. S., **Mönch,
 C.**, Markiewicz, C. J., **Waite, L.**, Shlyakhter, I., de la Vega, A., ,
