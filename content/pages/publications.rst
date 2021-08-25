@@ -8,7 +8,10 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
-Levitis, E.. Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A. S.**, [...] Camille Maumet. (2021) `Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective <https://doi.org/10.1093/gigascience/giab051>`_. GigaScience, 10(8), giab051.
+Levitis, E.. Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A.
+S.**, [...] Camille Maumet. (2021) `Centering inclusivity in the design of
+online conferences—An OHBM–Open Science perspective
+<https://doi.org/10.1093/gigascience/giab051>`_. GigaScience, 10(8), giab051.
 
 Halchenko, Y. O., Meyer, K., **Poldrack, B.**, Solanky, D. S., **Wagner, A.
 S.**, Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S. S., **Mönch,
@@ -25,23 +28,20 @@ Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area".
 
 **Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
-Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. `The effects of
+Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. (2021). `The effects of
 multi-echo fMRI combination and rapid T2*-mapping on offline and real-time
 BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
-*NeuroImage*, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`__]
+*NeuroImage*, 238, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`__]
 
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
 O.W. (2021). `NFDI-Neuro: Building a community for neuroscience research data
-management in Germany
-<https://www.degruyter.com/view/journals/nf/ahead-of-print/article-10.1515-nf-2020-0036/article-10.1515-nf-2020-0036.xml>`_.
-Neuroforum, 27(1).
+management in Germany <https://doi.org/10.1515/nf-2020-0036>`_. Neuroforum,
+27(1).
 
 **Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline,
 J.-B., Halchenko, Y. O. (2021). `In defense of decentralized research data
-management
-<https://www.degruyter.com/view/journals/nf/ahead-of-print/article-10.1515-nf-2020-0037/article-10.1515-nf-2020-0037.xml>`_.
-Neuroforum, 27(1).
+management <https://doi.org/10.1515/nf-2020-0037>`_.  Neuroforum, 27(1).
 
 **Häusler, C. O. & Hanke, M.**. (2021) `A studyforrest extension, an annotation
 of spoken language in the German dubbed movie “Forrest Gump” and its
@@ -54,8 +54,8 @@ and 7T BOLD fMRI data <https://doi.org/10.1101/2020.04.07.029397>`_. *bioRxiv*.
 
 **Dar, A. H.**, **Wagner, A. S. & Hanke, M.** (2020). `REMoDNaV: Robust
 Eye-Movement Classification for Dynamic Stimulation
-<https://doi.org/10.3758/s13428-020-01428-x>`_.  *Behavior Research Methods*.
-*(first two authors contributed equally)*
+<https://doi.org/10.3758/s13428-020-01428-x>`_.  *Behavior Research Methods*,
+53, 399–414.  *(first two authors contributed equally)*
 
 **Porcu, E.**, Benz, K. M., Ball, F., Tempelmann, C., **Hanke, M.** &
 Noesselt, T. (2020). `Macroscopic information-based taste representations
@@ -66,25 +66,28 @@ in insular cortex are shaped by stimulus concentration
 Wang, L., Baumgartner, F., Kaule, F. R., **Hanke, M.** & Pollmann, S.  (2019).
 `Individual face and house-related eye movement patterns distinctively activate
 FFA and PPA in the absence of faces and houses.
-<https://doi.org/10.1038/s41467-019-13541-3>`_.  *Nature Communications*.
+<https://doi.org/10.1038/s41467-019-13541-3>`_.  *Nature Communications*, 10,
+5532.
 
 DuPre, E., **Hanke, M.** & Poline, J.-B. (2019). `Nature abhors a paywall: How
 open science can realize the potential of naturalistic stimuli
-<https://doi.org/10.1016/j.neuroimage.2019.116330>`_. *NeuroImage*, 116330.
+<https://doi.org/10.1016/j.neuroimage.2019.116330>`_. *NeuroImage*, 216, 116330.
 [`preprint <https://doi.org/10.31234/osf.io/sdbqv>`__]
 
 **Wagner, A. S.,** Halchenko, Y. O. & **Hanke, M.** (2019). `multimatch_gaze:
 The MultiMatch algorithm for gaze comparison in Python
-<https://doi.org/10.21105/joss.01525>`_. *The Journal of Open Source Software*.
+<https://doi.org/10.21105/joss.01525>`_. *The Journal of Open Source Software*,
+4(40), 1525.
 
 Yarkoni, T., Markiewicz, C. J., de la Vega, A., Gorgolewski, K. J., Salo, T.,
 Halchenko, Y. O., McNamara, Q., DeStasio, K., Poline, J.-B., Petrov, D.,
-Hayot-Sasson, V., Nielson, D. M., Carlin, J., Kiar, G., Whitaker, K.,
-DuPre, E., **Wagner, A. S.**, Tirrell, L. S., Jas, M., **Hanke, M.**,
-Poldrack, R. A., Esteban, O., Appelhoff, S., Holdgraf, C., Staden, I.,
-Thirion, B., Kleinschmidt, D. F., Lee, J. A., Visconti di Oleggio Castello, M.,
-Notter, M. P & Blair, R. (2019). `PyBIDS: Python tools for BIDS datasets
-<https://doi.org/10.21105/joss.01294>`_. *The Journal of Open Source Software*.
+Hayot-Sasson, V., Nielson, D. M., Carlin, J., Kiar, G., Whitaker, K., DuPre,
+E., **Wagner, A. S.**, Tirrell, L. S., Jas, M., **Hanke, M.**, Poldrack, R. A.,
+Esteban, O., Appelhoff, S., Holdgraf, C., Staden, I., Thirion, B.,
+Kleinschmidt, D. F., Lee, J. A., Visconti di Oleggio Castello, M., Notter, M. P
+& Blair, R. (2019). `PyBIDS: Python tools for BIDS datasets
+<https://doi.org/10.21105/joss.01294>`_. *The Journal of Open Source Software*,
+4(40), 1294.
 
 **Hanke, M.,** Mathôt, S., Ort, E., Peitek, N., Stadler, S. & **Wagner, A. S.**
 (2019).  A practical guide to functional magnetic resonance imaging with
@@ -93,8 +96,8 @@ simultaneous eye tracking for cognitive neuroimaging research. In Pollmann, S.
 
 Abram, S., **Hanke, M.**, Redish, A. D. & MacDonald, A. W. (2019). `Neural
 signatures underlying deliberation in human foraging decisions
-<https://doi.org/10.3758/s13415-019-00733-z>`_. *Cognitive, Affective, and Behavioral
-Neuroscience*.
+<https://doi.org/10.3758/s13415-019-00733-z>`_. *Cognitive, Affective, and
+Behavioral Neuroscience*, 19, 1492–1508.
 
 Kennedy, D. N., Abraham, S. A., Bates, J. F., Crowley, A., Ghosh, S., Gillespie, T.,
 Goncalves, M., Grethe, J. S., Halchenko, Y. O., **Hanke, M.**, Haselgrove, C.,
