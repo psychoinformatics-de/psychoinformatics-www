@@ -5,7 +5,7 @@
   <meta name="url" content="lab-members.html" />
 </head>
 <body>
-  <section class="members">
+  <section class="members shuffle">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/hanke.png);"></div>
       <div class="info">
@@ -166,7 +166,7 @@
   </section>
 
   <h2>Alumni</h2>
-  <section class="members alumni">
+  <section class="members alumni shuffle">
     <div class="mem">
       <div class="mugshot" style="background-image: url(/img/mugshots/bayer.png);"></div>
       <div class="info">
@@ -373,5 +373,14 @@
       </div>
     </div>
   </section>
+  <script>
+  // Shuffle the order of the members list.
+  var shuf_it_like_its_hot = document.getElementsByClassName('shuffle');
+  Array.from(shuf_it_like_its_hot).forEach((el) => {
+    for (var i = el.children.length; i >= 0; i--) {
+      el.appendChild(el.children[Math.random() * i | 0]);
+    }
+  });
+  </script>
 </body>
 </html>
