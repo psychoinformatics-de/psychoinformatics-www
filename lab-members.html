@@ -415,8 +415,8 @@
   </section>
   <script>
   // Shuffle the order of the members list.
-  var shuffle = document.getElementsByClassName('shuffle');
-  Array.from(shuffle).forEach((el) => {
+  var shuf_it_like_its_hot = document.getElementsByClassName('shuffle');
+  Array.from(shuf_it_like_its_hot).forEach((el) => {
     for (var i = el.children.length; i >= 0; i--) {
       el.appendChild(el.children[Math.random() * i | 0]);
     }
