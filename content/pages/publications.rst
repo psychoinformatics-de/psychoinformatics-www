@@ -8,7 +8,19 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
-Levitis, E.. Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A.
+**Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
+**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2021)
+FAIRly big: A framework for computationally reproducible processing of
+large-scale data.
+[`preprint <https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1>`__]
+
+**Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
+Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. (2021). `The effects of
+multi-echo fMRI combination and rapid T2*-mapping on offline and real-time
+BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
+*NeuroImage*, 238, 118244. [`preprint <https://doi.org/10.1101/2020.12.08.416768>`__]
+
+Levitis, E., Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A. S.
 S.**, [...] Camille Maumet. (2021) `Centering inclusivity in the design of
 online conferences—An OHBM–Open Science perspective
 <https://doi.org/10.1093/gigascience/giab051>`_. GigaScience, 10(8), giab051.
