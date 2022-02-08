@@ -9,9 +9,9 @@ Publications
   <div class="publications">
 
 **Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
-**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2021)
+**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2022)
 FAIRly big: A framework for computationally reproducible processing of
-large-scale data.
+large-scale data. *Scientific Data*.
 [`preprint <https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1>`__]
 
 **Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
