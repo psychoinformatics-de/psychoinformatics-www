@@ -23,7 +23,7 @@ BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
 Levitis, E., Gould van Praag, C.D., Gau, R., **Heunis, S.**, [...] **Wagner, A. S.
 S.**, [...] Camille Maumet. (2021) `Centering inclusivity in the design of
 online conferences—An OHBM–Open Science perspective
-<https://doi.org/10.1093/gigascience/giab051>`_. GigaScience, 10(8), giab051.
+<https://doi.org/10.1093/gigascience/giab051>`_. *GigaScience*, 10(8), giab051.
 
 Halchenko, Y. O., Meyer, K., **Poldrack, B.**, Solanky, D. S., **Wagner, A.
 S.**, Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S. S., **Mönch,
@@ -32,8 +32,8 @@ Hayashi, S., **Häusler, C. O.**, Poline, J.-B., Kadelka, T., Skytén, K.,
 Jarecka, D., Kennedy, D., Strauss, T., Cieslak, M., Vavra, P., Ioanas, H.-I.,
 Schneider, R., Pflüger, M., Haxby, J. V., Eickhoff, S. B. & **Hanke, M.**.
 `DataLad: distributed system for joint management of code, data, and their
-relationship <https://doi.org/10.21105/joss.03262>`__.  Journal of Open Source
-Software, 6(63), 3262.
+relationship <https://doi.org/10.21105/joss.03262>`__.  *Journal of Open Source
+Software*, 6(63), 3262.
 
 **Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (accepted).
 Processing of visual and non-visual naturalistic spatial information in
@@ -48,12 +48,12 @@ BOLD sensitivity <https://doi.org/10.1016/j.neuroimage.2021.118244>`_.
 Wachtler, T., Bauer, P., Denker, M., Grün, S., **Hanke, M.**, Klein, J.,
 Oeltze-Jafra, S., Ritter, P., Rotter, S., Scherberger, H., Stein, A. & Witte,
 O.W. (2021). `NFDI-Neuro: Building a community for neuroscience research data
-management in Germany <https://doi.org/10.1515/nf-2020-0036>`_. Neuroforum,
+management in Germany <https://doi.org/10.1515/nf-2020-0036>`_. *Neuroforum*,
 27(1).
 
 **Hanke, M.**, Pestilli, F., **Wagner, A. S.**, Markiewicz, C. J., Poline,
 J.-B., Halchenko, Y. O. (2021). `In defense of decentralized research data
-management <https://doi.org/10.1515/nf-2020-0037>`_.  Neuroforum, 27(1).
+management <https://doi.org/10.1515/nf-2020-0037>`_.  *Neuroforum*, 27(1).
 
 **Häusler, C. O. & Hanke, M.**. (2021) `A studyforrest extension, an annotation
 of spoken language in the German dubbed movie “Forrest Gump” and its
