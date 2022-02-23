@@ -9,10 +9,14 @@ Publications
   <div class="publications">
 
 **Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
-**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2022)
+**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (accepted, 2022)
 FAIRly big: A framework for computationally reproducible processing of
 large-scale data. *Scientific Data*.
 [`preprint <https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1>`__]
+
+**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (accepted, 2022).
+Processing of visual and non-visual naturalistic spatial information in
+the "parahippocampal place area". *Scientific Data*.
 
 **Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
 Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. (2021). `The effects of
@@ -30,14 +34,10 @@ S.**, Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S. S., **Mönch,
 C.**, Markiewicz, C. J., **Waite, L.**, Shlyakhter, I., de la Vega, A., ,
 Hayashi, S., **Häusler, C. O.**, Poline, J.-B., Kadelka, T., Skytén, K.,
 Jarecka, D., Kennedy, D., Strauss, T., Cieslak, M., Vavra, P., Ioanas, H.-I.,
-Schneider, R., Pflüger, M., Haxby, J. V., Eickhoff, S. B. & **Hanke, M.**.
+Schneider, R., Pflüger, M., Haxby, J. V., Eickhoff, S. B. & **Hanke, M.** (2021).
 `DataLad: distributed system for joint management of code, data, and their
 relationship <https://doi.org/10.21105/joss.03262>`__.  *Journal of Open Source
 Software*, 6(63), 3262.
-
-**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (accepted).
-Processing of visual and non-visual naturalistic spatial information in
-the "parahippocampal place area". *Scientific Data*.
 
 **Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
 Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. (2021). `The effects of
