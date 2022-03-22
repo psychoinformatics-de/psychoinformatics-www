@@ -8,15 +8,15 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
-**Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
-**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (accepted, 2022)
-FAIRly big: A framework for computationally reproducible processing of
-large-scale data. *Scientific Data*.
-[`preprint <https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1>`__]
-
 **Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (accepted, 2022).
 Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area". *Scientific Data*.
+
+**Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
+**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2022)
+`FAIRly big: A framework for computationally reproducible processing of
+large-scale data <https://doi.org/10.1038/s41597-022-01163-2>`_. *Scientific Data*,
+9, 80.
 
 **Heunis, S.**, Breeuwer, M., Caballero-Gaudes, C., Hellrung, L., Huijbers, W.,
 Jansen, J., Lamerichs, R., Zinger, S. & Aldenkamp, A. (2021). `The effects of
