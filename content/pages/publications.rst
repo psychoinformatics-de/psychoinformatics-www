@@ -8,9 +8,9 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
-**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (accepted, 2022).
-Processing of visual and non-visual naturalistic spatial information in
-the "parahippocampal place area". *Scientific Data*.
+**Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (2022).
+`Processing of visual and non-visual naturalistic spatial information in
+the "parahippocampal place area" <https://doi.org/10.1038/s41597-022-01250-4>`_. *Scientific Data*, 9, 147.
 
 **Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
 **Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2022)
