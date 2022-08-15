@@ -8,12 +8,16 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Wu, J., Li, J., Eickhoff, S. B., Hoffstaedter, F., **Hanke, M.**, Yeo, B. T. T.
+& Genon, S. (2022). Cross-cohort replicability and generalizability of
+connectivity-based psychometric prediction patterns. *NeuroImage*.
+
 **Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (2022).
 `Processing of visual and non-visual naturalistic spatial information in
 the "parahippocampal place area" <https://doi.org/10.1038/s41597-022-01250-4>`_. *Scientific Data*, 9, 147.
 
 **Wagner, A. S.**, **Waite, L. K.**, **Wierzba, M.**, Hoffstaedter, F.
-**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B., **Hanke, M.** (2022)
+**Waite, A. Q.**, **Poldrack, B.**, Eickhoff, S. B. & **Hanke, M.** (2022)
 `FAIRly big: A framework for computationally reproducible processing of
 large-scale data <https://doi.org/10.1038/s41597-022-01163-2>`_. *Scientific Data*,
 9, 80.
