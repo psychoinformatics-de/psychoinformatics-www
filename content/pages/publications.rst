@@ -8,6 +8,12 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Kaźmierowska, A. M., **Szczepanik, M.**, Wypych, M., Droździel, D.,
+Marchewka, A., Michałowski, J. M., Olsson, A., Knapska, E. (2022).
+`Learning about threat from  friends and strangers is equally effective:
+An fMRI study on observational fear conditioning. <https://doi.org/10.1016/j.neuroimage.2022.119648>`_
+*NeuroImage*, 263, 119648.
+
 Wu, J., Li, J., Eickhoff, S. B., Hoffstaedter, F., **Hanke, M.**, Yeo, B. T. T.
 & Genon, S. (2022). Cross-cohort replicability and generalizability of
 connectivity-based psychometric prediction patterns. *NeuroImage*.
