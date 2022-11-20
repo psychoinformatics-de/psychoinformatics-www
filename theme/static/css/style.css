@@ -22,8 +22,8 @@
 
 @font-face { /* License: OFL 1.1 */
   font-family: 'fontello';
-  src: url('/theme/fonts/fontello.woff2?75734824') format('woff2'),
-       url('/theme/fonts/fontello.woff?75734824') format('woff');
+  src: url('/theme/fonts/fontello.woff2?71235463') format('woff2'),
+       url('/theme/fonts/fontello.woff?71235463') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -59,6 +59,7 @@
 .icon-mail::before { content: '\e801'; }
 .icon-phone::before { content: '\e802'; }
 .icon-gpg::before { content: '\e803'; }
+.icon-mastodon::before { content: '\e804'; }
 .icon-google-scholar::before { content: '\e900'; }
 .icon-research-gate::before { content: '\e902'; }
 .icon-orcid::before { content: '\e906'; }
@@ -428,6 +429,8 @@ section .youtube-iframe {
 .social-links .icon-research-gate::after    { border-color:     #00d0af; }
 .social-links .icon-twitter                 { background-color: #4da7de; }
 .social-links .icon-twitter::after          { border-color:     #4da7de; }
+.social-links .icon-mastodon                { background-color: #5b4adf; }
+.social-links .icon-mastodon::after         { border-color:     #5b4adf; }
 
 /*
  *  State
