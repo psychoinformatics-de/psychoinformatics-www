@@ -63,6 +63,7 @@
 .icon-research-gate::before { content: '\e902'; }
 .icon-orcid::before { content: '\e906'; }
 .icon-twitter::before { content: '\f099'; }
+.icon-mastodon::before { content: '\f4f6'; }
 .icon-github::before { content: '\f09b'; }
 .icon-linkedin::before { content: '\f0e1'; }
 .icon-debian::before { content: '\f102'; }
