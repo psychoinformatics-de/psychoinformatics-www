@@ -429,6 +429,8 @@ section .youtube-iframe {
 .social-links .icon-research-gate::after    { border-color:     #00d0af; }
 .social-links .icon-twitter                 { background-color: #4da7de; }
 .social-links .icon-twitter::after          { border-color:     #4da7de; }
+.social-links .icon-mastodon                { background-color: #5b4adf; }
+.social-links .icon-mastodon::after         { border-color:     #5b4adf; }
 
 /*
  *  State
