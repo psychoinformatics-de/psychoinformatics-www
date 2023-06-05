@@ -8,6 +8,11 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Kalantari, A., **Szczepanik, M.**, **Heunis, S.**, **Mönch, C.**, **Hanke,
+M.**, Wachtler, T. & Aswendt, M. (2023) `How to establish and maintain a
+multimodal animal research dataset using DataLad
+<https://doi.org/10.1038/s41597-023-02242-8>`_. *Scientific Data*, 10, 357.
+
 Kaźmierowska, A. M., **Szczepanik, M.**, Wypych, M., Droździel, D.,
 Marchewka, A., Michałowski, J. M., Olsson, A., Knapska, E. (2022).
 `Learning about threat from  friends and strangers is equally effective:
