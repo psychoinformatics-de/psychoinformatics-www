@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 #
 AUTHOR = 'Michael Hanke & Alex Waite'
 SITETITLE = 'Psycho&shy;informatics'
-SITESUBTITLE = 'at <a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html">Jülich</a>'
+SITESUBTITLE = 'at <a href="https://www.fz-juelich.de/en/inm/inm-7">Jülich</a>/<a href="https://www.uniklinik-duesseldorf.de/en/institute-of-systems-neuroscience/teamcontact">Düsseldorf</a>'
 SITENAME = 'Psychoinformatics'
 SITEURL = ''
 
