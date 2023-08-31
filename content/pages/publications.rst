@@ -20,8 +20,9 @@ An fMRI study on observational fear conditioning. <https://doi.org/10.1016/j.neu
 *NeuroImage*, 263, 119648.
 
 Wu, J., Li, J., Eickhoff, S. B., Hoffstaedter, F., **Hanke, M.**, Yeo, B. T. T.
-& Genon, S. (2022). Cross-cohort replicability and generalizability of
-connectivity-based psychometric prediction patterns. *NeuroImage*.
+& Genon, S. (2022). `Cross-cohort replicability and generalizability of
+connectivity-based psychometric prediction patterns
+<https://doi.org/10.1016/j.neuroimage.2022.119569>`. *NeuroImage*, 262:119569.
 
 **Häusler, C. O.**, Eickhoff, S. B. & **Hanke, M.** (2022).
 `Processing of visual and non-visual naturalistic spatial information in
