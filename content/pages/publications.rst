@@ -8,10 +8,25 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Zhao, C., Jarecka, D., Covitz, S., Chen, Y., Eickhoff, S. B., Fair, D. A.,
+Franco, A. R., Halchenko, Y. O., Hendrickson, T. J., Hoffstaedter, F.,
+Houghton, A., Kiar, G., Macdonald, A., Mehta, K., Milham, M. P., Salo, T.,
+**Hanke, M.**, Ghosh, S. S., Cieslak, M. & Satterthwaite T. D. (2023). `A
+reproducible and generalizable software workflow for analysis of large-scale
+neuroimaging data collections using BIDS Apps
+<https://doi.org/10.1101/2023.08.16.552472>`_. *bioRxiv*.
+
 Kalantari, A., **Szczepanik, M.**, **Heunis, S.**, **Mönch, C.**, **Hanke,
 M.**, Wachtler, T. & Aswendt, M. (2023) `How to establish and maintain a
 multimodal animal research dataset using DataLad
 <https://doi.org/10.1038/s41597-023-02242-8>`_. *Scientific Data*, 10, 357.
+
+Klingner, C. M., Denker, M., Grün, S., **Hanke, M.**, Oeltze-Jafra, S., Ohl, F.
+W., Radny, J., Rotter, S., Scherberger, H., Stein, A., Wachtler, T., Witte, O.
+W. & Ritter, P. (2023).  `Research Data Management and Data Sharing for
+Reproducible Research—Results of a Community Survey of the German National
+Research Data Infrastructure Initiative Neuroscience
+<https://doi.org/10.1523/ENEURO.0215-22.2023>`_. *eNeuro*, 10.
 
 Kaźmierowska, A. M., **Szczepanik, M.**, Wypych, M., Droździel, D.,
 Marchewka, A., Michałowski, J. M., Olsson, A., Knapska, E. (2022).
