@@ -8,7 +8,7 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
-**Wagner, A.S.** & **Hanke, M.** (2020)
+**Wagner, A.S.** & **Hanke, M.** (2023)
 `Datalad — An Introduction to Research Data Management
 <https://handbook.datalad.org/perma/book-intro-v1.html>`_. ISBN 979-8857037973
 
