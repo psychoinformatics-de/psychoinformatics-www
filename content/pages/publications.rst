@@ -15,10 +15,10 @@ Publications
 Zhao, C., Jarecka, D., Covitz, S., Chen, Y., Eickhoff, S. B., Fair, D. A.,
 Franco, A. R., Halchenko, Y. O., Hendrickson, T. J., Hoffstaedter, F.,
 Houghton, A., Kiar, G., Macdonald, A., Mehta, K., Milham, M. P., Salo, T.,
-**Hanke, M.**, Ghosh, S. S., Cieslak, M. & Satterthwaite T. D. (2023). `A
+**Hanke, M.**, Ghosh, S. S., Cieslak, M. & Satterthwaite T. D. (2024). `A
 reproducible and generalizable software workflow for analysis of large-scale
 neuroimaging data collections using BIDS Apps
-<https://doi.org/10.1101/2023.08.16.552472>`_. *bioRxiv*.
+<https://doi.org/10.1162/imag_a_00074>`_. *Imaging Neuroscience*.
 
 Kalantari, A., **Szczepanik, M.**, **Heunis, S.**, **Mönch, C.**, **Hanke,
 M.**, Wachtler, T. & Aswendt, M. (2023) `How to establish and maintain a
