@@ -14,6 +14,13 @@ Eickhoff, S. B. & **Hanke, M.** (2024).
 <https://juser.fz-juelich.de/record/1022544>`_. *preprint, submitted to
 Neuroinformatics*.
 
+Moia, S., ..., **Heunis, S.**, ..., **Hanke, M.**, ..., **Mönch, C.**, ...,
+**Muller-Rodriguez, L.**, ..., **Poldrack, P.**, ..., **Szczepanik, M.**, ...,
+**Wagner, A.S.**, **Waite, L.K.**, **Waite, A.Q.**, with 75 additional coauthors (2024)
+`Proceedings of the OHBM Brainhack 2022
+<https://doi.org/10.52294/001c.92760>`_.
+*Aperture Neuro*, 4.
+
 **Wagner, A.S.** & **Hanke, M.** (2023)
 `Datalad — An Introduction to Research Data Management
 <https://handbook.datalad.org/perma/book-intro-v1.html>`_. ISBN 979-8857037973
