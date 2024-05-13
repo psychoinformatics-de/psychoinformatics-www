@@ -11,8 +11,7 @@ Publications
 **Szczepanik, M.**, **Wagner, A.S.**, **Heunis, S.**, **Waite, L. K.**,
 Eickhoff, S. B. & **Hanke, M.** (2024).
 `Teaching research data management with DataLad: a multi-year, multi-domain effort
-<https://juser.fz-juelich.de/record/1022544>`_. *preprint, submitted to
-Neuroinformatics*.
+<https://doi.org/10.1007/s12021-024-09665-7>`_. *Neuroinformatics*.
 
 Moia, S., ..., **Heunis, S.**, ..., **Hanke, M.**, ..., **Mönch, C.**, ...,
 **Muller-Rodriguez, L.**, ..., **Poldrack, P.**, ..., **Szczepanik, M.**, ...,
