@@ -8,6 +8,17 @@ Publications
   <small>The names of lab members are in bold.</small>
   <div class="publications">
 
+Halchenko, Y. O., Goncalves, M., Ghosh, S., Velasco, P.,
+Visconti di Oleggio Castello, M., Salo, T., Wodder, J. T.,
+**Hanke, M.**, Sadil, P., Gorgolewski, K. J., Ioanas, H.,
+Rorden, C., Hendrickson, T. J., Dayan, M., Houlihan, S. D.,
+Kent, J., Strauss, T., Lee, J., To, I., Markiewicz, C. J.,
+Lukas, D., Butler, E. R., Thompson, T., Termenon, M.,
+Smith, D. V., Macdonald, A. & David N. Kennedy, D. N.
+(2024). `HeuDiConv — flexible DICOM conversion into
+structured directory layouts <https://doi.org/10.21105/joss.05839>`__.
+*Journal of Open Source Software*, 9(99), 5839.
+
 **Szczepanik, M.**, **Wagner, A.S.**, **Heunis, S.**, **Waite, L. K.**,
 Eickhoff, S. B. & **Hanke, M.** (2024).
 `Teaching research data management with DataLad: a multi-year, multi-domain effort
